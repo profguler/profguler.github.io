@@ -22,7 +22,7 @@ repository               : "profguler/profguler.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "/images/Profile.jpg"
+  avatar: "Profile.jpg"
   name: "Mehmet A. Guler"
   bio: "Computational Mechanics | Contact Mechanics | Engineering Design"
   location: "Christiansburg, Virginia, USA"
