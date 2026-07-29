@@ -1,50 +1,43 @@
 ---
 permalink: /
-title: "Mehmet A. Guler"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="margin-bottom:1.2rem;">
+<div style="margin-bottom:1.5rem;">
 
-<div style="font-size:1.45rem;font-weight:700;line-height:1.2;margin-bottom:0.4rem;">
-Mehmet A. Guler
-</div>
-
-<div style="font-size:1.08rem;font-weight:600;margin-bottom:0.8rem;">
+<div style="font-size:1.35rem;font-weight:700;margin-bottom:0.4rem;">
 Professor of Mechanical Engineering, AUM
 </div>
 
-<div style="font-size:0.98rem;font-style:italic;line-height:1.5;">
+<div style="font-size:1.0rem;font-style:italic;color:#555;">
 Computational Mechanics • Contact Mechanics • Engineering Design • Finite Element Analysis
 </div>
 
 </div>
 
-<hr style="margin:1.1rem 0 1.3rem 0;">
-
-<div style="font-size:1rem;line-height:1.6;margin-bottom:1.4rem;">
-Welcome to my academic website.
-</div>
+<hr style="margin:1.4rem 0 1.8rem 0;">
 
 <div style="
 display:grid;
-grid-template-columns:repeat(3, minmax(150px, 1fr));
-gap:14px;
-max-width:850px;
+grid-template-columns:repeat(3, minmax(180px,1fr));
+gap:18px;
+max-width:900px;
 ">
 
 <a href="/research/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Research
 </div>
@@ -52,13 +45,14 @@ Research
 
 <a href="/teaching/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Teaching
 </div>
@@ -66,13 +60,14 @@ Teaching
 
 <a href="/publications/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Publications
 </div>
@@ -80,13 +75,14 @@ Publications
 
 <a href="/projects/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Engineering Projects
 </div>
@@ -94,13 +90,14 @@ Engineering Projects
 
 <a href="/service/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Professional Activities
 </div>
@@ -108,13 +105,14 @@ Professional Activities
 
 <a href="/cv/" style="text-decoration:none;">
 <div style="
-border:1px solid #c9c9c9;
-border-radius:999px;
-padding:13px 18px;
+padding:14px 18px;
 text-align:center;
-font-size:1rem;
+border:1px solid #d0d0d0;
+border-radius:999px;
+font-size:1.05rem;
 font-weight:600;
-background:#fafafa;
+background:#ffffff;
+color:#2b7da8;
 ">
 Curriculum Vitae
 </div>
