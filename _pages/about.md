@@ -15,68 +15,54 @@ redirect_from:
 
 ---
 
-## Welcome
-
 Welcome to my academic website.
 
-My research focuses on computational mechanics, contact mechanics, finite element analysis, structural stability, crashworthiness, and engineering design. My teaching emphasizes strong engineering fundamentals integrated with computational tools and real-world applications.
+Please explore the sections below to learn more about my research, teaching, publications, engineering projects, professional activities, and curriculum vitae.
 
-This website provides an overview of my research, teaching, publications, professional activities, and engineering projects.
+<br>
 
----
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;">
 
-# Explore
+<a href="/research/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+🔬<br><br>
+Research
+</div>
+</a>
 
-## 🔬 Research
+<a href="/teaching/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+🎓<br><br>
+Teaching
+</div>
+</a>
 
-Computational mechanics, contact mechanics, crashworthiness, structural stability, thin films, and current research projects.
+<a href="/publications/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+📚<br><br>
+Publications
+</div>
+</a>
 
-**→ Visit the Research page**
+<a href="/projects/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+⚙️<br><br>
+Projects
+</div>
+</a>
 
----
+<a href="/service/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+👨‍💼<br><br>
+Professional Activities
+</div>
+</a>
 
-## 🎓 Teaching
+<a href="/cv/" style="text-decoration:none;">
+<div style="border:1px solid #d9d9d9;border-radius:10px;padding:22px;text-align:center;font-size:1.2em;font-weight:600;background:#fafafa;">
+📄<br><br>
+Curriculum Vitae
+</div>
+</a>
 
-Teaching philosophy, undergraduate and graduate courses, capstone projects, student mentoring, and instructional materials.
-
-**→ Visit the Teaching page**
-
----
-
-## 📚 Publications
-
-Journal articles, conference papers, book chapters, citation metrics, and research impact.
-
-**→ Visit the Publications page**
-
----
-
-## ⚙️ Engineering Projects
-
-Representative engineering projects from academia and industry, including computational mechanics, crashworthiness, and finite element analysis.
-
-**→ Visit the Projects page**
-
----
-
-## 👨‍💼 Professional Activities
-
-Editorial appointments, journal reviewing, professional service, ABET activities, invited talks, and professional memberships.
-
-**→ Visit the Professional Activities page**
-
----
-
-## 📄 Curriculum Vitae
-
-Download my current academic CV.
-
-**→ View CV**
-
----
-
-# Recent News
-
-- Personal academic website launched.
-- Ongoing research in contact mechanics and computational mechanics.
-- Current projects in crashworthiness, thin-film buckling, and structural stability.
+</div>
