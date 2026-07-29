@@ -23,8 +23,8 @@ repository               : "profguler/profguler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "/images/Profile.jpg"
-  name: ""
-  bio: "Professor of Mechanical Engineering | Computational Mechanics | Engineering Design"
+  name: "Mehmet A. Guler"
+  bio: "Computational Mechanics | Contact Mechanics | Engineering Design"
   location: "Christiansburg, Virginia, USA"
   employer: "AUM, Kuwait"
 
@@ -37,9 +37,9 @@ author:
   orcid            : "https://orcid.org/0000-0002-1159-556X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Mehmet-Guler" # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=12787816400" # URL
   zotero           : # URL
 
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
