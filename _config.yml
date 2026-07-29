@@ -23,7 +23,7 @@ repository               : "profguler/profguler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "profile.jpg"
-  name: "Mehmet A. Guler"
+  name: ""
   bio: "Professor of Mechanical Engineering | Computational Mechanics | Engineering Design"
   location: "Christiansburg, Virginia, USA"
   employer: "AUM, Kuwait"
