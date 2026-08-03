@@ -38,10 +38,12 @@
     "layout/json_cv"
 ;
 @media screen and (max-width: 520px) {
-  .author__profile,
-  .author__avatar,
   .author__content,
   .author__urls-wrapper {
     display: none !important;
+  }
+
+  .author__avatar {
+    display: block !important;
   }
 }
