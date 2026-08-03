@@ -9,12 +9,16 @@ redirect_from:
 
 <div style="margin-bottom:1.6rem;">
 
-<div style="font-size:1.35rem;font-weight:700;margin-bottom:0.45rem;">
-Professor of Mechanical Engineering, AUM
+<div style="font-size:1.35rem;font-weight:700;margin-bottom:0.25rem;">
+Professor of Mechanical Engineering
 </div>
 
-<div style="font-size:1rem;font-style:italic;color:#555;">
-Computational Mechanics • Contact Mechanics • Engineering Design • Finite Element Analysis
+<div style="font-size:1.05rem;font-weight:600;color:#555;margin-bottom:0.55rem;">
+American University of the Middle East
+</div>
+
+<div style="font-size:1rem;font-style:italic;color:#666;">
+Computational Mechanics • Contact Mechanics • Finite Element Analysis • Structural Stability • Crashworthiness
 </div>
 
 </div>
