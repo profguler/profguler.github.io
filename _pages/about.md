@@ -14,7 +14,7 @@ Professor of Mechanical Engineering
 </div>
 
 <div style="font-size:1.05rem;font-weight:600;color:#555;margin-bottom:0.55rem;">
-American University of the Middle East
+American University of the Middle East (AUM)
 </div>
 
 <div style="font-size:1rem;font-style:italic;color:#666;">
