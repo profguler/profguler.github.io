@@ -25,113 +25,92 @@ Computational Mechanics • Contact Mechanics • Finite Element Analysis • St
 
 <hr style="margin:1.5rem 0 2rem 0;">
 
-<div style="
-display:grid;
-grid-template-columns:repeat(3, 1fr);
-gap:20px;
-max-width:900px;
-">
+<style>
+.home-button-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  max-width: 900px;
+}
 
-<a href="/teaching/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
+.home-button {
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 1rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #2c7fa8 !important;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none !important;
+  box-sizing: border-box;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.home-button:hover {
+  background: #2c7fa8;
+  color: #ffffff !important;
+  border-color: #2c7fa8;
+  transform: translateY(-1px);
+}
+
+/* Tablet */
+@media screen and (max-width: 800px) {
+  .home-button-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 520px) {
+  .home-button-grid {
+    grid-template-columns: 1fr;
+    gap: 11px;
+  }
+
+  .home-button {
+    width: 100%;
+    min-height: 46px;
+    padding: 0.6rem 0.85rem;
+    font-size: 0.96rem;
+  }
+}
+</style>
+
+<div class="home-button-grid">
+
+<a class="home-button" href="/teaching/">
 Teaching &amp; Mentoring
-</div>
 </a>
 
-<a href="/projects/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
-Projects
-</div>
+<a class="home-button" href="/projects/">
+Engineering Projects
 </a>
 
-<a href="/service/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
+<a class="home-button" href="/service/">
 Professional Activities
-</div>
 </a>
 
-<a href="/research/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
+<a class="home-button" href="/research/">
 Research
-</div>
 </a>
 
-<a href="/publications/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
+<a class="home-button" href="/publications/">
 Publications
-</div>
 </a>
 
-<a href="/cv/" style="text-decoration:none;">
-<div style="
-height:58px;
-display:flex;
-align-items:center;
-justify-content:center;
-border:1px solid #d2d2d2;
-border-radius:999px;
-background:#ffffff;
-font-size:1.05rem;
-font-weight:600;
-color:#2c7fa8;
-">
+<a class="home-button" href="/cv/">
 Curriculum Vitae
-</div>
 </a>
 
 </div>
