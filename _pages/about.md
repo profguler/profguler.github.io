@@ -72,12 +72,31 @@ Computational Mechanics • Contact Mechanics • Finite Element Analysis • St
 }
 
 /* Mobile */
+<style>
 @media screen and (max-width: 520px) {
-  .home-button-grid {
-    grid-template-columns: 1fr;
-    gap: 11px;
+
+  /* Reduce the homepage title size on phones */
+  .page__content > div:first-of-type > div:first-child {
+    font-size: 1.1rem !important;
+    line-height: 1.25 !important;
   }
 
+  /* Reduce university line slightly */
+  .page__content > div:first-of-type > div:nth-child(2) {
+    font-size: 0.92rem !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Make research areas more compact */
+  .page__content > div:first-of-type > div:nth-child(3) {
+    font-size: 0.88rem !important;
+    line-height: 1.45 !important;
+  }
+
+  /* Reduce spacing before the buttons */
+  .page__content hr {
+    margin: 1.1rem 0 1.35rem 0 !important;
+  }
   .home-button {
     width: 100%;
     min-height: 46px;
