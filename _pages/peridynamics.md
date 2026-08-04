@@ -115,26 +115,35 @@ author_profile: true
 }
 
 .publication-title{
-  color:#2c7fa8;
+  margin-bottom:0.3rem;
   font-weight:700;
+}
+
+.publication-title a{
+  color:#2c7fa8;
+  text-decoration:none;
+  transition:color 0.2s ease;
+}
+
+.publication-title a:hover{
+  color:#1f5f80;
+  text-decoration:underline;
+}
+
+.publication-title a:focus{
+  outline:2px solid #2c7fa8;
+  outline-offset:3px;
 }
 
 .publication-authors{
   color:#555;
+  line-height:1.6;
 }
 
 .publication-journal{
   color:#666;
   font-style:italic;
-}
-
-.publication-doi a{
-  color:#2c7fa8;
-  text-decoration:none;
-}
-
-.publication-doi a:hover{
-  text-decoration:underline;
+  line-height:1.6;
 }
 
 /* ========================================================= */
@@ -361,7 +370,6 @@ Peridynamic representation of a double cantilever beam containing an initial cra
   </p>
 
 </div>
-
 <!-- ========================================================= -->
 <!--               REPRESENTATIVE PUBLICATIONS                 -->
 <!-- ========================================================= -->
@@ -370,50 +378,101 @@ Peridynamic representation of a double cantilever beam containing an initial cra
 
   <h2>Representative Publications</h2>
 
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 1                                           -->
+  <!-- ------------------------------------------------------- -->
+
   <div class="publication">
 
     <div class="publication-title">
-      Crack propagation in the double cantilever beam using peridynamic theory
+
+      <a
+        href="https://doi.org/10.1016/j.compstruct.2022.116050"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        Crack propagation in the double cantilever beam using peridynamic theory
+
+      </a>
+
     </div>
 
     <div class="publication-authors">
+
       U. Yolum, M. O. Bozkurt, E. Gök, D. Coker, and M. A. Güler
+
     </div>
 
     <div class="publication-journal">
-      Composite Structures, 2022, 116050
+
+      Composite Structures, 299, 116050, 2022
+
     </div>
 
   </div>
 
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 2                                           -->
+  <!-- ------------------------------------------------------- -->
+
   <div class="publication">
 
     <div class="publication-title">
-      Intersonic shear crack propagation using peridynamic theory
+
+      <a
+        href="https://doi.org/10.1007/s10704-021-00520-3"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        Intersonic shear crack propagation using peridynamic theory
+
+      </a>
+
     </div>
 
     <div class="publication-authors">
+
       U. Yolum, D. Coker, and M. A. Güler
+
     </div>
 
     <div class="publication-journal">
-      International Journal of Fracture, 228, 103–126, 2021
+
+      International Journal of Fracture, 228(1–2), 103–126, 2021
+
     </div>
 
   </div>
 
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 3                                           -->
+  <!-- ------------------------------------------------------- -->
+
   <div class="publication">
 
     <div class="publication-title">
-      On the peridynamic formulation for an orthotropic Mindlin plate under bending
+
+      <a
+        href="https://doi.org/10.1177/1081286519873694"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        On the peridynamic formulation for an orthotropic Mindlin plate under bending
+
+      </a>
+
     </div>
 
     <div class="publication-authors">
+
       U. Yolum and M. A. Güler
+
     </div>
 
     <div class="publication-journal">
+
       Mathematics and Mechanics of Solids, 25(2), 263–287, 2020
+
     </div>
 
   </div>
@@ -429,7 +488,9 @@ Peridynamic representation of a double cantilever beam containing an initial cra
   <h2>Collaborations</h2>
 
   <p>
-  This research has involved collaboration with researchers specializing in peridynamics, computational fracture mechanics, composite materials, nonlinear dynamics, and finite element implementation.
+
+  This research has been conducted through collaborations with researchers in computational mechanics, fracture mechanics, peridynamic theory, composite materials, and finite element analysis. These collaborations have resulted in the development of novel nonlocal formulations for fracture and delamination, efficient computational implementations, and applications to layered and composite structural systems.
+
   </p>
 
 </div>
@@ -443,7 +504,9 @@ Peridynamic representation of a double cantilever beam containing an initial cra
   <h2>Future Directions</h2>
 
   <p>
-  Future research will focus on computationally efficient peridynamic formulations, hybrid finite element–peridynamic methods, multiscale damage modeling, fatigue crack growth, and data-assisted fracture prediction. These developments will support applications in composite structures, aerospace systems, impact-damaged components, and advanced layered materials.
+
+  Future research will focus on hybrid finite element–peridynamic formulations, multiscale fracture modeling, fatigue crack growth, impact-induced damage in composite structures, adaptive numerical algorithms, and AI-assisted computational fracture mechanics. Particular emphasis will be placed on improving computational efficiency while preserving the predictive capabilities of nonlocal continuum models for large-scale engineering applications.
+
   </p>
 
 </div>
