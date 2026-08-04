@@ -311,6 +311,12 @@ Explore research →
 
 <a class="research-card" href="/research/structural-stability/">
 
+<img
+  class="research-card-image"
+  src="/images/Vierendeel_JBE.png"
+  alt="Vierendeel mechanism in a perforated beam"
+>
+
 <div class="research-card-body">
 
 <h2>Structural Stability and Buckling</h2>
