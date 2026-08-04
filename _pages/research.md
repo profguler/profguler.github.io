@@ -332,17 +332,23 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 7: COMPUTATIONAL MECHANICS AND FEA                  -->
+<!-- CARD 7: COMPUTATIONAL MECHANICS                          -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/research/computational-mechanics/">
 
+  <img
+    class="research-card-image"
+    src="/images/One_way_FSI.png"
+    alt="Computational fluid-structure interaction workflow"
+  >
+
   <div class="research-card-body">
 
-    <h2>Computational Mechanics /h2>
+    <h2>Computational Mechanics</h2>
 
     <p>
-    Nonlinear finite element methods, structural simulation, manufacturing mechanics, multiphysics analysis, model verification, optimization, and simulation-driven engineering design.
+    Numerical methods, finite element analysis, nonlinear simulation, multiphysics modeling, optimization, verification, and simulation-driven engineering design.
     </p>
 
     <div class="research-link">
@@ -354,7 +360,7 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 8: PUBLICATIONS                                      -->
+<!-- CARD 8: PUBLICATIONS                                     -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/publications/">
