@@ -247,6 +247,11 @@ Explore research →
 <!-- ========================================================= -->
 
 <a class="research-card" href="/research/crashworthiness/">
+  
+<img
+class="research-card-image"
+src="/images/Crashbox_corrugation_JBSME.png"
+alt="Thin-film system with graded bonding layer">
 
 <div class="research-card-body">
 
