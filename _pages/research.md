@@ -26,9 +26,9 @@ author_profile: true
 .research-card {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   min-height: 180px;
-  padding: 1.4rem;
+  padding: 0;
+  overflow: hidden;
   border: 1px solid #d8d8d8;
   border-radius: 14px;
   background: #ffffff;
@@ -61,8 +61,26 @@ author_profile: true
   color: #555;
 }
 
+  .research-card-image {
+  width: 100%;
+  height: 210px;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.research-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1.25rem;
+}
+
 .research-link {
-  margin-top: 1rem;
+  margin-top: auto;
+  padding-top: 1rem;
   font-size: 0.92rem;
   font-weight: 600;
   color: #2c7fa8;
@@ -99,13 +117,25 @@ The research activities are organized into six principal themes.
 <div class="research-grid">
 
 <a class="research-card" href="/research/contact-mechanics/">
-<div>
+
+<img
+  class="research-card-image"
+  src="/images/Pin_hole_contact.png"
+  alt="Rigid pin in a couple-stress elastic plane"
+>
+
+<div class="research-card-body">
+
 <h2>Computational Contact Mechanics</h2>
+
 <p>
 Analytical and computational formulations for contact problems involving elastic, graded, layered, and generalized continuum materials, including frictional contact and pin-loaded structures.
 </p>
+
+<div class="research-link">Explore research →</div>
+
 </div>
-<div class="research-link">Learn more →</div>
+
 </a>
 
 <a class="research-card" href="/research/thin-film-mechanics/">
