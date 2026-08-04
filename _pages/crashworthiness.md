@@ -180,7 +180,7 @@ columns:1;
 <div class="research-banner">
 
 <img
-src="/images/Crashbox_corrugation.png"
+src="/images/Crashbox_corrugation_JBSME.png"
 alt="Corrugated multi-cell crash boxes">
 
 </div>
