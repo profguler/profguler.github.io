@@ -279,6 +279,12 @@ Explore research →
 
 <a class="research-card" href="/research/thermal-contact/">
 
+<img
+  class="research-card-image"
+  src="/images/Asperity_IJSS.png"
+  alt="Rough surface contact and asperity heat transfer"
+>
+
 <div class="research-card-body">
 
 <h2>Thermal Contact Resistance</h2>
