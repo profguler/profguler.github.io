@@ -339,7 +339,7 @@ author_profile: true
 
   <div class="research-card-body">
 
-    <h2>Computational Mechanics and Finite Element Analysis</h2>
+    <h2>Computational Mechanics /h2>
 
     <p>
     Nonlinear finite element methods, structural simulation, manufacturing mechanics, multiphysics analysis, model verification, optimization, and simulation-driven engineering design.
