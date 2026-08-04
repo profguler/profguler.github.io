@@ -7,8 +7,8 @@ author_profile: true
 <style>
 .research-banner {
   width: 100%;
-  max-width: 850px;
-  margin: 0 0 1.5rem;
+  max-width: 900px;
+  margin: 0 0 2rem 0;
   border: 1px solid #dddddd;
   border-radius: 12px;
   overflow: hidden;
@@ -19,30 +19,32 @@ author_profile: true
   display: block;
   width: 100%;
   height: auto;
-  max-height: 430px;
-  object-fit: contain;
 }
 
 .research-section {
-  max-width: 850px;
-  margin-bottom: 1.8rem;
+  max-width: 900px;
+  margin-bottom: 2rem;
 }
 
 .research-section h2 {
-  margin-bottom: 0.65rem;
   color: #2c7fa8;
+  margin-bottom: 0.75rem;
 }
 
 .research-section p,
 .research-section li {
-  font-size: 0.98rem;
-  line-height: 1.65;
+  font-size: 1rem;
+  line-height: 1.7;
   color: #555;
 }
 
 .research-topics {
   columns: 2;
-  column-gap: 2rem;
+  column-gap: 3rem;
+}
+
+.research-topics ul {
+  margin-top: 0;
 }
 
 .back-link {
@@ -50,50 +52,75 @@ author_profile: true
   font-weight: 600;
 }
 
-@media screen and (max-width: 700px) {
-  .research-topics {
-    columns: 1;
-  }
+.back-link a {
+  color: #2c7fa8;
+  text-decoration: none;
+}
 
-  .research-banner img {
-    max-height: none;
-  }
+.back-link a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width:700px){
+
+.research-topics{
+columns:1;
+}
+
 }
 </style>
 
 <div class="research-banner">
-<img
-  src="/images/Pin_hole_contact.png"
-  alt="Rigid pin in a couple-stress elastic plane"
->
+<img src="/images/Pin_hole_contact.png" alt="Pin-hole contact problem">
 </div>
 
 <div class="research-section">
 
-## Overview
+<h2>Overview</h2>
 
-My research in computational contact mechanics focuses on analytical and numerical formulations for contact problems involving classical and generalized continuum theories. Particular emphasis is placed on couple-stress elasticity, functionally graded materials, layered media, frictional contact, and pin-loaded structural connections.
+<p>
+My research in computational contact mechanics focuses on the development of analytical and computational formulations for contact problems involving classical elasticity and generalized continuum theories. Particular emphasis is placed on couple-stress elasticity, functionally graded materials, layered media, frictional contact, and pin-loaded structural connections.
+</p>
 
-These studies combine rigorous mathematical analysis with numerical and finite element methods to better understand contact pressure, stress concentration, singular behavior, size effects, and the mechanical response of advanced engineering materials.
+<p>
+These studies combine rigorous mathematical analysis with numerical methods and finite element simulations to investigate contact pressure distributions, stress concentrations, size-dependent effects, and the mechanical behavior of advanced engineering materials and structural systems.
+</p>
 
 </div>
 
 <div class="research-section">
 
-## Research Topics
+<h2>Research Topics</h2>
 
 <div class="research-topics">
 
-- Couple-stress elasticity
-- Pin-loaded holes and mechanical joints
-- Functionally graded materials
-- Frictional and partial-slip contact
-- Layered and coated media
-- Size-dependent mechanics
-- Analytical elasticity
-- Singular integral equations
-- Spectral solution methods
-- Finite element verification
+<ul>
+
+<li>Computational contact mechanics</li>
+
+<li>Couple-stress elasticity</li>
+
+<li>Pin-loaded holes and mechanical joints</li>
+
+<li>Functionally graded materials</li>
+
+<li>Layered and coated media</li>
+
+<li>Frictional and partial-slip contact</li>
+
+<li>Analytical elasticity</li>
+
+<li>Stress singularities</li>
+
+<li>Singular integral equations</li>
+
+<li>Spectral numerical methods</li>
+
+<li>Finite element verification</li>
+
+<li>Size-dependent mechanics</li>
+
+</ul>
 
 </div>
 
@@ -101,44 +128,72 @@ These studies combine rigorous mathematical analysis with numerical and finite e
 
 <div class="research-section">
 
-## Current Research
+<h2>Selected Contributions</h2>
 
-Current work includes the development of refined pin–hole contact formulations in couple-stress elasticity, including the transmission of couple tractions across the contact interface and the influence of material length scale on the contact response.
+<ul>
 
-Ongoing extensions address frictional contact, full-slip behavior, generalized loading conditions, and comparison with classical elasticity and finite element solutions.
+<li>Developed analytical solutions for pin-loaded holes with clearance.</li>
 
-</div>
+<li>Investigated size effects using couple-stress elasticity.</li>
 
-<div class="research-section">
+<li>Studied contact behavior of functionally graded and layered materials.</li>
 
-## Selected Contributions
+<li>Analyzed stress singularities in engineering contact problems.</li>
 
-- Development of analytical models for pin-loaded holes with clearance.
-- Investigation of microstructural length-scale effects in couple-stress elasticity.
-- Contact analysis of functionally graded coatings and layered solids.
-- Study of stress singularities and interfacial behavior in advanced materials.
-- Combination of analytical mechanics with numerical and finite element verification.
+<li>Validated analytical solutions using finite element simulations.</li>
+
+</ul>
 
 </div>
 
 <div class="research-section">
 
-## Collaborators
+<h2>Current Research</h2>
 
-My work in this area has included collaboration with researchers specializing in generalized continuum mechanics, contact mechanics, elasticity, and structural analysis.
+<p>
+Current research focuses on developing refined pin-hole contact formulations within couple-stress elasticity, including the transmission of couple tractions across the contact interface and the influence of material characteristic length on the mechanical response.
+</p>
+
+<p>
+Ongoing work extends these formulations to frictional contact, full-slip conditions, generalized loading, and comparisons with classical elasticity and finite element solutions.
+</p>
 
 </div>
 
 <div class="research-section">
 
-## Future Directions
+<h2>Collaborators</h2>
 
-Future research will extend these formulations toward friction, wear, surface elasticity, multiphysics contact, and data-assisted computational mechanics. These developments will support the analysis of mechanical joints, thin films, microstructured materials, and small-scale engineering systems.
+<p>
+This research has been conducted through collaborations with leading researchers in contact mechanics, generalized continuum mechanics, elasticity, and computational structural analysis.
+</p>
 
 </div>
+
+<div class="research-section">
+
+<h2>Representative Publications</h2>
+
+<p>
+Selected journal publications related to computational contact mechanics will be listed here with direct links to the published articles.
+</p>
+
+</div>
+
+<div class="research-section">
+
+<h2>Future Directions</h2>
+
+<p>
+Future work will extend these formulations toward frictional contact, wear, surface elasticity, multiphysics interactions, and AI-assisted computational mechanics. These developments will support the analysis and design of mechanical joints, thin films, microstructured materials, and next-generation engineering systems.
+</p>
+
+</div>
+
+<hr>
 
 <div class="back-link">
 
-[← Back to Research](/research/)
+<a href="/research/">← Back to Research</a>
 
 </div>
