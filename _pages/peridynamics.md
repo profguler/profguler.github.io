@@ -36,6 +36,7 @@ author_profile: true
   text-align:center;
   font-size:0.9rem;
   font-style:italic;
+  line-height:1.5;
   color:#666;
 }
 
@@ -44,145 +45,135 @@ author_profile: true
 /* ========================================================= */
 
 .research-highlights{
-
   display:grid;
-  grid-template-columns:repeat(3,1fr);
+  grid-template-columns:repeat(3, minmax(0, 1fr));
   gap:18px;
-
   max-width:900px;
   margin-bottom:2.5rem;
-
 }
 
 .highlight-box{
-
   padding:18px;
-
   border:1px solid #dddddd;
   border-radius:12px;
-
   background:#fafafa;
-
   text-align:center;
-
+  box-sizing:border-box;
 }
 
 .highlight-title{
-
   margin-bottom:8px;
-
   font-size:1rem;
   font-weight:700;
-
   color:#2c7fa8;
-
 }
 
 .highlight-text{
-
   font-size:0.93rem;
   line-height:1.6;
-
   color:#555;
-
 }
 
 /* ========================================================= */
-/*                  CONTENT SECTIONS                          */
+/*                    CONTENT SECTIONS                        */
 /* ========================================================= */
 
 .research-section{
-
+  display:block;
+  width:100%;
   max-width:900px;
+  clear:both;
   margin-bottom:2.5rem;
-
+  box-sizing:border-box;
 }
 
 .research-section h2{
-
-  margin-bottom:0.75rem;
+  margin:0 0 0.75rem;
   padding-bottom:0.35rem;
-
   border-bottom:2px solid #eeeeee;
-
   color:#2c7fa8;
-
 }
 
 .research-section p,
 .research-section li{
-
   font-size:1rem;
   line-height:1.75;
-
   color:#555;
-
-}
-
-.research-topics{
-
-  columns:2;
-  column-gap:3rem;
-
-}
-
-.research-topics ul{
-
-  margin-top:0;
-
 }
 
 /* ========================================================= */
-/*                PUBLICATION ENTRIES                         */
+/*                    RESEARCH TOPICS                         */
+/* ========================================================= */
+
+.research-topics{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  width:100%;
+  margin-top:1rem;
+}
+
+.research-topic{
+  display:inline-block;
+  padding:8px 15px;
+  border:1px solid #d7e7f0;
+  border-radius:999px;
+  background:#eef6fb;
+  color:#2c7fa8;
+  font-size:0.9rem;
+  font-weight:600;
+  line-height:1.3;
+}
+
+/* ========================================================= */
+/*                    PUBLICATIONS                            */
 /* ========================================================= */
 
 .research-publication{
-
+  position:relative;
+  z-index:1;
   margin-bottom:1.5rem;
   padding-bottom:1rem;
-
   border-bottom:1px solid #eeeeee;
-
 }
 
 .research-publication-title{
-
+  position:relative;
+  z-index:2;
   margin-bottom:0.35rem;
-
   font-weight:700;
-
+  line-height:1.5;
 }
 
 .research-publication-title a{
-
-  color:#2c7fa8;
-
-  text-decoration:none;
-
+  position:relative;
+  z-index:3;
+  display:inline;
+  color:#2c7fa8 !important;
+  text-decoration:none !important;
+  cursor:pointer;
+  pointer-events:auto !important;
 }
 
 .research-publication-title a:hover{
+  color:#1f5f80 !important;
+  text-decoration:underline !important;
+}
 
-  text-decoration:underline;
-
+.research-publication-title a:focus{
+  outline:2px solid #2c7fa8;
+  outline-offset:3px;
 }
 
 .research-publication-authors{
-
   color:#555;
-
   line-height:1.6;
-
 }
 
 .research-publication-journal{
-
   color:#666;
-
   font-style:italic;
-
   line-height:1.6;
-
 }
 
 /* ========================================================= */
@@ -190,49 +181,36 @@ author_profile: true
 /* ========================================================= */
 
 .back-button{
-
   display:inline-block;
-
   margin-top:1rem;
-
   padding:10px 24px;
-
   border:1px solid #2c7fa8;
   border-radius:999px;
-
   color:#2c7fa8;
-
   text-decoration:none;
-
   font-weight:600;
-
   transition:0.2s;
-
 }
 
 .back-button:hover{
-
   background:#2c7fa8;
-  color:white;
-
+  color:#ffffff;
+  text-decoration:none;
 }
 
 /* ========================================================= */
-/*                     MOBILE                                 */
+/*                    MOBILE DESIGN                           */
 /* ========================================================= */
 
 @media screen and (max-width:700px){
 
   .research-highlights{
-
     grid-template-columns:1fr;
-
+    gap:12px;
   }
 
-  .research-topics{
-
-    columns:1;
-
+  .research-topic{
+    font-size:0.86rem;
   }
 
 }
@@ -240,14 +218,15 @@ author_profile: true
 </style>
 
 <!-- ========================================================= -->
-<!--                     HERO IMAGE                            -->
+<!--                    HERO IMAGE                             -->
 <!-- ========================================================= -->
 
 <div class="research-banner">
 
-<img
-src="/images/Peridynamics_DCB.png"
-alt="Peridynamic double cantilever beam model">
+  <img
+    src="/images/Peridynamics_DCB.png"
+    alt="Peridynamic double cantilever beam model"
+  >
 
 </div>
 
@@ -258,54 +237,46 @@ Peridynamic representation of a double cantilever beam with an initial crack and
 </div>
 
 <!-- ========================================================= -->
-<!--                     HIGHLIGHTS                            -->
+<!--                    HIGHLIGHTS                             -->
 <!-- ========================================================= -->
 
 <div class="research-highlights">
 
-<div class="highlight-box">
+  <div class="highlight-box">
 
-<div class="highlight-title">
+    <div class="highlight-title">
+      Nonlocal Mechanics
+    </div>
 
-Nonlocal Mechanics
+    <div class="highlight-text">
+      Development of peridynamic formulations for solids containing cracks, interfaces, and other discontinuities.
+    </div>
 
-</div>
+  </div>
 
-<div class="highlight-text">
+  <div class="highlight-box">
 
-Development of peridynamic formulations for solids containing cracks, interfaces, and other discontinuities.
+    <div class="highlight-title">
+      Computational Fracture
+    </div>
 
-</div>
+    <div class="highlight-text">
+      Simulation of crack initiation, crack growth, branching, and delamination without remeshing.
+    </div>
 
-</div>
+  </div>
 
-<div class="highlight-box">
+  <div class="highlight-box">
 
-<div class="highlight-title">
+    <div class="highlight-title">
+      Composite Structures
+    </div>
 
-Computational Fracture
+    <div class="highlight-text">
+      Modeling of orthotropic materials, laminated composites, and interface failure using nonlocal mechanics.
+    </div>
 
-</div>
-
-<div class="highlight-text">
-
-Simulation of crack initiation, crack growth, branching, and delamination without remeshing.
-
-</div>
-
-</div>
-
-<div class="highlight-box">
-
-<div class="highlight-title">
-
-Composite Structures
-
-</div>
-
-<div class="highlight-text">
-
-Modeling of orthotropic materials, laminated composites, and interface failure using nonlocal mechanics.
+  </div>
 
 </div>
 <!-- ========================================================= -->
@@ -314,19 +285,15 @@ Modeling of orthotropic materials, laminated composites, and interface failure u
 
 <div class="research-section">
 
-<h2>Overview</h2>
+  <h2>Overview</h2>
 
-<p>
+  <p>
+  My research in peridynamics focuses on the development and application of nonlocal computational methods for fracture, damage, and failure analysis. Unlike classical continuum mechanics, peridynamic theory replaces spatial derivatives with integral equations, allowing discontinuities such as cracks to emerge naturally without requiring special crack-tip treatments or remeshing.
+  </p>
 
-My research in peridynamics focuses on the development and application of nonlocal computational methods for fracture, damage, and failure analysis. Unlike classical continuum mechanics, peridynamic theory replaces spatial derivatives with integral equations, allowing discontinuities such as cracks to emerge naturally without requiring special crack-tip treatments or remeshing.
-
-</p>
-
-<p>
-
-The research combines theoretical formulation, numerical implementation, and computational simulation to investigate fracture in isotropic and orthotropic materials, composite laminates, layered structures, and engineering components. Particular emphasis is placed on crack initiation, crack propagation, delamination, and dynamic fracture, where conventional finite element methods often require sophisticated remeshing or enrichment techniques.
-
-</p>
+  <p>
+  The research combines theoretical formulation, numerical implementation, and computational simulation to investigate fracture in isotropic and orthotropic materials, composite laminates, layered structures, and engineering components. Particular emphasis is placed on crack initiation, crack propagation, delamination, and dynamic fracture, where conventional finite element methods often require sophisticated remeshing or enrichment techniques.
+  </p>
 
 </div>
 
@@ -336,45 +303,41 @@ The research combines theoretical formulation, numerical implementation, and com
 
 <div class="research-section">
 
-<h2>Research Topics</h2>
+  <h2>Research Topics</h2>
 
-<div class="research-topics">
+  <div class="research-topics">
 
-<ul>
+    <span class="research-topic">Peridynamic Theory</span>
 
-<li>Peridynamic theory</li>
+    <span class="research-topic">Computational Fracture Mechanics</span>
 
-<li>Computational fracture mechanics</li>
+    <span class="research-topic">Crack Initiation</span>
 
-<li>Crack initiation</li>
+    <span class="research-topic">Crack Propagation</span>
 
-<li>Crack propagation</li>
+    <span class="research-topic">Composite Delamination</span>
 
-<li>Composite delamination</li>
+    <span class="research-topic">Dynamic Fracture</span>
 
-<li>Dynamic fracture</li>
+    <span class="research-topic">Double Cantilever Beam Analysis</span>
 
-<li>Double cantilever beam analysis</li>
+    <span class="research-topic">Orthotropic Materials</span>
 
-<li>Orthotropic materials</li>
+    <span class="research-topic">Mindlin Plate Theory</span>
 
-<li>Mindlin plate theory</li>
+    <span class="research-topic">Intersonic Shear Cracks</span>
 
-<li>Intersonic shear cracks</li>
+    <span class="research-topic">Nonlocal Continuum Mechanics</span>
 
-<li>Nonlocal continuum mechanics</li>
+    <span class="research-topic">Layered Composite Structures</span>
 
-<li>Layered composite structures</li>
+    <span class="research-topic">Interface Elements</span>
 
-<li>Interface elements</li>
+    <span class="research-topic">Finite Element–Peridynamic Coupling</span>
 
-<li>Finite element–peridynamic coupling</li>
+    <span class="research-topic">Scientific Computing</span>
 
-<li>Scientific computing</li>
-
-</ul>
-
-</div>
+  </div>
 
 </div>
 
@@ -384,47 +347,35 @@ The research combines theoretical formulation, numerical implementation, and com
 
 <div class="research-section">
 
-<h2>Representative Contributions</h2>
+  <h2>Representative Contributions</h2>
 
-<ul>
+  <ul>
 
-<li>
+    <li>
+      Developed a peridynamic formulation for orthotropic Mindlin plates subjected to bending, extending nonlocal mechanics to laminated plate structures.
+    </li>
 
-Developed a peridynamic formulation for orthotropic Mindlin plates subjected to bending, extending nonlocal mechanics to laminated plate structures.
+    <li>
+      Developed computational models for Mode-I crack growth in double cantilever beam specimens using bond-based peridynamics.
+    </li>
 
-</li>
+    <li>
+      Investigated intersonic shear crack propagation using peridynamic theory to study high-speed fracture phenomena.
+    </li>
 
-<li>
+    <li>
+      Implemented peridynamic algorithms for composite delamination and interface-damage evolution.
+    </li>
 
-Developed computational models for Mode-I crack growth in double cantilever beam specimens using bond-based peridynamics.
+    <li>
+      Integrated peridynamic formulations with finite element techniques to improve computational efficiency for large structural models.
+    </li>
 
-</li>
+    <li>
+      Applied nonlocal computational methods to fracture problems without requiring predefined crack paths or remeshing.
+    </li>
 
-<li>
-
-Investigated intersonic shear crack propagation using peridynamic theory to study high-speed fracture phenomena.
-
-</li>
-
-<li>
-
-Implemented peridynamic algorithms for composite delamination and interface damage evolution.
-
-</li>
-
-<li>
-
-Integrated peridynamic formulations with finite element techniques to improve computational efficiency for large structural models.
-
-</li>
-
-<li>
-
-Applied nonlocal computational methods to fracture problems without requiring predefined crack paths or remeshing.
-
-</li>
-
-</ul>
+  </ul>
 
 </div>
 
@@ -434,149 +385,121 @@ Applied nonlocal computational methods to fracture problems without requiring pr
 
 <div class="research-section">
 
-<h2>Current Research</h2>
+  <h2>Current Research</h2>
 
-<p>
+  <p>
+  Current research focuses on computational fracture of layered and composite structures using nonlocal continuum mechanics. Ongoing work investigates efficient numerical implementation, improved constitutive formulations, and hybrid finite element–peridynamic approaches for predicting crack initiation and delamination in engineering materials.
+  </p>
 
-Current research focuses on computational fracture of layered and composite structures using nonlocal continuum mechanics. Ongoing work investigates efficient numerical implementation, improved constitutive formulations, and hybrid finite element–peridynamic approaches for predicting crack initiation and delamination in engineering materials.
-
-</p>
-
-<p>
-
-Future developments aim to improve computational efficiency while extending peridynamic methods to multiphysics problems, impact-induced damage, fatigue crack growth, and large-scale engineering simulations.
-
-</p>
+  <p>
+  Additional directions include the application of peridynamic methods to impact-damaged composites, structural plates, interacting fracture modes, fatigue crack growth, and large-scale engineering simulations.
+  </p>
 
 </div>
-
-
-</div>
-
-</div>
-
 <!-- ========================================================= -->
 <!--               REPRESENTATIVE PUBLICATIONS                 -->
 <!-- ========================================================= -->
 
 <div class="research-section">
 
-<h2>Representative Publications</h2>
+  <h2>Representative Publications</h2>
 
-<!-- --------------------------------------------------------- -->
-<!-- PUBLICATION 1: DOUBLE CANTILEVER BEAM                     -->
-<!-- --------------------------------------------------------- -->
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 1: DOUBLE CANTILEVER BEAM                   -->
+  <!-- ------------------------------------------------------- -->
 
-<div class="research-publication">
+  <div class="research-publication">
 
-<div class="research-publication-title">
+    <div class="research-publication-title">
 
-<a
-href="https://doi.org/10.1016/j.compstruct.2022.116050"
-target="_blank"
-rel="noopener noreferrer">
+      <a
+        href="https://doi.org/10.1016/j.compstruct.2022.116050"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Crack propagation in the double cantilever beam using peridynamic theory
+      </a>
 
-Crack propagation in the double cantilever beam using peridynamic theory
+    </div>
 
-</a>
+    <div class="research-publication-authors">
+      U. Yolum, M. O. Bozkurt, E. Gök, D. Coker, and M. A. Güler
+    </div>
 
-</div>
+    <div class="research-publication-journal">
+      Composite Structures, 299, 116050, 2022
+    </div>
 
-<div class="research-publication-authors">
+  </div>
 
-U. Yolum, M. O. Bozkurt, E. Gök, D. Coker, and M. A. Güler
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 2: INTERSONIC SHEAR CRACK                   -->
+  <!-- ------------------------------------------------------- -->
 
-</div>
+  <div class="research-publication">
 
-<div class="research-publication-journal">
+    <div class="research-publication-title">
 
-Composite Structures, 299, 116050, 2022
+      <a
+        href="https://doi.org/10.1007/s10704-021-00520-3"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Intersonic shear crack propagation using peridynamic theory
+      </a>
 
-</div>
+    </div>
 
-</div>
+    <div class="research-publication-authors">
+      U. Yolum, D. Coker, and M. A. Güler
+    </div>
 
-<!-- --------------------------------------------------------- -->
-<!-- PUBLICATION 2: INTERSONIC SHEAR CRACK                     -->
-<!-- --------------------------------------------------------- -->
+    <div class="research-publication-journal">
+      International Journal of Fracture, 228(1), 103–126, 2021
+    </div>
 
-<div class="research-publication">
+  </div>
 
-<div class="research-publication-title">
+  <!-- ------------------------------------------------------- -->
+  <!-- PUBLICATION 3: ORTHOTROPIC MINDLIN PLATE                -->
+  <!-- ------------------------------------------------------- -->
 
-<a
-href="https://doi.org/10.1007/s10704-021-00520-3"
-target="_blank"
-rel="noopener noreferrer">
+  <div class="research-publication">
 
-Intersonic shear crack propagation using peridynamic theory
+    <div class="research-publication-title">
 
-</a>
+      <a
+        href="https://doi.org/10.1177/1081286519873694"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        On the peridynamic formulation for an orthotropic Mindlin plate under bending
+      </a>
 
-</div>
+    </div>
 
-<div class="research-publication-authors">
+    <div class="research-publication-authors">
+      U. Yolum and M. A. Güler
+    </div>
 
-U. Yolum, D. Coker, and M. A. Güler
+    <div class="research-publication-journal">
+      Mathematics and Mechanics of Solids, 25(2), 263–287, 2020
+    </div>
 
-</div>
-
-<div class="research-publication-journal">
-
-International Journal of Fracture, 228(1), 103–126, 2021
-
-</div>
-
-</div>
-
-<!-- --------------------------------------------------------- -->
-<!-- PUBLICATION 3: ORTHOTROPIC MINDLIN PLATE                  -->
-<!-- --------------------------------------------------------- -->
-
-<div class="research-publication">
-
-<div class="research-publication-title">
-
-<a
-href="https://doi.org/10.1177/1081286519873694"
-target="_blank"
-rel="noopener noreferrer">
-
-On the peridynamic formulation for an orthotropic Mindlin plate under bending
-
-</a>
-
-</div>
-
-<div class="research-publication-authors">
-
-U. Yolum and M. A. Güler
+  </div>
 
 </div>
-
-<div class="research-publication-journal">
-
-Mathematics and Mechanics of Solids, 25(2), 263–287, 2020
-
-</div>
-
-</div>
-
-</div>
-
 <!-- ========================================================= -->
 <!--                    COLLABORATIONS                         -->
 <!-- ========================================================= -->
 
 <div class="research-section">
 
-<h2>Collaborations</h2>
+  <h2>Collaborations</h2>
 
-<p>
-
-This research has been conducted through collaborations with researchers specializing in peridynamics, computational fracture mechanics, composite materials, nonlinear dynamics, and finite element implementation. These collaborations have supported the development of nonlocal formulations for fracture and delamination, numerical implementations for layered structures, and applications to composite and engineering systems.
-
-</p>
+  <p>
+  This research has been carried out in collaboration with researchers specializing in computational mechanics, fracture mechanics, peridynamic theory, composite materials, and finite element analysis. These collaborations have contributed to the development of novel nonlocal formulations for fracture and delamination, efficient numerical implementations, and applications to layered composites and engineering structures.
+  </p>
 
 </div>
 
@@ -586,13 +509,11 @@ This research has been conducted through collaborations with researchers special
 
 <div class="research-section">
 
-<h2>Future Directions</h2>
+  <h2>Future Directions</h2>
 
-<p>
-
-Future research will focus on hybrid finite element–peridynamic formulations, multiscale fracture modeling, fatigue crack growth, impact-induced damage in composite structures, adaptive numerical algorithms, and AI-assisted computational fracture mechanics. Particular emphasis will be placed on improving computational efficiency while preserving the predictive capabilities of nonlocal continuum models for large-scale engineering applications.
-
-</p>
+  <p>
+  Future research will focus on hybrid finite element–peridynamic formulations, multiscale fracture modeling, fatigue crack growth, impact-induced damage in composite structures, adaptive numerical algorithms, and AI-assisted computational fracture mechanics. Particular emphasis will be placed on improving computational efficiency while preserving the predictive capabilities of nonlocal continuum models for large-scale engineering applications.
+  </p>
 
 </div>
 
@@ -602,6 +523,6 @@ Future research will focus on hybrid finite element–peridynamic formulations, 
 
 <a class="back-button" href="/research/">
 
-← Back to Research
+  ← Back to Research
 
 </a>
