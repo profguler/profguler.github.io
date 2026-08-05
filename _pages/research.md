@@ -248,35 +248,7 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 4: THERMAL CONTACT RESISTANCE                       -->
-<!-- ========================================================= -->
-
-<a class="research-card" href="/research/thermal-contact/">
-
-  <img
-    class="research-card-image"
-    src="/images/Asperity_IJSS.png"
-    alt="Rough surface contact and asperity heat transfer"
-  >
-
-  <div class="research-card-body">
-
-    <h2>Thermal Contact Resistance</h2>
-
-    <p>
-    Heat transfer across rough interfaces, thermo-elastoplastic contact, surface morphology, and multiscale computational modeling of thermal interfaces.
-    </p>
-
-    <div class="research-link">
-      Explore research →
-    </div>
-
-  </div>
-
-</a>
-
-<!-- ========================================================= -->
-<!-- CARD 5: STRUCTURAL STABILITY AND BUCKLING                -->
+<!-- CARD 4: STRUCTURAL STABILITY AND BUCKLING                -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/research/structural-stability/">
@@ -304,7 +276,7 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 6: PERIDYNAMICS AND COMPUTATIONAL FRACTURE          -->
+<!-- CARD 5: PERIDYNAMICS AND COMPUTATIONAL FRACTURE          -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/research/peridynamics/">
@@ -332,7 +304,7 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 7: COMPUTATIONAL MECHANICS                          -->
+<!-- CARD 6: COMPUTATIONAL MECHANICS                          -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/research/computational-mechanics/">
@@ -360,7 +332,7 @@ author_profile: true
 </a>
 
 <!-- ========================================================= -->
-<!-- CARD 8: PUBLICATIONS                                     -->
+<!-- CARD 7: PUBLICATIONS                                     -->
 <!-- ========================================================= -->
 
 <a class="research-card" href="/publications/">
