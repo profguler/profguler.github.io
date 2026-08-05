@@ -4,431 +4,71 @@ title: "Structural Stability and Buckling"
 author_profile: true
 ---
 
-<!-- ========================================================= -->
-<!--                         PAGE CSS                          -->
-<!-- ========================================================= -->
-
 <style>
-
-/* ========================================================= */
-/*                    HERO FIGURE                             */
-/* ========================================================= */
-
-.research-banner{
-  width:100%;
-  max-width:900px;
-  margin:0 0 2rem;
-  border:1px solid #dddddd;
-  border-radius:12px;
-  overflow:hidden;
-  background:#ffffff;
-}
-
-.research-banner img{
-  display:block;
-  width:100%;
-  height:auto;
-}
-
-.figure-caption{
-  max-width:900px;
-  margin:-1rem auto 2rem;
-  font-size:0.9rem;
-  font-style:italic;
-  text-align:center;
-  color:#666;
-}
-
-/* ========================================================= */
-/*                    HIGHLIGHTS                              */
-/* ========================================================= */
-
-.research-highlights{
-  display:grid;
-  grid-template-columns:repeat(3,1fr);
-  gap:18px;
-  max-width:900px;
-  margin-bottom:2rem;
-}
-
-.highlight-box{
-  padding:18px;
-  border:1px solid #dddddd;
-  border-radius:12px;
-  background:#fafafa;
-  text-align:center;
-}
-
-.highlight-title{
-  margin-bottom:8px;
-  color:#2c7fa8;
-  font-size:1rem;
-  font-weight:700;
-}
-
-.highlight-text{
-  color:#555;
-  font-size:0.92rem;
-  line-height:1.5;
-}
-
-/* ========================================================= */
-/*                    CONTENT SECTIONS                        */
-/* ========================================================= */
-
-.research-section{
-  max-width:900px;
-  margin-bottom:2.5rem;
-}
-
-.research-section h2{
-  margin-bottom:0.75rem;
-  padding-bottom:0.35rem;
-  border-bottom:2px solid #eeeeee;
-  color:#2c7fa8;
-}
-
-.research-section p,
-.research-section li{
-  color:#555;
-  font-size:1rem;
-  line-height:1.75;
-}
-
-.research-topics{
-  columns:2;
-  column-gap:3rem;
-}
-
-.research-topics ul{
-  margin-top:0;
-}
-
-/* ========================================================= */
-/*                    PUBLICATIONS                            */
-/* ========================================================= */
-
-.publication{
-  margin-bottom:1.3rem;
-  padding-bottom:1rem;
-  border-bottom:1px solid #eeeeee;
-}
-
-.publication-title{
-  color:#2c7fa8;
-  font-weight:700;
-}
-
-.publication-authors{
-  color:#555;
-}
-
-.publication-journal{
-  color:#666;
-  font-style:italic;
-}
-
-.publication-doi a{
-  color:#2c7fa8;
-  text-decoration:none;
-}
-
-.publication-doi a:hover{
-  text-decoration:underline;
-}
-
-/* ========================================================= */
-/*                    BACK BUTTON                             */
-/* ========================================================= */
-
-.back-button{
-  display:inline-block;
-  margin-top:1rem;
-  padding:10px 22px;
-  border:1px solid #2c7fa8;
-  border-radius:999px;
-  color:#2c7fa8;
-  font-weight:600;
-  text-decoration:none;
-  transition:0.2s;
-}
-
-.back-button:hover{
-  background:#2c7fa8;
-  color:#ffffff;
-  text-decoration:none;
-}
-
-/* ========================================================= */
-/*                    MOBILE DESIGN                           */
-/* ========================================================= */
-
-@media screen and (max-width:700px){
-
-  .research-highlights{
-    grid-template-columns:1fr;
-  }
-
-  .research-topics{
-    columns:1;
-  }
-
-}
-
+.ss-page{width:100%;max-width:900px;margin:0;padding:0;box-sizing:border-box}
+.ss-banner{width:100%;margin:0 0 1rem;border:1px solid #ddd;border-radius:12px;overflow:hidden;background:#fff;box-sizing:border-box}
+.ss-banner img{display:block;width:100%;height:auto}
+.ss-caption{margin:0 0 2rem;font-size:.9rem;font-style:italic;line-height:1.5;text-align:center;color:#666}
+.ss-highlights{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;width:100%;margin:0 0 2.5rem}
+.ss-highlight-box{padding:18px;border:1px solid #ddd;border-radius:12px;background:#fafafa;text-align:center;box-sizing:border-box}
+.ss-highlight-title{margin-bottom:8px;color:#2c7fa8;font-size:1rem;font-weight:700}
+.ss-highlight-text{color:#555;font-size:.93rem;line-height:1.6}
+.ss-section{display:block;width:100%;margin:0 0 2.5rem;clear:both;box-sizing:border-box}
+.ss-section h2{margin:0 0 .85rem;padding:0 0 .35rem;border-bottom:2px solid #eee;color:#2c7fa8;font-size:1.35rem;line-height:1.3}
+.ss-section p{margin:0 0 1rem;color:#555;font-size:1rem;line-height:1.75}
+.ss-section ul{margin:.4rem 0 0 1.25rem;padding:0}
+.ss-section li{margin-bottom:.55rem;color:#555;font-size:1rem;line-height:1.65}
+.ss-topics{display:flex;flex-wrap:wrap;gap:10px;width:100%;margin-top:1rem}
+.ss-topic{display:inline-block;padding:8px 15px;border:1px solid #d7e7f0;border-radius:999px;background:#eef6fb;color:#2c7fa8;font-size:.9rem;font-weight:600;line-height:1.3}
+.ss-publication{width:100%;margin-bottom:1.4rem;padding-bottom:1rem;border-bottom:1px solid #eee;box-sizing:border-box}
+.ss-publication-title{margin-bottom:.35rem;font-weight:700;line-height:1.5}
+.ss-publication-title a{color:#2c7fa8!important;text-decoration:none!important;cursor:pointer}
+.ss-publication-title a:hover{color:#1f5f80!important;text-decoration:underline!important}
+.ss-publication-authors{margin-bottom:.15rem;color:#555;line-height:1.6}
+.ss-publication-journal{color:#666;font-style:italic;line-height:1.6}
+.ss-back-button{display:inline-block;margin-top:.5rem;padding:10px 24px;border:1px solid #2c7fa8;border-radius:999px;color:#2c7fa8!important;font-weight:600;text-decoration:none!important}
+.ss-back-button:hover{background:#2c7fa8;color:#fff!important}
+@media screen and (max-width:700px){.ss-highlights{grid-template-columns:1fr;gap:12px}.ss-topic{font-size:.86rem}.ss-section h2{font-size:1.2rem}}
 </style>
 
-<!-- ========================================================= -->
-<!--                    HERO IMAGE                             -->
-<!-- ========================================================= -->
+<div class="ss-page">
 
-<div class="research-banner">
+<div class="ss-banner"><img src="/images/Vierendeel_JBE.png" alt="Vierendeel mechanism in a perforated beam"></div>
+<div class="ss-caption">Idealized Vierendeel mechanism around a web opening, showing the interaction of shear, bending moment, and local plastic-hinge formation used in practical design formulations for perforated beams.</div>
 
-  <img
-    src="/images/Vierendeel_JBE.png"
-    alt="Vierendeel mechanism in a perforated beam"
-  >
-
+<div class="ss-highlights">
+<div class="ss-highlight-box"><div class="ss-highlight-title">Structural Stability</div><div class="ss-highlight-text">Buckling, post-buckling, imperfection sensitivity, and nonlinear response of thin-walled structural members.</div></div>
+<div class="ss-highlight-box"><div class="ss-highlight-title">Perforated Members</div><div class="ss-highlight-text">Vierendeel action, web openings, ring stiffeners, plastic-hinge formation, and combined-loading behavior.</div></div>
+<div class="ss-highlight-box"><div class="ss-highlight-title">Practical Design Methods</div><div class="ss-highlight-text">Interaction curves, calibrated finite element models, and engineering formulations for structural design.</div></div>
 </div>
 
-<div class="figure-caption">
+<div class="ss-section"><h2>Overview</h2><p>My research in structural stability and buckling focuses on the nonlinear behavior, failure mechanisms, and design of thin-walled, perforated, corrugated, steel, and aluminum structural members. Particular emphasis is placed on beams containing large web openings, where local instability, Vierendeel action, stress concentration, and plastic-hinge formation can significantly reduce shear and bending capacity.</p><p>This work combines analytical mechanics, geometric and material nonlinear finite element analysis, imperfection studies, interaction-curve development, parametric investigations, and practical design formulations. The objective is to improve the reliability, efficiency, and structural performance of lightweight members used in buildings, transportation systems, industrial structures, and advanced engineering applications.</p></div>
 
-Idealized Vierendeel mechanism around a web opening, showing the low-moment side, high-moment side, applied shear, and secondary moments associated with local plastic-hinge formation.
+<div class="ss-section"><h2>Research Topics</h2><div class="ss-topics">
+<span class="ss-topic">Structural Stability</span><span class="ss-topic">Buckling</span><span class="ss-topic">Lateral–Torsional Buckling</span><span class="ss-topic">Thin-Walled Structures</span><span class="ss-topic">Perforated Beams</span><span class="ss-topic">Web Openings</span><span class="ss-topic">Vierendeel Action</span><span class="ss-topic">Ring-Type Stiffeners</span><span class="ss-topic">Corrugated Beams</span><span class="ss-topic">Aluminum Members</span><span class="ss-topic">Steel Connections</span><span class="ss-topic">Geometric Imperfections</span><span class="ss-topic">Nonlinear Finite Element Analysis</span><span class="ss-topic">Plastic Collapse</span><span class="ss-topic">Combined Loading</span><span class="ss-topic">Practical Design Formulations</span>
+</div></div>
 
+<div class="ss-section"><h2>Representative Contributions</h2><ul>
+<li>Developed nonlinear finite element models for perforated beams subjected to compression, shear, bending, and combined loading.</li>
+<li>Investigated Vierendeel failure through the formation of four plastic hinges near large web openings.</li>
+<li>Quantified the effects of ring-stiffener thickness, height, and opening geometry on shear and moment capacity.</li>
+<li>Constructed buckling and shear–moment interaction diagrams for reinforced and unreinforced openings.</li>
+<li>Derived practical design formulations for perforated beams strengthened with ring-type stiffeners.</li>
+<li>Studied corrugated beams, aluminum sections, beam-to-beam connections, and imperfection-sensitive thin-walled members.</li>
+</ul></div>
+
+<div class="ss-section"><h2>Current Research</h2><p>Current research focuses on the lateral–torsional buckling behavior of corrugated and perforated beams, including the influence of corrugation geometry, opening configuration, initial geometric imperfections, member length, and nonlinear material response.</p><p>Additional studies investigate aluminum structural members and compare finite element predictions with established design methods, including the Direct Strength Method, Continuous Strength Method, and Eurocode-based approaches. The broader objective is to translate high-fidelity simulation results into practical engineering recommendations.</p></div>
+
+<div class="ss-section"><h2>Representative Publications</h2>
+<div class="ss-publication"><div class="ss-publication-title"><a href="https://doi.org/10.1016/j.tws.2023.110787" target="_blank" rel="noopener noreferrer">On the beam-to-beam eccentric end plate connections: A numerical study</a></div><div class="ss-publication-authors">S. Eltaş, M. A. Güler, K. D. Tsavdaridis, C. E. Sofias, and B. Yıldırım</div><div class="ss-publication-journal">Thin-Walled Structures, 188, 110787, 2023</div></div>
+<div class="ss-publication"><div class="ss-publication-title"><a href="https://doi.org/10.1016/j.jobe.2021.102915" target="_blank" rel="noopener noreferrer">A practical design formulation for perforated beams with openings strengthened with ring type stiffeners subject to Vierendeel actions</a></div><div class="ss-publication-authors">B. M. Zeytinci, M. Şahin, M. A. Güler, and K. D. Tsavdaridis</div><div class="ss-publication-journal">Journal of Building Engineering, 43, 102915, 2021</div></div>
+<div class="ss-publication"><div class="ss-publication-title"><a href="https://doi.org/10.1016/j.tws.2017.04.034" target="_blank" rel="noopener noreferrer">Effect of hole reinforcement on the buckling behaviour of thin-walled beams subjected to combined loading</a></div><div class="ss-publication-authors">A. E. Orun and M. A. Güler</div><div class="ss-publication-journal">Thin-Walled Structures, 118, 12–22, 2017</div></div>
 </div>
 
-<!-- ========================================================= -->
-<!--                    HIGHLIGHTS                             -->
-<!-- ========================================================= -->
+<div class="ss-section"><h2>Collaborations</h2><p>This research has involved collaboration with researchers in structural mechanics, steel structures, thin-walled members, nonlinear finite element analysis, perforated-beam design, and stability theory. The work combines theoretical analysis, computational modeling, experimental comparison, and practical design recommendations.</p></div>
 
-<div class="research-highlights">
+<div class="ss-section"><h2>Future Directions</h2><p>Future research will extend these studies toward data-assisted stability prediction, uncertainty quantification, optimization of web-opening and corrugation geometry, advanced stiffener concepts, and high-fidelity analysis of thin-walled members under combined loading. Additional emphasis will be placed on digital design tools that convert nonlinear simulation results into reliable and efficient engineering procedures.</p></div>
 
-  <div class="highlight-box">
-
-    <div class="highlight-title">
-      Stability of Perforated Beams
-    </div>
-
-    <div class="highlight-text">
-      Failure, buckling, and strength of beams containing circular, elliptical, and nonstandard web openings.
-    </div>
-
-  </div>
-
-  <div class="highlight-box">
-
-    <div class="highlight-title">
-      Nonlinear Finite Element Analysis
-    </div>
-
-    <div class="highlight-text">
-      Geometric and material nonlinear simulations for plastic-hinge formation, post-yield response, and failure-mode prediction.
-    </div>
-
-  </div>
-
-  <div class="highlight-box">
-
-    <div class="highlight-title">
-      Practical Design Methods
-    </div>
-
-    <div class="highlight-text">
-      Shear–moment interaction curves, stiffener design, and engineering formulations for perforated structural members.
-    </div>
-
-  </div>
+<a class="ss-back-button" href="/research/">← Back to Research</a>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    OVERVIEW                               -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Overview</h2>
-
-  <p>
-  My research in structural stability and buckling focuses on the nonlinear behavior, failure mechanisms, and design of thin-walled and perforated structural members. Particular emphasis is placed on beams containing large web openings, where local instability, Vierendeel action, stress concentration, and plastic-hinge formation can significantly reduce shear and bending capacity.
-  </p>
-
-  <p>
-  This work combines analytical mechanics, nonlinear finite element analysis, interaction-curve development, parametric studies, and practical design formulations. The objective is to improve the reliability, efficiency, and structural performance of lightweight members used in buildings, transportation systems, aerospace structures, and industrial applications.
-  </p>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    RESEARCH TOPICS                        -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Research Topics</h2>
-
-  <div class="research-topics">
-
-    <ul>
-
-      <li>Structural stability</li>
-
-      <li>Buckling of thin-walled members</li>
-
-      <li>Perforated beams</li>
-
-      <li>Vierendeel mechanism</li>
-
-      <li>Web-opening reinforcement</li>
-
-      <li>Ring-type stiffeners</li>
-
-      <li>Shear–moment interaction</li>
-
-      <li>Plastic-hinge formation</li>
-
-      <li>Geometric nonlinearity</li>
-
-      <li>Material nonlinearity</li>
-
-      <li>Nonlinear finite element analysis</li>
-
-      <li>Lateral-torsional buckling</li>
-
-      <li>Corrugated beams</li>
-
-      <li>Aluminum members</li>
-
-      <li>Practical design formulations</li>
-
-    </ul>
-
-  </div>
-
-</div>
-
-<!-- ========================================================= -->
-<!--               REPRESENTATIVE CONTRIBUTIONS                -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Representative Contributions</h2>
-
-  <ul>
-
-    <li>
-    Developed nonlinear finite element models for perforated beams subjected to combined shear and bending.
-    </li>
-
-    <li>
-    Investigated Vierendeel failure through the formation of four plastic hinges near large web openings.
-    </li>
-
-    <li>
-    Quantified the effects of ring-stiffener thickness and height on shear and moment capacity.
-    </li>
-
-    <li>
-    Constructed shear–moment interaction diagrams for circular, elliptical, and square web openings.
-    </li>
-
-    <li>
-    Derived a practical design formulation for perforated beams reinforced with ring-type stiffeners.
-    </li>
-
-    <li>
-    Studied buckling and stability behavior of corrugated beams, aluminum sections, and imperfect structural members.
-    </li>
-
-  </ul>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    CURRENT RESEARCH                       -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Current Research</h2>
-
-  <p>
-  Current work includes the stability and lateral-torsional buckling analysis of corrugated and perforated beams, with particular attention to opening geometry, stiffener configuration, initial imperfections, and nonlinear material response.
-  </p>
-
-  <p>
-  Additional studies compare finite element predictions with established structural design methods for aluminum and thin-walled members, including the effects of member length, cross-sectional geometry, and imperfection amplitude on buckling strength.
-  </p>
-
-</div>
-
-<!-- ========================================================= -->
-<!--               REPRESENTATIVE PUBLICATIONS                 -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Representative Publications</h2>
-
-  <div class="publication">
-
-    <div class="publication-title">
-      A practical design formulation for perforated beams with openings strengthened with ring type stiffeners subject to Vierendeel actions
-    </div>
-
-    <div class="publication-authors">
-      B. M. Zeytinci, M. Şahin, M. A. Güler, and K. D. Tsavdaridis
-    </div>
-
-    <div class="publication-journal">
-      Journal of Building Engineering, 43, 102915, 2021
-    </div>
-
-    <div class="publication-doi">
-      DOI:
-      <a href="https://doi.org/10.1016/j.jobe.2021.102915">
-        https://doi.org/10.1016/j.jobe.2021.102915
-      </a>
-    </div>
-
-  </div>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    COLLABORATIONS                         -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Collaborations</h2>
-
-  <p>
-  This research has involved collaboration with researchers in structural mechanics, steel structures, nonlinear finite element analysis, perforated-beam design, and stability theory. The work combines theoretical analysis with detailed computational modeling and practical design recommendations.
-  </p>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    FUTURE DIRECTIONS                      -->
-<!-- ========================================================= -->
-
-<div class="research-section">
-
-  <h2>Future Directions</h2>
-
-  <p>
-  Future research will extend these studies toward data-assisted stability prediction, uncertainty quantification, optimization of web-opening geometry, advanced stiffener concepts, and high-fidelity analysis of thin-walled structures under combined loading. Additional emphasis will be placed on digital design tools that translate nonlinear simulation results into practical engineering recommendations.
-  </p>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    BACK BUTTON                            -->
-<!-- ========================================================= -->
-
-<a class="back-button" href="/research/">
-
-  ← Back to Research
-
-</a>
