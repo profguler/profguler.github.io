@@ -19,8 +19,27 @@
   title: Machine Design II
   level: Undergraduate
   category: Mechanical Design
+  credits: 3
+
+  description: >
+    Advanced machine design course covering fatigue analysis, shafts,
+    bearings, gears, clutches, brakes, and mechanical power-transmission systems.
+
+  topics:
+    - Fatigue failure
+    - Shafts
+    - Bearings
+    - Spur gears
+    - Helical gears
+    - Gear trains
+    - Clutches
+    - Brakes
+    - Belt drives
+    - Chain drives
+
   institutions:
     - name: American University of the Middle East
+      department: Mechanical Engineering
       semesters:
         - Fall 2018
         - Fall 2019
