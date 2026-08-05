@@ -5,351 +5,81 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ========================================================= -->
-<!--                     PAGE-SPECIFIC CSS                     -->
-<!-- ========================================================= -->
-
 <style>
-
-/* ========================================================= */
-/*                     PAGE WRAPPER                          */
-/* ========================================================= */
-
-.pubs-page {
-  width: 100%;
-  max-width: 900px;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* ========================================================= */
-/*                     INTRODUCTION                          */
-/* ========================================================= */
-
-.pubs-intro {
-  margin-bottom: 1.5rem;
-}
-
-.pubs-intro p {
-  margin: 0 0 0.9rem 0;
-  color: #555555;
-  font-size: 1rem;
-  line-height: 1.7;
-}
-
-/* ========================================================= */
-/*                     PROFILE BUTTONS                       */
-/* ========================================================= */
-
-.pubs-profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 1.25rem 0 2.5rem 0;
-}
-
-.pubs-profile-link {
-  display: inline-block;
-  padding: 9px 17px;
-  border: 1px solid #2c7fa8;
-  border-radius: 999px;
-  color: #2c7fa8 !important;
-  font-size: 0.92rem;
-  font-weight: 600;
-  text-decoration: none !important;
-  transition:
-    background-color 0.2s ease,
-    color 0.2s ease;
-}
-
-.pubs-profile-link:hover {
-  background: #2c7fa8;
-  color: #ffffff !important;
-  text-decoration: none !important;
-}
-
-/* ========================================================= */
-/*                     YEAR SECTIONS                         */
-/* ========================================================= */
-
-.pubs-year-section {
-  margin: 0 0 2.75rem 0;
-}
-
-.pubs-year-heading {
-  margin: 0 0 1.2rem 0;
-  padding: 0 0 0.4rem 0;
-  border-bottom: 2px solid #eeeeee;
-  color: #2c7fa8;
-  font-size: 1.45rem;
-  line-height: 1.3;
-}
-
-/* ========================================================= */
-/*                     PUBLICATION ENTRIES                   */
-/* ========================================================= */
-
-.pubs-entry {
-  width: 100%;
-  margin-bottom: 1.4rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #eeeeee;
-  box-sizing: border-box;
-}
-
-.pubs-entry:last-child {
-  margin-bottom: 0;
-}
-
-.pubs-entry-title {
-  margin-bottom: 0.35rem;
-  font-weight: 700;
-  line-height: 1.5;
-}
-
-.pubs-entry-title a {
-  color: #2c7fa8 !important;
-  text-decoration: none !important;
-  cursor: pointer;
-}
-
-.pubs-entry-title a:hover {
-  color: #1f5f80 !important;
-  text-decoration: underline !important;
-}
-
-.pubs-entry-title a:focus {
-  outline: 2px solid #2c7fa8;
-  outline-offset: 3px;
-}
-
-.pubs-entry-citation {
-  color: #555555;
-  font-size: 0.96rem;
-  line-height: 1.65;
-}
-
-.pubs-entry-venue {
-  color: #666666;
-  font-size: 0.95rem;
-  font-style: italic;
-  line-height: 1.6;
-}
-
-.pubs-empty-note {
-  color: #666666;
-  font-style: italic;
-}
-
-/* ========================================================= */
-/*                     MOBILE DESIGN                         */
-/* ========================================================= */
-
-@media screen and (max-width: 700px) {
-
-  .pubs-profile-links {
-    flex-direction: column;
-  }
-
-  .pubs-profile-link {
-    width: 100%;
-    text-align: center;
-    box-sizing: border-box;
-  }
-
-  .pubs-year-heading {
-    font-size: 1.25rem;
-  }
-
-}
-
+.pubs-page{width:100%;max-width:900px;margin:0;padding:0;box-sizing:border-box}
+.pubs-intro p{margin:0 0 .9rem;color:#555;font-size:1rem;line-height:1.7}
+.pubs-profile-links{display:flex;flex-wrap:wrap;gap:10px;margin:1.25rem 0 2.5rem}
+.pubs-profile-link{display:inline-block;padding:9px 17px;border:1px solid #2c7fa8;border-radius:999px;color:#2c7fa8!important;font-size:.92rem;font-weight:600;text-decoration:none!important}
+.pubs-profile-link:hover{background:#2c7fa8;color:#fff!important}
+.pubs-year{margin:0 0 1rem;border-bottom:1px solid #eee}
+.pubs-year summary{display:flex;align-items:center;gap:1rem;padding:.75rem 0;color:#2c7fa8;cursor:pointer;list-style:none;font-size:1.4rem;font-weight:700}
+.pubs-year summary::-webkit-details-marker{display:none}
+.pubs-year summary::after{content:"+";margin-left:auto;font-size:1.5rem;font-weight:500}
+.pubs-year[open] summary::after{content:"−"}
+.pubs-year-count{margin-left:auto;color:#777;font-size:.9rem;font-weight:500}
+.pubs-year-content{padding:.4rem 0 .5rem}
+.pubs-entry{width:100%;margin-bottom:1.35rem;padding-bottom:1rem;border-bottom:1px solid #eee}
+.pubs-entry-title{margin-bottom:.35rem;font-weight:700;line-height:1.5}
+.pubs-entry-title a{color:#2c7fa8!important;text-decoration:none!important}
+.pubs-entry-title a:hover{color:#1f5f80!important;text-decoration:underline!important}
+.pubs-entry-citation{color:#555;font-size:.96rem;line-height:1.65}
+@media screen and (max-width:700px){.pubs-profile-links{flex-direction:column}.pubs-profile-link{width:100%;text-align:center;box-sizing:border-box}.pubs-year summary{font-size:1.2rem}}
 </style>
-
-<!-- ========================================================= -->
-<!--                     PAGE CONTENT                         -->
-<!-- ========================================================= -->
 
 <div class="pubs-page">
 
-<!-- ========================================================= -->
-<!--                     INTRODUCTION                         -->
-<!-- ========================================================= -->
-
 <div class="pubs-intro">
-
-  <p>
-    My publications span computational mechanics, contact mechanics,
-    thin-film and interface mechanics, crashworthiness, structural
-    stability, peridynamics, fracture mechanics, and simulation-driven
-    engineering design.
-  </p>
-
-  <p>
-    Publications are arranged by year, with the most recent work shown
-    first. When a DOI or publisher link is available in the publication
-    record, clicking the title opens the official article page.
-  </p>
-
+<p>My publications span computational mechanics, contact mechanics, thin-film and interface mechanics, crashworthiness, structural stability, peridynamics, fracture mechanics, and simulation-driven engineering design.</p>
+<p>Publications are arranged by year, with the most recent work shown first. Click a title to open the official DOI or publisher page when that information is available.</p>
 </div>
-
-<!-- ========================================================= -->
-<!--                     SCHOLARLY PROFILES                    -->
-<!-- ========================================================= -->
 
 <div class="pubs-profile-links">
-
-  {% if site.author.googlescholar %}
-  <a
-    class="pubs-profile-link"
-    href="{{ site.author.googlescholar }}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Google Scholar
-  </a>
-  {% endif %}
-
-  {% if site.author.scopus %}
-  <a
-    class="pubs-profile-link"
-    href="{{ site.author.scopus }}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Scopus
-  </a>
-  {% endif %}
-
-  {% if site.author.orcid %}
-  <a
-    class="pubs-profile-link"
-    href="{{ site.author.orcid }}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    ORCID
-  </a>
-  {% endif %}
-
-  {% if site.author.researchgate %}
-  <a
-    class="pubs-profile-link"
-    href="{{ site.author.researchgate }}"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    ResearchGate
-  </a>
-  {% endif %}
-
+{% if site.author.googlescholar %}<a class="pubs-profile-link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>{% endif %}
+{% if site.author.scopus %}<a class="pubs-profile-link" href="{{ site.author.scopus }}" target="_blank" rel="noopener noreferrer">Scopus</a>{% endif %}
+{% if site.author.orcid %}<a class="pubs-profile-link" href="{{ site.author.orcid }}" target="_blank" rel="noopener noreferrer">ORCID</a>{% endif %}
+{% if site.author.researchgate %}<a class="pubs-profile-link" href="{{ site.author.researchgate }}" target="_blank" rel="noopener noreferrer">ResearchGate</a>{% endif %}
 </div>
-
-{% include base_path %}
-
-<!-- ========================================================= -->
-<!--             SORT AND GROUP PUBLICATIONS BY YEAR          -->
-<!-- ========================================================= -->
 
 {% assign sorted_publications = site.publications | sort: "date" | reverse %}
 {% assign publications_by_year = sorted_publications | group_by_exp: "post", "post.date | date: '%Y'" %}
 
-{% if publications_by_year.size > 0 %}
+{% for year_group in publications_by_year %}
+{% assign year_number = year_group.name | plus: 0 %}
+<details class="pubs-year" {% if year_number >= 2024 %}open{% endif %}>
+<summary><span>{{ year_group.name }}</span><span class="pubs-year-count">{{ year_group.items | size }} {% if year_group.items.size == 1 %}paper{% else %}papers{% endif %}</span></summary>
+<div class="pubs-year-content">
 
-  {% for year_group in publications_by_year %}
+{% for pass in (1..2) %}
+{% for post in year_group.items %}
+{% assign is_lead = false %}
+{% if post.first_author == true %}{% assign is_lead = true %}{% endif %}
+{% if pass == 1 and is_lead == false %}{% continue %}{% endif %}
+{% if pass == 2 and is_lead == true %}{% continue %}{% endif %}
 
-  <!-- ======================================================= -->
-  <!-- YEAR: {{ year_group.name }}                              -->
-  <!-- ======================================================= -->
-
-  <section class="pubs-year-section">
-
-    <h2 class="pubs-year-heading">
-      {{ year_group.name }}
-    </h2>
-
-    {% for post in year_group.items %}
-
-      <!-- ----------------------------------------------------- -->
-      <!-- DETERMINE THE BEST EXTERNAL OR INTERNAL TITLE LINK    -->
-      <!-- Priority: DOI -> paperurl -> external_url -> internal -->
-      <!-- ----------------------------------------------------- -->
-
-      {% assign publication_link = "" %}
-
-      {% if post.doi %}
-        {% if post.doi contains "http" %}
-          {% assign publication_link = post.doi %}
-        {% else %}
-          {% assign publication_link = "https://doi.org/" | append: post.doi %}
-        {% endif %}
-      {% elsif post.paperurl %}
-        {% assign publication_link = post.paperurl %}
-      {% elsif post.external_url %}
-        {% assign publication_link = post.external_url %}
-      {% elsif post.link %}
-        {% assign publication_link = post.link %}
-      {% else %}
-        {% assign publication_link = post.url | relative_url %}
-      {% endif %}
-
-      <article class="pubs-entry">
-
-        <div class="pubs-entry-title">
-
-          <a
-            href="{{ publication_link }}"
-            {% if publication_link contains "http" %}
-            target="_blank"
-            rel="noopener noreferrer"
-            {% endif %}
-          >
-            {{ post.title }}
-          </a>
-
-        </div>
-
-        {% if post.citation %}
-
-          <div class="pubs-entry-citation">
-            {{ post.citation }}
-          </div>
-
-        {% else %}
-
-          {% if post.authors %}
-          <div class="pubs-entry-citation">
-            {{ post.authors }}
-          </div>
-          {% endif %}
-
-          {% if post.venue %}
-          <div class="pubs-entry-venue">
-            {{ post.venue }}
-            {% if post.volume %}, {{ post.volume }}{% endif %}
-            {% if post.issue %}({{ post.issue }}){% endif %}
-            {% if post.pages %}, {{ post.pages }}{% endif %}
-            {% if post.article_number %}, {{ post.article_number }}{% endif %}
-            {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-          </div>
-          {% endif %}
-
-        {% endif %}
-
-      </article>
-
-    {% endfor %}
-
-  </section>
-
-  {% endfor %}
-
-{% else %}
-
-  <p class="pubs-empty-note">
-    No publication records are currently available.
-  </p>
-
+{% assign publication_link = post.url | relative_url %}
+{% if post.doi %}
+  {% if post.doi contains "http" %}{% assign publication_link = post.doi %}
+  {% else %}{% assign publication_link = "https://doi.org/" | append: post.doi %}{% endif %}
+{% elsif post.paperurl %}{% assign publication_link = post.paperurl %}
+{% elsif post.external_url %}{% assign publication_link = post.external_url %}
 {% endif %}
+
+{% assign formatted_citation = post.citation %}
+{% assign formatted_citation = formatted_citation | replace: "Mehmet Ali Güler", "<strong>Mehmet Ali Güler</strong>" %}
+{% assign formatted_citation = formatted_citation | replace: "Mehmet A. Güler", "<strong>Mehmet A. Güler</strong>" %}
+{% assign formatted_citation = formatted_citation | replace: "M. A. Güler", "<strong>M. A. Güler</strong>" %}
+{% assign formatted_citation = formatted_citation | replace: "M.A. Güler", "<strong>M.A. Güler</strong>" %}
+
+<article class="pubs-entry">
+<div class="pubs-entry-title"><a href="{{ publication_link }}" {% if publication_link contains "http" %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ post.title }}</a></div>
+{% if post.citation %}<div class="pubs-entry-citation">{{ formatted_citation }}</div>{% endif %}
+</article>
+
+{% endfor %}
+{% endfor %}
+
+</div>
+</details>
+{% endfor %}
 
 </div>
