@@ -12,10 +12,10 @@ author_profile: true
 <style>
 
 /* ========================================================= */
-/*                     PAGE INTRODUCTION                      */
+/*                     PAGE WRAPPER                          */
 /* ========================================================= */
 
-.pub-page {
+.pubs-page {
   width: 100%;
   max-width: 900px;
   margin: 0;
@@ -23,11 +23,15 @@ author_profile: true
   box-sizing: border-box;
 }
 
-.pub-intro {
+/* ========================================================= */
+/*                     INTRODUCTION                          */
+/* ========================================================= */
+
+.pubs-intro {
   margin-bottom: 1.5rem;
 }
 
-.pub-intro p {
+.pubs-intro p {
   margin: 0 0 0.9rem 0;
   color: #555555;
   font-size: 1rem;
@@ -35,17 +39,17 @@ author_profile: true
 }
 
 /* ========================================================= */
-/*                     PROFILE BUTTONS                        */
+/*                     PROFILE BUTTONS                       */
 /* ========================================================= */
 
-.pub-profile-links {
+.pubs-profile-links {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 1.25rem 0 2.25rem 0;
+  margin: 1.25rem 0 2.5rem 0;
 }
 
-.pub-profile-link {
+.pubs-profile-link {
   display: inline-block;
   padding: 9px 17px;
   border: 1px solid #2c7fa8;
@@ -59,81 +63,103 @@ author_profile: true
     color 0.2s ease;
 }
 
-.pub-profile-link:hover {
+.pubs-profile-link:hover {
   background: #2c7fa8;
   color: #ffffff !important;
   text-decoration: none !important;
 }
 
 /* ========================================================= */
-/*                     CATEGORY HEADINGS                      */
+/*                     YEAR SECTIONS                         */
 /* ========================================================= */
 
-.pub-category-heading {
-  margin: 2.5rem 0 1rem 0;
-  padding-bottom: 0.4rem;
+.pubs-year-section {
+  margin: 0 0 2.75rem 0;
+}
+
+.pubs-year-heading {
+  margin: 0 0 1.2rem 0;
+  padding: 0 0 0.4rem 0;
   border-bottom: 2px solid #eeeeee;
   color: #2c7fa8;
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   line-height: 1.3;
 }
 
 /* ========================================================= */
-/*                     ARCHIVE APPEARANCE                     */
+/*                     PUBLICATION ENTRIES                   */
 /* ========================================================= */
 
-.pub-archive {
+.pubs-entry {
   width: 100%;
-}
-
-.pub-archive .archive__item {
-  margin-bottom: 1.35rem;
+  margin-bottom: 1.4rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #eeeeee;
+  box-sizing: border-box;
 }
 
-.pub-archive .archive__item-title {
-  margin-top: 0;
+.pubs-entry:last-child {
+  margin-bottom: 0;
+}
+
+.pubs-entry-title {
   margin-bottom: 0.35rem;
-  font-size: 1rem;
+  font-weight: 700;
   line-height: 1.5;
 }
 
-.pub-archive .archive__item-title a {
+.pubs-entry-title a {
   color: #2c7fa8 !important;
   text-decoration: none !important;
+  cursor: pointer;
 }
 
-.pub-archive .archive__item-title a:hover {
+.pubs-entry-title a:hover {
   color: #1f5f80 !important;
   text-decoration: underline !important;
 }
 
-.pub-archive .archive__item-excerpt,
-.pub-archive .page__meta {
+.pubs-entry-title a:focus {
+  outline: 2px solid #2c7fa8;
+  outline-offset: 3px;
+}
+
+.pubs-entry-citation {
   color: #555555;
+  font-size: 0.96rem;
+  line-height: 1.65;
+}
+
+.pubs-entry-venue {
+  color: #666666;
   font-size: 0.95rem;
+  font-style: italic;
   line-height: 1.6;
 }
 
+.pubs-empty-note {
+  color: #666666;
+  font-style: italic;
+}
+
 /* ========================================================= */
-/*                     MOBILE DESIGN                          */
+/*                     MOBILE DESIGN                         */
 /* ========================================================= */
 
 @media screen and (max-width: 700px) {
 
-  .pub-profile-links {
+  .pubs-profile-links {
     flex-direction: column;
   }
 
-  .pub-profile-link {
+  .pubs-profile-link {
     width: 100%;
     text-align: center;
     box-sizing: border-box;
   }
 
-  .pub-category-heading {
-    font-size: 1.2rem;
+  .pubs-year-heading {
+    font-size: 1.25rem;
   }
 
 }
@@ -144,20 +170,25 @@ author_profile: true
 <!--                     PAGE CONTENT                         -->
 <!-- ========================================================= -->
 
-<div class="pub-page">
+<div class="pubs-page">
 
 <!-- ========================================================= -->
 <!--                     INTRODUCTION                         -->
 <!-- ========================================================= -->
 
-<div class="pub-intro">
+<div class="pubs-intro">
 
   <p>
-    My publications span computational mechanics, contact mechanics, thin-film and interface mechanics, crashworthiness, structural stability, peridynamics, fracture mechanics, and simulation-driven engineering design.
+    My publications span computational mechanics, contact mechanics,
+    thin-film and interface mechanics, crashworthiness, structural
+    stability, peridynamics, fracture mechanics, and simulation-driven
+    engineering design.
   </p>
 
   <p>
-    The publication archive below is generated automatically from the site’s publication collection. The complete and most recently updated citation record is also available through the scholarly profiles below.
+    Publications are arranged by year, with the most recent work shown
+    first. When a DOI or publisher link is available in the publication
+    record, clicking the title opens the official article page.
   </p>
 
 </div>
@@ -166,11 +197,11 @@ author_profile: true
 <!--                     SCHOLARLY PROFILES                    -->
 <!-- ========================================================= -->
 
-<div class="pub-profile-links">
+<div class="pubs-profile-links">
 
   {% if site.author.googlescholar %}
   <a
-    class="pub-profile-link"
+    class="pubs-profile-link"
     href="{{ site.author.googlescholar }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -181,7 +212,7 @@ author_profile: true
 
   {% if site.author.scopus %}
   <a
-    class="pub-profile-link"
+    class="pubs-profile-link"
     href="{{ site.author.scopus }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -192,7 +223,7 @@ author_profile: true
 
   {% if site.author.orcid %}
   <a
-    class="pub-profile-link"
+    class="pubs-profile-link"
     href="{{ site.author.orcid }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -203,7 +234,7 @@ author_profile: true
 
   {% if site.author.researchgate %}
   <a
-    class="pub-profile-link"
+    class="pubs-profile-link"
     href="{{ site.author.researchgate }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -217,47 +248,108 @@ author_profile: true
 {% include base_path %}
 
 <!-- ========================================================= -->
-<!--                     PUBLICATION ARCHIVE                   -->
+<!--             SORT AND GROUP PUBLICATIONS BY YEAR          -->
 <!-- ========================================================= -->
 
-<div class="pub-archive">
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+{% assign publications_by_year = sorted_publications | group_by_exp: "post", "post.date | date: '%Y'" %}
 
-{% if site.publication_category %}
+{% if publications_by_year.size > 0 %}
 
-  {% for category in site.publication_category %}
+  {% for year_group in publications_by_year %}
 
-    {% assign title_shown = false %}
+  <!-- ======================================================= -->
+  <!-- YEAR: {{ year_group.name }}                              -->
+  <!-- ======================================================= -->
 
-    {% for post in site.publications reversed %}
+  <section class="pubs-year-section">
 
-      {% if post.category != category[0] %}
-        {% continue %}
+    <h2 class="pubs-year-heading">
+      {{ year_group.name }}
+    </h2>
+
+    {% for post in year_group.items %}
+
+      <!-- ----------------------------------------------------- -->
+      <!-- DETERMINE THE BEST EXTERNAL OR INTERNAL TITLE LINK    -->
+      <!-- Priority: DOI -> paperurl -> external_url -> internal -->
+      <!-- ----------------------------------------------------- -->
+
+      {% assign publication_link = "" %}
+
+      {% if post.doi %}
+        {% if post.doi contains "http" %}
+          {% assign publication_link = post.doi %}
+        {% else %}
+          {% assign publication_link = "https://doi.org/" | append: post.doi %}
+        {% endif %}
+      {% elsif post.paperurl %}
+        {% assign publication_link = post.paperurl %}
+      {% elsif post.external_url %}
+        {% assign publication_link = post.external_url %}
+      {% elsif post.link %}
+        {% assign publication_link = post.link %}
+      {% else %}
+        {% assign publication_link = post.url | relative_url %}
       {% endif %}
 
-      {% unless title_shown %}
+      <article class="pubs-entry">
 
-        <h2 class="pub-category-heading">
-          {{ category[1].title }}
-        </h2>
+        <div class="pubs-entry-title">
 
-        {% assign title_shown = true %}
+          <a
+            href="{{ publication_link }}"
+            {% if publication_link contains "http" %}
+            target="_blank"
+            rel="noopener noreferrer"
+            {% endif %}
+          >
+            {{ post.title }}
+          </a>
 
-      {% endunless %}
+        </div>
 
-      {% include archive-single.html %}
+        {% if post.citation %}
+
+          <div class="pubs-entry-citation">
+            {{ post.citation }}
+          </div>
+
+        {% else %}
+
+          {% if post.authors %}
+          <div class="pubs-entry-citation">
+            {{ post.authors }}
+          </div>
+          {% endif %}
+
+          {% if post.venue %}
+          <div class="pubs-entry-venue">
+            {{ post.venue }}
+            {% if post.volume %}, {{ post.volume }}{% endif %}
+            {% if post.issue %}({{ post.issue }}){% endif %}
+            {% if post.pages %}, {{ post.pages }}{% endif %}
+            {% if post.article_number %}, {{ post.article_number }}{% endif %}
+            {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+          </div>
+          {% endif %}
+
+        {% endif %}
+
+      </article>
 
     {% endfor %}
+
+  </section>
 
   {% endfor %}
 
 {% else %}
 
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <p class="pubs-empty-note">
+    No publication records are currently available.
+  </p>
 
 {% endif %}
-
-</div>
 
 </div>
