@@ -13,7 +13,7 @@ citation: >
   "Design and optimization of additively manufactured sinusoidally-corrugated multi-cell energy absorbers."
   <i>Materials Testing</i>, 68(7), 1220–1237.
 
-doi: "10.1515/mt-2026-1220"
+doi: "10.1515/mt-2026-0038"
 
 first_author: true
 ---
