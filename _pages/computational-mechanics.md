@@ -10,11 +10,13 @@ author_profile: true
 
 <style>
 
+.cm-page{width:100%;max-width:900px;margin:0;padding:0;box-sizing:border-box;}
+
 /* ========================================================= */
 /*                    HERO FIGURE                             */
 /* ========================================================= */
 
-.research-banner{
+.cm-banner{
   width:100%;
   max-width:900px;
   margin:0 0 2rem;
@@ -24,13 +26,13 @@ author_profile: true
   background:#ffffff;
 }
 
-.research-banner img{
+.cm-banner img{
   display:block;
   width:100%;
   height:auto;
 }
 
-.figure-caption{
+.cm-caption{
   max-width:900px;
   margin:-1rem auto 2rem;
   font-size:0.9rem;
@@ -43,7 +45,7 @@ author_profile: true
 /*                    HIGHLIGHTS                              */
 /* ========================================================= */
 
-.research-highlights{
+.cm-highlights{
   display:grid;
   grid-template-columns:repeat(3,1fr);
   gap:18px;
@@ -51,7 +53,7 @@ author_profile: true
   margin-bottom:2rem;
 }
 
-.highlight-box{
+.cm-highlight-box{
   padding:18px;
   border:1px solid #dddddd;
   border-radius:12px;
@@ -59,14 +61,14 @@ author_profile: true
   text-align:center;
 }
 
-.highlight-title{
+.cm-highlight-title{
   margin-bottom:8px;
   color:#2c7fa8;
   font-size:1rem;
   font-weight:700;
 }
 
-.highlight-text{
+.cm-highlight-text{
   color:#555;
   font-size:0.92rem;
   line-height:1.5;
@@ -76,72 +78,91 @@ author_profile: true
 /*                    CONTENT SECTIONS                        */
 /* ========================================================= */
 
-.research-section{
+.cm-section{
   max-width:900px;
   margin-bottom:2.5rem;
 }
 
-.research-section h2{
+.cm-section h2{
   margin-bottom:0.75rem;
   padding-bottom:0.35rem;
   border-bottom:2px solid #eeeeee;
   color:#2c7fa8;
 }
 
-.research-section p,
-.research-section li{
+.cm-section p,
+.cm-section li{
   color:#555;
   font-size:1rem;
   line-height:1.75;
 }
 
-.research-topics{
-  columns:2;
-  column-gap:3rem;
+.cm-topics{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  width:100%;
+  margin-top:1rem;
 }
 
-.research-topics ul{
-  margin-top:0;
+.cm-topic{
+  display:inline-block;
+  padding:8px 15px;
+  border:1px solid #d7e7f0;
+  border-radius:999px;
+  background:#eef6fb;
+  color:#2c7fa8;
+  font-size:0.9rem;
+  font-weight:600;
+  line-height:1.3;
 }
 
 /* ========================================================= */
 /*                    PUBLICATIONS                            */
 /* ========================================================= */
 
-.publication{
-  margin-bottom:1.3rem;
+.cm-publication{
+  width:100%;
+  margin-bottom:1.4rem;
   padding-bottom:1rem;
   border-bottom:1px solid #eeeeee;
+  box-sizing:border-box;
 }
 
-.publication-title{
-  color:#2c7fa8;
+.cm-publication-title{
+  margin-bottom:0.35rem;
   font-weight:700;
+  line-height:1.5;
 }
 
-.publication-authors{
+.cm-publication-title a{
+  color:#2c7fa8 !important;
+  text-decoration:none !important;
+  cursor:pointer;
+  pointer-events:auto;
+}
+
+.cm-publication-title a:hover{
+  color:#1f5f80 !important;
+  text-decoration:underline !important;
+}
+
+.cm-publication-authors{
   color:#555;
+  line-height:1.6;
 }
 
-.publication-journal{
+.cm-publication-journal{
   color:#666;
   font-style:italic;
-}
-
-.publication-doi a{
-  color:#2c7fa8;
-  text-decoration:none;
-}
-
-.publication-doi a:hover{
-  text-decoration:underline;
+  line-height:1.6;
 }
 
 /* ========================================================= */
 /*                    BACK BUTTON                             */
 /* ========================================================= */
 
-.back-button{
+.cm-back-button{
   display:inline-block;
   margin-top:1rem;
   padding:10px 22px;
@@ -153,7 +174,7 @@ author_profile: true
   transition:0.2s;
 }
 
-.back-button:hover{
+.cm-back-button:hover{
   background:#2c7fa8;
   color:#ffffff;
   text-decoration:none;
@@ -165,23 +186,20 @@ author_profile: true
 
 @media screen and (max-width:700px){
 
-  .research-highlights{
+  .cm-highlights{
     grid-template-columns:1fr;
   }
-
-  .research-topics{
-    columns:1;
-  }
-
 }
 
 </style>
+
+<div class="cm-page">
 
 <!-- ========================================================= -->
 <!--                    HERO IMAGE                             -->
 <!-- ========================================================= -->
 
-<div class="research-banner">
+<div class="cm-banner">
 
   <img
     src="/images/One_way_FSI.png"
@@ -190,7 +208,7 @@ author_profile: true
 
 </div>
 
-<div class="figure-caption">
+<div class="cm-caption">
 
 Representative computational workflow showing geometric modeling, mesh generation, boundary-condition definition, and one-way fluid–structure interaction analysis of a bio-inspired flapping wing.
 
@@ -200,39 +218,39 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    HIGHLIGHTS                             -->
 <!-- ========================================================= -->
 
-<div class="research-highlights">
+<div class="cm-highlights">
 
-  <div class="highlight-box">
+  <div class="cm-highlight-box">
 
-    <div class="highlight-title">
+    <div class="cm-highlight-title">
       Numerical Modeling
     </div>
 
-    <div class="highlight-text">
+    <div class="cm-highlight-text">
       Development and application of computational models for structural, thermal, manufacturing, and multiphysics problems.
     </div>
 
   </div>
 
-  <div class="highlight-box">
+  <div class="cm-highlight-box">
 
-    <div class="highlight-title">
+    <div class="cm-highlight-title">
       Finite Element Analysis
     </div>
 
-    <div class="highlight-text">
+    <div class="cm-highlight-text">
       Linear and nonlinear simulation, contact, material behavior, model verification, and engineering assessment.
     </div>
 
   </div>
 
-  <div class="highlight-box">
+  <div class="cm-highlight-box">
 
-    <div class="highlight-title">
+    <div class="cm-highlight-title">
       Simulation-Driven Design
     </div>
 
-    <div class="highlight-text">
+    <div class="cm-highlight-text">
       Integration of engineering simulation with surrogate modeling, optimization, and design improvement.
     </div>
 
@@ -244,7 +262,7 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    OVERVIEW                               -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Overview</h2>
 
@@ -262,47 +280,28 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    RESEARCH TOPICS                        -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Research Topics</h2>
 
-  <div class="research-topics">
+  <div class="cm-topics">
 
-    <ul>
-
-      <li>Computational mechanics</li>
-
-      <li>Finite element analysis</li>
-
-      <li>Nonlinear structural analysis</li>
-
-      <li>Contact and material nonlinearity</li>
-
-      <li>Fluid–structure interaction</li>
-
-      <li>Multiphysics simulation</li>
-
-      <li>Structural connections</li>
-
-      <li>Composite mechanics</li>
-
-      <li>Manufacturing simulation</li>
-
-      <li>Springback prediction</li>
-
-      <li>Drop-test simulation</li>
-
-      <li>Fatigue assessment</li>
-
-      <li>Surrogate modeling</li>
-
-      <li>Design optimization</li>
-
-      <li>Verification and validation</li>
-
-      <li>Engineering software automation</li>
-
-    </ul>
+    <span class="cm-topic">Computational Mechanics</span>
+    <span class="cm-topic">Finite Element Analysis</span>
+    <span class="cm-topic">Nonlinear Structural Analysis</span>
+    <span class="cm-topic">Material Nonlinearity</span>
+    <span class="cm-topic">Fluid–Structure Interaction</span>
+    <span class="cm-topic">Multiphysics Simulation</span>
+    <span class="cm-topic">Structural Connections</span>
+    <span class="cm-topic">Composite Mechanics</span>
+    <span class="cm-topic">Manufacturing Simulation</span>
+    <span class="cm-topic">Springback Prediction</span>
+    <span class="cm-topic">Drop-Test Simulation</span>
+    <span class="cm-topic">Fatigue Assessment</span>
+    <span class="cm-topic">Surrogate Modeling</span>
+    <span class="cm-topic">Design Optimization</span>
+    <span class="cm-topic">Verification and Validation</span>
+    <span class="cm-topic">Engineering Software Automation</span>
 
   </div>
 
@@ -312,7 +311,7 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--               REPRESENTATIVE CONTRIBUTIONS                -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Representative Contributions</h2>
 
@@ -350,7 +349,7 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    CURRENT RESEARCH                       -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Current Research</h2>
 
@@ -368,101 +367,113 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--               REPRESENTATIVE PUBLICATIONS                 -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Representative Publications</h2>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      Drop test simulation and surrogate-based optimization of a dishwasher mechanical structure and its packaging module
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1007/s00158-016-1585-0" target="_blank" rel="noopener noreferrer">
+        Drop test simulation and surrogate-based optimization of a dishwasher mechanical structure and its packaging module
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       O. Mülkoğlu, M. A. Güler, E. Acar, and H. Demirbağ
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       Structural and Multidisciplinary Optimization, 55(4), 1517–1534, 2017
     </div>
 
   </div>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      On the beam-to-beam eccentric end plate connections: A numerical study
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1016/j.tws.2023.110787" target="_blank" rel="noopener noreferrer">
+        On the beam-to-beam eccentric end plate connections: A numerical study
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       S. Eltaş, M. A. Güler, K. D. Tsavdaridis, C. E. Sofias, and B. Yıldırım
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       Thin-Walled Structures, 188, 110787, 2023
     </div>
 
   </div>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      Stress analysis and strength prediction of composite laminates with two interacting holes
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1016/j.compstruct.2019.04.041" target="_blank" rel="noopener noreferrer">
+        Stress analysis and strength prediction of composite laminates with two interacting holes
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       E. Özaslan, M. A. Güler, A. Yetgin, and B. Acar
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       Composite Structures, 221, 110869, 2019
     </div>
 
   </div>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      One-way FSI analysis of bio-inspired flapping wings
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1504/IJSA.2020.112163" target="_blank" rel="noopener noreferrer">
+        One-way FSI analysis of bio-inspired flapping wings
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       M. Bektaş, M. A. Güler, and D. F. Kurtuluş
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       International Journal of Sustainable Aviation, 6(3), 172–194, 2020
     </div>
 
   </div>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      Investigation and prediction of springback in rotary-draw tube bending process using finite element method
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1177/0954406212440672" target="_blank" rel="noopener noreferrer">
+        Investigation and prediction of springback in rotary-draw tube bending process using finite element method
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       L. Sözen, M. A. Güler, D. Bekar, and E. Acar
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       Proceedings of the Institution of Mechanical Engineers, Part C, 226(12), 2967–2981, 2012
     </div>
 
   </div>
 
-  <div class="publication">
+  <div class="cm-publication">
 
-    <div class="publication-title">
-      Modified hot-spot stress method for fatigue life estimation of welded components
+    <div class="cm-publication-title">
+      <a href="https://doi.org/10.1515/mt-2024-0489" target="_blank" rel="noopener noreferrer">
+        Modified hot-spot stress method for fatigue life estimation of welded components
+      </a>
     </div>
 
-    <div class="publication-authors">
+    <div class="cm-publication-authors">
       O. Mülkoğlu, M. A. Güler, and F. Göncü
     </div>
 
-    <div class="publication-journal">
+    <div class="cm-publication-journal">
       Materials Testing, 67(5), 821–832, 2025
     </div>
 
@@ -474,7 +485,7 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    INDUSTRIAL APPLICATIONS                -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Industrial Applications</h2>
 
@@ -488,7 +499,7 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    FUTURE DIRECTIONS                      -->
 <!-- ========================================================= -->
 
-<div class="research-section">
+<div class="cm-section">
 
   <h2>Future Directions</h2>
 
@@ -502,8 +513,10 @@ Representative computational workflow showing geometric modeling, mesh generatio
 <!--                    BACK BUTTON                            -->
 <!-- ========================================================= -->
 
-<a class="back-button" href="/research/">
+<a class="cm-back-button" href="/research/">
 
   ← Back to Research
 
 </a>
+
+</div>
