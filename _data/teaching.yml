@@ -1,0 +1,43 @@
+- code: ME463
+  title: Engineering Design
+  level: Undergraduate
+  category: Capstone
+  institutions:
+    - name: American University of the Middle East
+      semesters:
+        - Fall 2020
+        - Spring 2021
+        - Spring 2022
+        - Spring 2023
+        - Spring 2024
+        - Spring 2026
+  description: >
+    Senior capstone design course emphasizing the engineering design process,
+    teamwork, prototype development, engineering analysis, and technical communication.
+
+- code: ME452
+  title: Machine Design II
+  level: Undergraduate
+  category: Mechanical Design
+  institutions:
+    - name: American University of the Middle East
+      semesters:
+        - Fall 2018
+        - Fall 2019
+        - Fall 2020
+        - Fall 2021
+        - Fall 2022
+        - Fall 2023
+        - Fall 2024
+        - Spring 2019
+        - Spring 2020
+        - Spring 2021
+        - Spring 2022
+        - Spring 2023
+        - Spring 2024
+        - Summer 2019
+        - Summer 2020
+        - Summer 2021
+        - Summer 2022
+        - Summer 2023
+        - Summer 2024
