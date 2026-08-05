@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-<h1 style="color:red">TEST PAGE</h1>
+{% include base_path %}
 
-<p>If you see this, then teaching.html is controlling the page.</p>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
