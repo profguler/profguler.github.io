@@ -7,8 +7,49 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign teaching_posts = site.teaching | sort: "date" | reverse %}
+{% assign undergraduate_courses = site.data.teaching | where: "level", "Undergraduate" %}
+{% assign graduate_courses = site.data.teaching | where: "level", "Graduate" %}
 
-{% for post in teaching_posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if undergraduate_courses.size > 0 %}
+  <h2>Undergraduate Courses</h2>
+
+  <div class="teaching-list">
+    {% for course in undergraduate_courses %}
+      <div class="teaching-item">
+        <h3 class="archive__item-title">
+          <a href="{{ base_path }}/teaching/{{ course.slug }}/">
+            {{ course.code }} – {{ course.title }}
+          </a>
+        </h3>
+
+        {% if course.category %}
+          <p class="archive__item-excerpt">
+            {{ course.category }}
+          </p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if graduate_courses.size > 0 %}
+  <h2>Graduate Courses</h2>
+
+  <div class="teaching-list">
+    {% for course in graduate_courses %}
+      <div class="teaching-item">
+        <h3 class="archive__item-title">
+          <a href="{{ base_path }}/teaching/{{ course.slug }}/">
+            {{ course.code }} – {{ course.title }}
+          </a>
+        </h3>
+
+        {% if course.category %}
+          <p class="archive__item-excerpt">
+            {{ course.category }}
+          </p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
