@@ -5,32 +5,259 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- ========================================================= -->
+<!--                     PAGE-SPECIFIC CSS                     -->
+<!-- ========================================================= -->
+
+<style>
+
+/* ========================================================= */
+/*                     PAGE INTRODUCTION                      */
+/* ========================================================= */
+
+.pub-page {
+  width: 100%;
+  max-width: 900px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pub-intro {
+  margin-bottom: 1.5rem;
+}
+
+.pub-intro p {
+  margin: 0 0 0.9rem 0;
+  color: #555555;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ========================================================= */
+/*                     PROFILE BUTTONS                        */
+/* ========================================================= */
+
+.pub-profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1.25rem 0 2.25rem 0;
+}
+
+.pub-profile-link {
+  display: inline-block;
+  padding: 9px 17px;
+  border: 1px solid #2c7fa8;
+  border-radius: 999px;
+  color: #2c7fa8 !important;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.pub-profile-link:hover {
+  background: #2c7fa8;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+/* ========================================================= */
+/*                     CATEGORY HEADINGS                      */
+/* ========================================================= */
+
+.pub-category-heading {
+  margin: 2.5rem 0 1rem 0;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #eeeeee;
+  color: #2c7fa8;
+  font-size: 1.35rem;
+  line-height: 1.3;
+}
+
+/* ========================================================= */
+/*                     ARCHIVE APPEARANCE                     */
+/* ========================================================= */
+
+.pub-archive {
+  width: 100%;
+}
+
+.pub-archive .archive__item {
+  margin-bottom: 1.35rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.pub-archive .archive__item-title {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.pub-archive .archive__item-title a {
+  color: #2c7fa8 !important;
+  text-decoration: none !important;
+}
+
+.pub-archive .archive__item-title a:hover {
+  color: #1f5f80 !important;
+  text-decoration: underline !important;
+}
+
+.pub-archive .archive__item-excerpt,
+.pub-archive .page__meta {
+  color: #555555;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* ========================================================= */
+/*                     MOBILE DESIGN                          */
+/* ========================================================= */
+
+@media screen and (max-width: 700px) {
+
+  .pub-profile-links {
+    flex-direction: column;
+  }
+
+  .pub-profile-link {
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .pub-category-heading {
+    font-size: 1.2rem;
+  }
+
+}
+
+</style>
+
+<!-- ========================================================= -->
+<!--                     PAGE CONTENT                         -->
+<!-- ========================================================= -->
+
+<div class="pub-page">
+
+<!-- ========================================================= -->
+<!--                     INTRODUCTION                         -->
+<!-- ========================================================= -->
+
+<div class="pub-intro">
+
+  <p>
+    My publications span computational mechanics, contact mechanics, thin-film and interface mechanics, crashworthiness, structural stability, peridynamics, fracture mechanics, and simulation-driven engineering design.
+  </p>
+
+  <p>
+    The publication archive below is generated automatically from the site’s publication collection. The complete and most recently updated citation record is also available through the scholarly profiles below.
+  </p>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                     SCHOLARLY PROFILES                    -->
+<!-- ========================================================= -->
+
+<div class="pub-profile-links">
+
+  {% if site.author.googlescholar %}
+  <a
+    class="pub-profile-link"
+    href="{{ site.author.googlescholar }}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Google Scholar
+  </a>
+  {% endif %}
+
+  {% if site.author.scopus %}
+  <a
+    class="pub-profile-link"
+    href="{{ site.author.scopus }}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Scopus
+  </a>
+  {% endif %}
+
+  {% if site.author.orcid %}
+  <a
+    class="pub-profile-link"
+    href="{{ site.author.orcid }}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    ORCID
+  </a>
+  {% endif %}
+
+  {% if site.author.researchgate %}
+  <a
+    class="pub-profile-link"
+    href="{{ site.author.researchgate }}"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    ResearchGate
+  </a>
+  {% endif %}
+
+</div>
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- ========================================================= -->
+<!--                     PUBLICATION ARCHIVE                   -->
+<!-- ========================================================= -->
+
+<div class="pub-archive">
+
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+
+  {% for category in site.publication_category %}
+
     {% assign title_shown = false %}
+
     {% for post in site.publications reversed %}
+
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
+
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+
+        <h2 class="pub-category-heading">
+          {{ category[1].title }}
+        </h2>
+
         {% assign title_shown = true %}
+
       {% endunless %}
+
       {% include archive-single.html %}
+
     {% endfor %}
+
   {% endfor %}
+
 {% else %}
+
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+
 {% endif %}
 
+</div>
 
-
+</div>
