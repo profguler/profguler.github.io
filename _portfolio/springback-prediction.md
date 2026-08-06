@@ -51,7 +51,7 @@ Conducted in collaboration with **Coşkunöz Holding**, the project addressed on
 
 ### Conference Paper
 
-📄 [Robust Springback Optimisation of DP600 Steels for U-Channel Forming (PDF)](/files/conference/Bekar_Acar_Ozer_Guler_WCE2011.pdf)
+📄 [Robust Springback Optimisation of DP600 Steels for U-Channel Forming (PDF)](/files/conference/2011_WCE_Bekar_Acar_Ozer_Guler.pdf)
 ### Conference Presentation
 
 🎤 **Springback Prediction of DP600 Steels for Various Material Models**
