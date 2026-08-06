@@ -51,12 +51,7 @@ Conducted in collaboration with **Coşkunöz Holding**, the project addressed on
 
 ### Conference Paper
 
-📄 **Robust Springback Optimisation of DP600 Steels for U-Channel Forming**
-
-D. Bekar, E. Acar, F. Özer, and M. A. Guler.
-
-*World Congress on Engineering (WCE 2011), London, United Kingdom, 2011.*
-
+📄 [Robust Springback Optimisation of DP600 Steels for U-Channel Forming (PDF)](/files/conference/Bekar_Acar_Ozer_Guler_WCE2011.pdf)
 ### Conference Presentation
 
 🎤 **Springback Prediction of DP600 Steels for Various Material Models**
