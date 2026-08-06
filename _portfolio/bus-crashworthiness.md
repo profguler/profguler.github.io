@@ -21,19 +21,19 @@ excerpt: "Development of advanced passive safety systems for improving the front
 
 ## Project Overview
 
-This project focused on improving the frontal crashworthiness of intercity buses by developing structural energy-absorbing solutions to enhance driver protection during frontal collisions. Conducted in collaboration with **TEMSA Global**, the research combined nonlinear finite element analysis, structural redesign, and experimental validation to improve the crash performance of the front body structure while satisfying the requirements of the **ECE R-29** regulation.
+This SAN-TEZ project, conducted in collaboration with **TEMSA Global**, focused on improving the frontal crashworthiness of intercity buses through advanced structural design and energy absorption. The research combined nonlinear finite element analysis, structural optimization, and experimental validation to enhance driver protection while satisfying the requirements of the **ECE R-29** regulation.
 
 ---
 
 ## Highlights
 
 - Developed a full-scale finite element model of an intercity coach using **LS-DYNA**.
-- Evaluated the baseline bus structure according to **ECE R-29** frontal-impact requirements.
-- Identified critical structural weaknesses in the front body through nonlinear crash simulations.
-- Redesigned the front structure to improve crash-energy absorption and preserve the driver's survival space.
-- Developed and evaluated thin-walled energy-absorbing components.
+- Evaluated the baseline vehicle according to **ECE R-29** frontal crash requirements.
+- Identified critical structural weaknesses through nonlinear crash simulations.
+- Redesigned the front body structure to improve crash energy absorption.
+- Developed and optimized thin-walled energy-absorbing components.
 - Validated numerical predictions through experimental testing.
-- Produced three journal articles, one international conference paper, and one M.S. thesis.
+- Produced **three journal articles, one international conference paper, and one M.S. thesis**.
 
 ---
 
@@ -41,11 +41,11 @@ This project focused on improving the frontal crashworthiness of intercity buses
 
 ### Journal Articles
 
-- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions]({{ "/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/" | relative_url }})
+- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/)
 
-- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations]({{ "/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/" | relative_url }})
+- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
 
-- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading]({{ "/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/" | relative_url }})
+- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/)
 
 ### Conference Paper
 
