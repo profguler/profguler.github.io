@@ -11,4 +11,4 @@ doi: "10.1080/13588260903488750"
 first_author: true
 ---
 
-**Publisher's Version:** [View on Taylor & Francis](https://doi.org/10.1080/13588260903488750)
+**Publisher's Version:** [View on Taylor & Francis](https://doi.org/10.1080/13588260903488750) (DOI: 10.1080/13588260903488750)
