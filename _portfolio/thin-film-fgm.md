@@ -47,9 +47,9 @@ This TÜBİTAK-funded research project focused on developing analytical and nume
 
 ### Conference Papers
 
-- [Modeling of Thin Films and Cover Plates Bonded to Graded Substrates]({{ "/publication/2008-aip-modeling-thin-films-graded-substrates/" | relative_url }})
+- [Modeling of Thin Films and Cover Plates Bonded to Graded Substrates](/files/conference/2008_AIP_thin_film.pdf)
 
-- [Mechanical Modeling of Thin Films Bonded to Functionally Graded Materials]({{ "/publication/2010-msf-mechanical-modeling-thin-films-fgm/" | relative_url }})
+- [Mechanical Modeling of Thin Films Bonded to Functionally Graded Materials](/files/conference/2010_FGM_Sendai_v2.pdf)
 
 ### Student Thesis
 
