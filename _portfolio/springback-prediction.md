@@ -45,9 +45,11 @@ Conducted in collaboration with **Coşkunöz Holding**, the project addressed on
 
 ### Journal Articles
 
-- [The Effect of Various Material Models on the Springback Prediction of DP600 Steel]({{ "/publication/2010-sri-springback-dp600-steels-various-material/" | relative_url }})
+- [Springback Prediction of DP600 Steels for Various Material Models](/publication/2010-sri-springback-dp600-steels-various-material/)
 
-- [Robust Optimization of Springback in U-Channel Forming of DP600 Steel Using Response Surface Methodology]({{ "/publication/2012-jmpt-robust-optimization-springback-u-channel/" | relative_url }})
+- [Analyzing Batch-to-Batch and Part-to-Part Springback Variation of DP600 Steels Using a Double-Loop Monte Carlo Simulation](/publication/2012-jem-analyzing-batch-part-springback-variation/)
+
+- [Robust Springback Optimization of a Dual Phase Steel Seven-Flange Die Assembly](/publication/2012-smo-robust-springback-optimization-dual-phase/)
 
 ### Conference Paper
 
