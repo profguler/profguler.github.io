@@ -2,7 +2,7 @@
 title: "The effect of geometrical parameters on the energy absorption characteristics of thin-walled structures under axial impact loading"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-the-effect-of-geometrical-parameters-on-the-energy-absorption-characteristics-of-thin-walled-st
+permalink: /publication/2010-ijcrash-energy-absorption
 date: 2010-01-01
 venue: "International Journal of Crashworthiness"
 citation: >-
