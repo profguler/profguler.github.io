@@ -41,7 +41,7 @@ This project focused on improving the frontal crashworthiness of intercity buses
 
 ### Journal Articles
 
-- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/)
+- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jbsmse-multi-fidelity-crashworthiness-optimization-bus/)
 
 - [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
 
