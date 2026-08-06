@@ -41,11 +41,12 @@ This project focused on improving the frontal crashworthiness of intercity buses
 
 ### Journal Articles
 
-- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publications/2020-bus-crashworthiness/)
+- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-experimental-and-numerical-study-on-the-crashworthiness-evaluation-of-an-intercity-coach-under-)
 
-- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publications/2011-twst-crashworthiness/)
+- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-multi-objective-crashworthiness-optimization-of-tapered-thin-walled-tubes-with-axisymmetric-ind)
 
-- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publications/2010-ijcrash-energy-absorption/)
+- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-the-effect-of-geometrical-parameters-on-the-energy-absorption-characteristics-of-thin-walled-st)
+
 
 ### Conference Paper
 
