@@ -45,7 +45,7 @@ This project focused on improving the frontal crashworthiness of intercity buses
 
 - [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-multi-objective-crashworthiness-optimization-of-tapered-thin-walled-tubes-with-axisymmetric-ind)
 
-- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-energy-absorption)
+- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-energy-absorption/)
 
 
 ### Conference Paper
