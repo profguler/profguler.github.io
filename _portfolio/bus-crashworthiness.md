@@ -43,7 +43,7 @@ This SAN-TEZ project, conducted in collaboration with **TEMSA Global**, focused 
 
 - [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/)
 
-- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
+- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](https://profguler.github.io/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
 
 - [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/)
 
@@ -66,3 +66,5 @@ M.S. Thesis, TOBB University of Economics and Technology, 2011
 ## Project Gallery
 
 Representative figures illustrating the finite element model, frontal crash simulations, structural redesign, energy absorbers, and experimental validation will be added here.
+
+<!-- Updated publication links: August 6, 2026 -->
