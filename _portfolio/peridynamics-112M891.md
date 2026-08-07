@@ -59,41 +59,57 @@ Major technical achievements include
 - Established the computational framework that later enabled advanced state-based peridynamic research.
 
 ---
-
 ## Research Outputs
 
 ### Conference Papers
 
-📄 **Prediction of Crack Propagation in Composite Laminates Using Bond-Based Peridynamic Theory**
+📄 **[Peridynamic Analyses of Structures by Using Finite Element Method](/files/conference/2015_Rezazadeh_Tastan_Yolum_Guler_AIAC_Peridynamic_Analyses.pdf)**
 
-M. A. Güler, A. Taştan, and B. Aksoylu.
+Vahid Rezazadeh, Ahmet Tastan, Ugur Yolum, and Mehmet Ali Guler.
 
-*ECCOMAS Congress 2016, Crete Island, Greece.*
-
-[Download Paper](/files/publications/eccomas2016_peridynamics.pdf)
+*8th Ankara International Aerospace Conference (AIAC 2015), METU, Ankara, Turkey, 10–12 September 2015.*
 
 ---
 
-📄 **Implementation of Bond-Based Peridynamic Theory into ABAQUS for Fracture Analysis**
+📄 **[Implementation of Peridynamic Theory to LS-DYNA for Prediction of Crack Propagation in a Composite Lamina](/files/conference/2015_LSDYNA_Tezcan_Crack_Prog_Composite.pdf)**
 
-M. A. Güler, A. Taştan, and B. Aksoylu.
+Tezcan Kahraman, Uğur Yolum, and Mehmet Ali Guler.
 
-*International Conference on Computational and Experimental Science and Engineering (ICCESEN 2015), Antalya, Turkey.*
-
-[Download Paper](/files/publications/iccesen2015_peridynamics.pdf)
+*10th European LS-DYNA Conference, Würzburg, Germany, 2015.*
 
 ---
 
-📄 **Prediction of Damage and Failure in Composite Structures Using Bond-Based Peridynamic Theory**
+📄 **[A 2D Peridynamic Model for Failure Analysis of Orthotropic Thin Plates Due to Bending](/files/conference/2016_ECF21_Tastan_Orhtotropic_thin_film.pdf)**
 
-M. A. Güler, A. Taştan, and B. Aksoylu.
+A. Taştan, U. Yolum, M. A. Güler, M. Zaccariotto, and U. Galvanetto.
 
-*International Conference on Engineering Technologies (ICENTE 2015), Tbilisi, Georgia.*
+*21st European Conference on Fracture (ECF21), Catania, Italy, 20–24 June 2016.*
 
-[Download Paper](/files/publications/icente2015_peridynamics.pdf)
+Published in *Procedia Structural Integrity*, **2**, 261–268.
+
+DOI: 10.1016/j.prostr.2016.06.034
 
 ---
 
+📄 **[A Peridynamic Model for Ductile Fracture of Moderately Thick Plates](/files/conference/2016_ECF21_Yolum_Ductile_Fracture.pdf)**
+
+Uğur Yolum, Ahmet Taştan, and Mehmet A. Güler.
+
+*21st European Conference on Fracture (ECF21), Catania, Italy, 20–24 June 2016.*
+
+Published in *Procedia Structural Integrity*, **2**, 3713–3720.
+
+DOI: 10.1016/j.prostr.2016.06.461
+
+---
+
+### Conference Presentation
+
+📊 **[Modeling of Mode I Delamination Growth in Composites by Using Peridynamics Implemented in Abaqus](/files/conference/2015_Ugur_Yolum_CACMS2015_Modeling_of_Mode_I.pdf)**
+
+Uğur Yolum, Ahmet Taştan, Tezcan Kahraman, Mehmet A. Guler, Erkan Oterkus, and Erdogan Madenci.
+
+*2015 International Conference on Advances in Composite Materials and Structures, Istanbul Technical University, Istanbul, Turkey.*
 ### Graduate Student Thesis
 
 🎓 **Ahmet Taştan**
