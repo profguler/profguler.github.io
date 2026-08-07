@@ -47,36 +47,11 @@ Particular emphasis was placed on delamination in laminated composites, thick or
 
 ### Journal Articles
 
-- **On the Peridynamic Formulation for an Orthotropic Mindlin Plate under Bending**
+- [On the Peridynamic Formulation for an Orthotropic Mindlin Plate under Bending](/publication/2020-mms-peridynamic-formulation-orthotropic-mindlin-plate/)
 
-  U. Yolum and M. A. Güler.
+- [Intersonic Shear Crack Propagation Using Peridynamic Theory](/publication/2021-ijf-intersonic-shear-crack-propagation-peridynamic/)
 
-  *Mathematics and Mechanics of Solids*, 25(2), 263–287, 2020.
-
-  DOI: 10.1177/1081286519873694
-
----
-
-- **Intersonic Shear Crack Propagation Using Peridynamic Theory**
-
-  U. Yolum, D. Coker, and M. A. Güler.
-
-  *International Journal of Fracture*, 228, 103–126, 2021.
-
-  DOI: 10.1007/s10704-021-00520-3
-
----
-
-- **Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory**
-
-  U. Yolum, M. O. Bozkurt, E. Gok, D. Coker, and M. A. Güler.
-
-  *Composite Structures*, 301, 116050, 2022.
-
-  DOI: 10.1016/j.compstruct.2022.116050
-
----
-
+- [Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory](/publication/2022-compstruct-crack-propagation-double-cantilever-beam/)
 ### Conference Papers
 
 📄 [Peridynamic Modelling of Delamination in DCB Specimen (PDF)](/files/conference/2018_ECF22_Yolum_DCB.pdf)
