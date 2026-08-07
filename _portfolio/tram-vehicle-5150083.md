@@ -76,7 +76,7 @@ O. Mülkoğlu, A. R. Seyedi, M. A. Güler, and B. Yıldırım.
 
 *8th International Advanced Technologies Symposium (IATS'17), Elazığ, Turkey, 19–21 October 2017.*
 
-[Download Paper](/files/publications/2017-IATS17-Mulkoglu_et_al.pdf)
+[Download Paper](/files/conference/2017-IATS17-Mulkoglu_et_al.pdf)
 
 ---
 
