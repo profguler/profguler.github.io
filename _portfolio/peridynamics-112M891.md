@@ -144,15 +144,15 @@ Although this project did not directly produce journal publications, it successf
 
 The project produced
 
-- three international conference papers,
+- four international conference papers,
+- one international conference presentation,
 - one M.S. thesis,
 - multiple computational software tools,
-- the initial MATLAB and ABAQUS implementations of bond-based peridynamic theory.
+- MATLAB-based preprocessing and model-generation procedures,
+- finite element implementations of bond-based peridynamic theory in ABAQUS and LS-DYNA,
+- international research collaboration with Prof. Erdogan Madenci and Prof. Erkan Oterkus.
 
-More importantly, the methodologies and software developed during this project became the foundation for the subsequent TÜBİTAK peridynamics project, which resulted in three peer-reviewed journal publications in leading international journals.
-
----
-
+More importantly, the methodologies, computational tools, and research experience developed during this project established the foundation for the subsequent TÜBİTAK-funded Peridynamics project (115M585). That follow-up project extended the work to experimentally validated fracture and delamination problems and resulted in three peer-reviewed journal publications, one Ph.D. dissertation, and additional graduate research.
 ## Project Gallery
 
 Representative figures illustrating
