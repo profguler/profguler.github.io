@@ -4,6 +4,7 @@ collection: portfolio
 type: "Funded Research Project"
 permalink: /projects/peridynamics-115M585/
 excerpt: "TÜBİTAK-funded research project integrating peridynamic theory, finite element implementation, and experiments for fracture and delamination analysis of composite structures."
+date: 2017-09-01
 ---
 
 ## Funding Information
