@@ -17,6 +17,8 @@ engineering applications.
 
 <hr>
 
-{% for post in site.teaching reversed %}
+{% assign sorted_teaching = site.teaching | sort: "title" %}
+
+{% for post in sorted_teaching %}
   {% include archive-single.html %}
 {% endfor %}
