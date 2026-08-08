@@ -5,6 +5,10 @@ type: "Funded Research Project"
 permalink: /projects/bus-crashworthiness/
 excerpt: "Development of advanced passive safety systems for improving the frontal crashworthiness of intercity buses through finite element analysis, structural redesign, and experimental validation."
 date: 2008-10-01
+
+project_duration: "2008–2010"
+project_program: "SANTEZ"
+project_role: "Principal Investigator"
 ---
 
 ## Funding Information
