@@ -6,13 +6,13 @@ excerpt: "Industrial R&D project on the design, kinematic analysis, efficiency o
 date: 2018-05-15
 
 project_duration: "2018–2019"
-project_program: "TÜBİTAK TEYDEB"
-project_role: "Consultant"
+project_program: "TÜBİTAK TEYDEB / TürkTraktör"
+project_role: "Academic Advisor"
 ---
 
 ## Project Overview
 
-This industrial R&D project focused on the development of a novel **Power-Split Infinitely Variable Transmission (PS-IVT)** for agricultural tractors. The project was carried out in collaboration with **TürkTraktör A.Ş.** and **OTEST Automotive Test and Research Center**.
+This research was conducted in connection with a TÜBİTAK TEYDEB-supported industrial R&D project at TürkTraktör focused on the development of a novel **Power-Split Infinitely Variable Transmission (PS-IVT)** for agricultural tractors. The academic research was carried out primarily through the Ph.D. work of **Ender İnce** under the supervision of **Prof. Mehmet A. Güler**.
 
 The primary objective was to develop a new hydro-mechanical power-split transmission architecture that combines continuously variable speed control with high mechanical efficiency. The project included conceptual transmission design, kinematic analysis, power-flow analysis, mechanical efficiency evaluation, optimization of transmission parameters, and fuel consumption assessment under realistic operating conditions.
 
@@ -25,10 +25,10 @@ A comprehensive computational framework was developed to model the transmission 
 | Item | Description |
 |------|-------------|
 | Industrial Partner | TürkTraktör A.Ş. |
-| Project Partner | OTEST Automotive Test and Research Center |
-| Project Type | Industrial R&D Project |
-| Duration | May 2018 – January 2019 |
-| Principal Investigator | Prof. Mehmet A. Güler |
+| Funding Program | TÜBİTAK TEYDEB |
+| Duration | 2018–2019 |
+| Academic Advisor | Prof. Mehmet A. Güler |
+| Doctoral Researcher | Ender İnce |
 
 ---
 
