@@ -4,6 +4,10 @@ collection: portfolio
 permalink: /portfolio/tram-vehicle-5150083
 excerpt: "TÜBİTAK-funded university–industry collaborative research project on the structural design, finite element analysis, optimization, fatigue assessment, and crashworthiness of a new generation low-floor tram vehicle."
 date: 2017-10-01
+
+project_duration: "2017–2018"
+project_program: "TÜBİTAK 1505"
+project_role: "Co-Principal Investigator"
 ---
 
 ## Project Overview
