@@ -4,6 +4,10 @@ collection: portfolio
 permalink: /portfolio/transmission-psivt
 excerpt: "Industrial R&D project on the design, kinematic analysis, efficiency optimization, and fuel consumption evaluation of a novel power-split infinitely variable transmission for agricultural tractors."
 date: 2018-05-15
+
+project_duration: "2018–2019"
+project_program: "TÜBİTAK TEYDEB"
+project_role: "Consultant"
 ---
 
 ## Project Overview
