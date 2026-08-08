@@ -92,11 +92,29 @@ Hacettepe University
 
 2019
 
-Supervisor: Bora Yıldırım
-
+Supervisor: Bora Yıldırım  
 Co-supervisor: Mehmet A. Güler
 
 [Download Thesis (PDF)](/files/theses/Alireza_Seyedi_MS_Thesis_2019.pdf)
+
+---
+
+#### Oğuzhan Mülkoğlu
+
+**Fatigue Life Estimation of Welded Structures: A New Modified Hot-spot Stress Method**
+
+Ph.D. Dissertation
+
+Ankara Yıldırım Beyazıt University
+
+December 2022
+
+Supervisor: Fatih Göncü  
+Co-supervisor: Mehmet A. Güler
+
+The dissertation extended the fatigue-analysis research associated with the tram project, including structural-stress and hot-spot-stress assessment of welded connections in the tram structure.
+
+[Download Dissertation (PDF)](/files/theses/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf)
 ---
 
 ## Industrial Collaboration
