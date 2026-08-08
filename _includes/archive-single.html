@@ -46,6 +46,21 @@
       </p>
     {% endif %}
 
+    {% if post.collection == 'portfolio' %}
+  <p class="page__meta">
+    {% if post.project_program %}
+      <strong>{{ post.project_program }}</strong>
+    {% endif %}
+    {% if post.project_duration %}
+      · {{ post.project_duration }}
+    {% endif %}
+    {% if post.project_role %}
+      · {{ post.project_role }}
+    {% endif %}
+  </p>
+{% endif %}
+    
+    
     {% if post.collection == 'teaching' %}
 
       <p>
