@@ -4,6 +4,7 @@ collection: portfolio
 type: "Funded Research Project"
 permalink: /projects/fgm-contact-mechanics/
 excerpt: "Development of analytical and numerical methods for contact mechanics analysis of functionally graded materials, thin films, graded coatings, and cover plates."
+date: 2007-10-01
 ---
 
 ## Funding Information
