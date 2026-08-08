@@ -5,6 +5,10 @@ type: "Funded Research Project"
 permalink: /projects/springback-prediction/
 excerpt: "Development of finite element, experimental, and optimization methodologies for accurate springback prediction and robust design of advanced high-strength steels during sheet metal forming."
 date: 2009-10-01
+
+project_duration: "2009–2011"
+project_program: "TÜBİTAK 1001"
+project_role: "Principal Investigator"
 ---
 
 ## Funding Information
