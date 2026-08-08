@@ -3,7 +3,7 @@ title: "Development of a Method to Predict Strength and Failure of Layered Compo
 collection: portfolio
 permalink: /portfolio/peridynamics-112M891
 excerpt: "TÜBİTAK-funded research project on the development of bond-based peridynamic methods for predicting damage initiation and failure in isotropic and composite structures."
-date: 2013-01-01
+date: 2013-10-01
 ---
 
 ## Project Overview
