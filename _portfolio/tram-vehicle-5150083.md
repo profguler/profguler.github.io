@@ -3,7 +3,7 @@ title: "Design and Optimization of the Body and Chassis of a New Tram Vehicle un
 collection: portfolio
 permalink: /portfolio/tram-vehicle-5150083
 excerpt: "TÜBİTAK-funded university–industry collaborative research project on the structural design, finite element analysis, optimization, fatigue assessment, and crashworthiness of a new generation low-floor tram vehicle."
-date: 2017-01-01
+date: 2017-10-01
 ---
 
 ## Project Overview
