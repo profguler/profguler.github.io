@@ -152,7 +152,7 @@ author_profile: true
   </p>
 
   <p>
-  The research activities are organized into seven principal themes.
+  The research activities are organized into six principal themes.
   </p>
 
 </div>
