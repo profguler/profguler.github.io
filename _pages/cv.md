@@ -11,6 +11,12 @@ Professor of Mechanical Engineering with research and professional experience sp
 
 ---
 
+<p>
+  <a href="/files/cv/Mehmet_A_Guler_CV.pdf">
+    <strong>Download Full Academic CV (PDF)</strong>
+  </a>
+</p>
+
 ## Academic Appointments
 
 **Professor of Mechanical Engineering**  
