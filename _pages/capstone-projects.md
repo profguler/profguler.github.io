@@ -40,7 +40,7 @@ force, mean crushing force, crushing force efficiency, and structural stability.
 
 ### Crashworthiness Evaluation of 3D-Printed PLA+ and PLA-CF Tubes with Varying Geometries Using Additive Manufacturing
 
-**Students:** Omar Elsaved, Abdulrahman Alsadi, Yousef Aldousari, Husain Aldallal  
+**Students:** Omar ElSayed, Hussain Aldallal, Abdulrahman Alsadi, Yousef Aldousari  
 **Semester:** Spring 2025  
 **Project Type:** Graduation Project  
 **Institution:** American University of the Middle East  
@@ -56,6 +56,13 @@ energy-absorption performance.
 
 [View Project Poster (PDF)](/files/capstone/posters/2025-aum-3d-printed-pla-crash-boxes.pdf)
 
+#### Related Publication
+
+- Saber, A., Güler, M.A., Acar, E., ElSayed, O.S., Aldallal, H., Alsadi, A., and Aldousari, Y.,
+  "Crash Performance of Additively Manufactured Tapered Tube Crash Boxes:
+  Influence of Material and Geometric Parameters,"
+  *Designs*, Vol. 9, Article 72, 2025.
+  [View Publication](/publication/2025-designs-crash-performance-additively-manufactured-tapered/)
 ---
 
 ### Design of a Crash Box for Automotive Bumper System
