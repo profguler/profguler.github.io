@@ -5,14 +5,13 @@ permalink: /graduate-supervision/
 author_profile: true
 ---
 
-My graduate supervision has included research in computational mechanics, contact
-mechanics, structural mechanics, crashworthiness, peridynamics, optimization,
-mechanical design, fatigue, and transportation systems. The completed Ph.D.
-dissertations and M.S. theses listed below are organized in reverse chronological
-order.
+My graduate supervision has included research in computational mechanics, contact mechanics,
+structural mechanics, crashworthiness, peridynamics, optimization, mechanical design,
+fatigue, and transportation systems. The completed Ph.D. dissertations and M.S. theses
+listed below are organized in reverse chronological order.
 
-Thesis PDF files and related journal or conference publications are linked where
-available and will continue to be added.
+Thesis PDF files will be added as they become available. Related journal publications
+already included in the Publications section of this website are linked below.
 
 ---
 
@@ -29,13 +28,12 @@ Ankara Yıldırım Beyazıt University, 2022
 **Supervisor:** Fatih Göncü  
 **YÖK Thesis No.:** 789525
 
-<!--
-[Download Dissertation (PDF)](/files/theses/phd/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf)
+<!-- [Download Dissertation (PDF)](/files/theses/phd/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf) -->
 
 #### Related Publications
 
-- Add related journal and conference publications here.
--->
+- [Modified Hot-Spot Stress Method for Fatigue Life Estimation of Welded Components](/publication/2025-mattest-modified-hot-spot-stress-fatigue/)
+- [Fatigue Life Estimation of Welded Connections in a Tram Vehicle](/publication/2022-ijhvs-fatigue-life-estimation-welded-connections/)
 
 ---
 
@@ -50,13 +48,13 @@ Ankara Yıldırım Beyazıt University, 2022
 **Supervisor:** Adem Çiçek  
 **YÖK Thesis No.:** 821645
 
-<!--
-[Download Dissertation (PDF)](/files/theses/phd/Sinem_Kocaoglan_Mert_PhD_Thesis_2022.pdf)
+<!-- [Download Dissertation (PDF)](/files/theses/phd/Sinem_Kocaoglan_Mert_PhD_Thesis_2022.pdf) -->
 
 #### Related Publications
 
-- Add related journal and conference publications here.
--->
+- [Experimental and Numerical Investigation on the Crashworthiness Optimization of Thin-Walled Aluminum Tubes Considering Damage Criteria](/publication/2021-jbsmse-crashworthiness-optimization-thin-walled-aluminum/)
+- [Crashworthiness Evaluation of Hybrid Tubes Made of GFRP Composite and Aluminum Tubes Filled with Honeycomb Structures](/publication/2023-jbsmse-crashworthiness-hybrid-tubes-made-gfrp/)
+- [An Investigation on the Energy Absorption Capability of Aluminum Foam-Filled Multi-Cell Tubes](/publication/2023-jbsmse-energy-absorption-capability-aluminum-foam/)
 
 ---
 
@@ -70,15 +68,13 @@ TOBB University of Economics and Technology, 2021
 **Role:** Supervisor  
 **YÖK Thesis No.:** 668576
 
-<!--
-[Download Dissertation (PDF)](/files/theses/phd/Ugur_Yolum_PhD_Thesis_2021.pdf)
+<!-- [Download Dissertation (PDF)](/files/theses/phd/Ugur_Yolum_PhD_Thesis_2021.pdf) -->
 
 #### Related Publications
 
-- On the Peridynamic Formulation for an Orthotropic Mindlin Plate under Bending
-- Intersonic Shear Crack Propagation Using Peridynamic Theory
-- Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory
--->
+- [On the Peridynamic Formulation for an Orthotropic Mindlin Plate under Bending](/publication/2020-mms-peridynamic-formulation-orthotropic-mindlin-plate/)
+- [Intersonic Shear Crack Propagation Using Peridynamic Theory](/publication/2021-ijf-intersonic-shear-crack-propagation-peridynamic/)
+- [Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory](/publication/2022-compstruct-crack-propagation-double-cantilever-beam/)
 
 ---
 
@@ -92,13 +88,12 @@ TOBB University of Economics and Technology, 2019
 **Role:** Supervisor  
 **YÖK Thesis No.:** 608915
 
-<!--
-[Download Dissertation (PDF)](/files/theses/phd/Ender_Ince_PhD_Thesis_2019.pdf)
+<!-- [Download Dissertation (PDF)](/files/theses/phd/Ender_Ince_PhD_Thesis_2019.pdf) -->
 
 #### Related Publications
 
-- Add related PS-IVT journal and conference publications here.
--->
+- [Design and Analysis of a Novel Power-Split Infinitely Variable Power Transmission System](/publication/2019-journal-design-novel-power-split-infinitely/)
+- [On the Advantages of the New Power-Split Infinitely Variable Transmission over Conventional Mechanical Transmissions Based on Fuel Consumption Analysis](/publication/2020-jclepro-advantages-new-power-split-infinitely/)
 
 ---
 
@@ -113,13 +108,14 @@ Gazi University, 2017
 **Supervisor:** Hüseyin Serdar Yücesu  
 **YÖK Thesis No.:** 460897
 
-<!--
-[Download Dissertation (PDF)](/files/theses/phd/Murat_Altin_PhD_Thesis_2017.pdf)
+<!-- [Download Dissertation (PDF)](/files/theses/phd/Murat_Altin_PhD_Thesis_2017.pdf) -->
 
 #### Related Publications
 
-- Add related publications here.
--->
+- [The Effect of Percent Foam Fill Ratio on the Energy Absorption Capacity of Axially Compressed Thin-Walled Multi-Cell Square and Circular Tubes](/publication/2017-ijms-percent-foam-fill-ratio-energy/)
+- [Foam Filling Options for Crashworthiness Optimization of Thin-Walled Multi-Tubular Circular Columns](/publication/2018-tws-foam-filling-options-crashworthiness-optimization/)
+- [Investigation of Combined Effects of Cross Section, Taper Angle and Cell Structure on Crashworthiness of Multi-Cell Thin-Walled Tubes](/publication/2019-ijcrash-combined-cross-section-taper-angle/)
+- [Evaluation of Various Multi-Cell Design Concepts for Crashworthiness Design of Thin-Walled Aluminum Tubes](/publication/2019-tws-various-multi-cell-design-concepts/)
 
 ---
 
@@ -136,13 +132,11 @@ Hacettepe University, 2023
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 840177
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Samet_Eltas_MS_Thesis_2023.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Samet_Eltas_MS_Thesis_2023.pdf) -->
 
 #### Related Publications
 
-- Add related publications here.
--->
+- [On the Beam-to-Beam Eccentric End Plate Connections: A Numerical Study](/publication/2023-tws-beam-eccentric-end-plate-connections/)
 
 ---
 
@@ -157,13 +151,11 @@ TOBB University of Economics and Technology, 2021
 **Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 696753
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Evren_Emre_Ustun_MS_Thesis_2021.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Evren_Emre_Ustun_MS_Thesis_2021.pdf) -->
 
 #### Related Publications
 
-- Add related journal and conference publications here.
--->
+- [Design of an Energy Efficient Cylindrical Roller Bearing](/publication/2024-mbdsm-design-energy-efficient-cylindrical-roller/)
 
 ---
 
@@ -178,13 +170,7 @@ TOBB University of Economics and Technology, 2021
 **Co-Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 689758
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Busra_Baykan_Mercan_MS_Thesis_2021.pdf)
-
-#### Related Publications
-
-- Add related peridynamics publications here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Busra_Baykan_Mercan_MS_Thesis_2021.pdf) -->
 
 ---
 
@@ -199,13 +185,11 @@ TOBB University of Economics and Technology, 2020
 **Co-Supervisor:** Dilek Funda Kurtuluş  
 **YÖK Thesis No.:** 655187
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Murvet_Bektas_MS_Thesis_2020.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Murvet_Bektas_MS_Thesis_2020.pdf) -->
 
 #### Related Publications
 
-- Add related publications here.
--->
+- [One-Way FSI Analysis of Bio-Inspired Flapping Wings](/publication/2020-ijsa-one-way-fsi-bio-inspired/)
 
 ---
 
@@ -219,13 +203,11 @@ TOBB University of Economics and Technology, 2020
 **Role:** Supervisor  
 **YÖK Thesis No.:** 654936
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Eda_Gok_MS_Thesis_2020.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Eda_Gok_MS_Thesis_2020.pdf) -->
 
 #### Related Publications
 
-- Add related peridynamics publications here.
--->
+- [Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory](/publication/2022-compstruct-crack-propagation-double-cantilever-beam/)
 
 ---
 
@@ -240,13 +222,11 @@ TOBB University of Economics and Technology, 2019
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 650659
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Burak_Yilmaz_MS_Thesis_2019.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Burak_Yilmaz_MS_Thesis_2019.pdf) -->
 
 #### Related Publications
 
-- Add related crashworthiness and optimization publications here.
--->
+- [Multi-Fidelity Crashworthiness Optimization of a Bus Bumper System under Frontal Impact](/publication/2020-jbsmse-multi-fidelity-crashworthiness-optimization-bus/)
 
 ---
 
@@ -261,13 +241,11 @@ Hacettepe University, 2019
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 593759
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Alireza_Seyedi_MS_Thesis_2019.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Alireza_Seyedi_MS_Thesis_2019.pdf) -->
 
 #### Related Publications
 
-- Add related tram structural analysis and fatigue publications here.
--->
+- [Fatigue Life Estimation of Welded Connections in a Tram Vehicle](/publication/2022-ijhvs-fatigue-life-estimation-welded-connections/)
 
 ---
 
@@ -282,13 +260,11 @@ TOBB University of Economics and Technology, 2019
 **Co-Supervisor:** Mehmet Şahin  
 **YÖK Thesis No.:** 574532
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Baris_Mehmet_Zeytinci_MS_Thesis_2019.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Baris_Mehmet_Zeytinci_MS_Thesis_2019.pdf) -->
 
 #### Related Publications
 
-- Add related publications here.
--->
+- [A Practical Design Formulation for Perforated Beams with Openings Strengthened with Ring Type Stiffeners Subject to Vierendeel Actions](/publication/2021-jbe-practical-design-formulation-perforated-beams/)
 
 ---
 
@@ -302,13 +278,12 @@ TOBB University of Economics and Technology, 2019
 **Role:** Supervisor  
 **YÖK Thesis No.:** 547059
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Emre_Ozaslan_MS_Thesis_2019.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Emre_Ozaslan_MS_Thesis_2019.pdf) -->
 
 #### Related Publications
 
-- Add related composite mechanics publications here.
--->
+- [Stress Analysis and Strength Prediction of Composite Laminates with Two Interacting Holes](/publication/2019-compstruct-stress-strength-composite-laminates-two/)
+- [Damage Mode Identification of Open Hole Composite Laminates Based on Acoustic Emission and Digital Image Correlation Methods](/publication/2021-compstruct-damage-mode-identification-open-hole/)
 
 ---
 
@@ -323,13 +298,7 @@ TOBB University of Economics and Technology, 2018
 **Supervisor:** Murat Kadri Aktaş  
 **YÖK Thesis No.:** 498482
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Fatih_Can_MS_Thesis_2018.pdf)
-
-#### Related Publications
-
-- Add related publications here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Fatih_Can_MS_Thesis_2018.pdf) -->
 
 ---
 
@@ -343,13 +312,11 @@ TOBB University of Economics and Technology, 2017
 **Role:** Supervisor  
 **YÖK Thesis No.:** 459543
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Arif_Emre_Orun_MS_Thesis_2017.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Arif_Emre_Orun_MS_Thesis_2017.pdf) -->
 
 #### Related Publications
 
-- Add related structural stability publications here.
--->
+- [Effect of Hole Reinforcement on the Buckling Behaviour of Thin-Walled Beams Subjected to Combined Loading](/publication/2017-tws-hole-reinforcement-buckling-thin-walled/)
 
 ---
 
@@ -364,13 +331,11 @@ TOBB University of Economics and Technology, 2016
 **Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 436168
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Nahide_Tuten_MS_Thesis_2016.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Nahide_Tuten_MS_Thesis_2016.pdf) -->
 
 #### Related Publications
 
-- Add related optimization publications here.
--->
+- [Design Optimization of an Automobile Torque Arm Using Global and Successive Surrogate Modeling Approaches](/publication/2019-jae-design-optimization-automobile-torque-arm/)
 
 ---
 
@@ -385,13 +350,15 @@ Hacettepe University, 2016
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 430898
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Korhan_Babacan_Yilmaz_MS_Thesis_2016.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Korhan_Babacan_Yilmaz_MS_Thesis_2016.pdf) -->
 
 #### Related Publications
 
-- Add related contact mechanics publications here.
--->
+- [On the Analytical and Finite Element Solution of Plane Contact Problem of a Rigid Cylindrical Punch Sliding over a Functionally Graded Orthotropic Medium](/publication/2017-ijms-fea-plane-contact-rigid-cylindrical/)
+- [Frictional Receding Contact Problem for a Graded Bilayer System Indented by a Rigid Punch](/publication/2018-ijms-frictional-receding-contact-graded-bilayer/)
+- [On the Plane Frictional Contact Problem of a Homogeneous Orthotropic Layer Loaded by a Rigid Cylindrical Stamp](/publication/2019-aam-plane-frictional-contact-homogeneous-orthotropic/)
+- [The Effect of Orthotropic Material Gradation on the Plane Sliding Frictional Contact Mechanics Problem](/publication/2019-journal-orthotropic-material-gradation-plane-sliding/)
+- [Analytical and Finite Element Solution of the Sliding Frictional Contact Problem for a Homogeneous Orthotropic Coating-Isotropic Substrate System](/publication/2019-zamm-fea-sliding-frictional-contact-homogeneous/)
 
 ---
 
@@ -405,13 +372,7 @@ TOBB University of Economics and Technology, 2016
 **Role:** Supervisor  
 **YÖK Thesis No.:** 427890
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Ahmet_Tastan_MS_Thesis_2016.pdf)
-
-#### Related Publications
-
-- Add conference papers and presentations associated with the TÜBİTAK 112M891 project here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Ahmet_Tastan_MS_Thesis_2016.pdf) -->
 
 ---
 
@@ -426,13 +387,11 @@ TOBB University of Economics and Technology, 2016
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 427879
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Oguzhan_Mulkoglu_MS_Thesis_2016.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Oguzhan_Mulkoglu_MS_Thesis_2016.pdf) -->
 
 #### Related Publications
 
-- Add related publications here.
--->
+- [Drop Test Simulation and Surrogate-Based Optimization of a Dishwasher Mechanical Structure and Its Packaging Module](/publication/2017-smo-drop-test-simulation-surrogate-optimization/)
 
 ---
 
@@ -447,13 +406,7 @@ Gazi University, 2015
 **Supervisor:** İbrahim Uslan  
 **YÖK Thesis No.:** 416989
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Tugce_Kiper_MS_Thesis_2015.pdf)
-
-#### Related Publications
-
-- Add related publications here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Tugce_Kiper_MS_Thesis_2015.pdf) -->
 
 ---
 
@@ -468,13 +421,7 @@ TOBB University of Economics and Technology, 2014
 **Co-Supervisor:** Yiğit Karpat  
 **YÖK Thesis No.:** 371101
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Osman_Murat_Bircan_MS_Thesis_2014.pdf)
-
-#### Related Publications
-
-- Add related manufacturing publications here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Osman_Murat_Bircan_MS_Thesis_2014.pdf) -->
 
 ---
 
@@ -488,13 +435,7 @@ TOBB University of Economics and Technology, 2013
 **Role:** Supervisor  
 **YÖK Thesis No.:** 350340
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Ahmed_Talha_Camci_MS_Thesis_2013.pdf)
-
-#### Related Publications
-
-- Add related transmission and vehicle publications here.
--->
+<!-- [Download Thesis (PDF)](/files/theses/ms/Ahmed_Talha_Camci_MS_Thesis_2013.pdf) -->
 
 ---
 
@@ -509,13 +450,13 @@ TOBB University of Economics and Technology, 2011
 **Co-Supervisor:** İstemi Barış Özsoy  
 **YÖK Thesis No.:** 302421
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Firat_Ozer_MS_Thesis_2011.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Firat_Ozer_MS_Thesis_2011.pdf) -->
 
 #### Related Publications
 
-- Add related springback journal and conference publications here.
--->
+- [Springback Prediction of DP600 Steels for Various Material Models](/publication/2010-sri-springback-dp600-steels-various-material/)
+- [Robust Springback Optimization of a Dual Phase Steel Seven-Flange Die Assembly](/publication/2012-smo-robust-springback-optimization-dual-phase/)
+- [Analyzing Batch-to-Batch and Part-to-Part Springback Variation of DP600 Steels Using a Double-Loop Monte Carlo Simulation](/publication/2012-jem-analyzing-batch-part-springback-variation/)
 
 ---
 
@@ -530,13 +471,13 @@ TOBB University of Economics and Technology, 2011
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 292827
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Deniz_Bekar_MS_Thesis_2011.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Deniz_Bekar_MS_Thesis_2011.pdf) -->
 
 #### Related Publications
 
-- Add related springback journal and conference publications here.
--->
+- [Robust Springback Optimization of a Dual Phase Steel Seven-Flange Die Assembly](/publication/2012-smo-robust-springback-optimization-dual-phase/)
+- [Analyzing Batch-to-Batch and Part-to-Part Springback Variation of DP600 Steels Using a Double-Loop Monte Carlo Simulation](/publication/2012-jem-analyzing-batch-part-springback-variation/)
+- [Investigation and Prediction of Springback in Rotary-Draw Tube Bending Process Using Finite Element Method](/publication/2012-journal-springback-rotary-draw-tube-bending/)
 
 ---
 
@@ -550,13 +491,11 @@ TOBB University of Economics and Technology, 2011
 **Role:** Supervisor  
 **YÖK Thesis No.:** 292829
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Levent_Sozen_MS_Thesis_2011.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Levent_Sozen_MS_Thesis_2011.pdf) -->
 
 #### Related Publications
 
-- Add related springback publications here.
--->
+- [Investigation and Prediction of Springback in Rotary-Draw Tube Bending Process Using Finite Element Method](/publication/2012-journal-springback-rotary-draw-tube-bending/)
 
 ---
 
@@ -570,13 +509,13 @@ TOBB University of Economics and Technology, 2011
 **Role:** Supervisor  
 **YÖK Thesis No.:** 289965
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Muhammed_Emin_Cerit_MS_Thesis_2011.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Muhammed_Emin_Cerit_MS_Thesis_2011.pdf) -->
 
 #### Related Publications
 
-- Add related intercity bus crashworthiness publications here.
--->
+- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/)
+- [Multi-Objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
+- [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/)
 
 ---
 
@@ -590,10 +529,8 @@ TOBB University of Economics and Technology, 2009
 **Role:** Supervisor  
 **YÖK Thesis No.:** 244730
 
-<!--
-[Download Thesis (PDF)](/files/theses/ms/Yusuf_Fuat_Gulver_MS_Thesis_2009.pdf)
+<!-- [Download Thesis (PDF)](/files/theses/ms/Yusuf_Fuat_Gulver_MS_Thesis_2009.pdf) -->
 
 #### Related Publications
 
-- Add related thin-film and contact mechanics publications here.
--->
+- [Contact Analysis of Thin Films Bonded to Graded Coatings](/publication/2012-ijms-contact-thin-films-bonded-graded/)
