@@ -8,11 +8,12 @@ author_profile: true
 I have supervised undergraduate senior design and capstone projects involving
 mechanical design, structural analysis, crashworthiness, finite element analysis,
 manufacturing, optimization, and automotive engineering. Many of these projects
-were developed around real engineering problems and incorporated computational
-analysis, design evaluation, teamwork, and technical communication.
+were developed around real engineering problems and industry collaboration,
+requiring students to integrate engineering fundamentals, computational tools,
+design evaluation, teamwork, and technical communication.
 
-Selected projects are listed below in reverse chronological order. Project posters
-and related publications will be added where available.
+Selected projects from TOBB University of Economics and Technology are listed
+below in reverse chronological order. Project posters are linked where available.
 
 ---
 
@@ -20,73 +21,81 @@ and related publications will be added where available.
 
 ### Design of a Shock Absorber of an Automobile
 
-**Students:** Ahmet Taştan, Tezcan Kahraman, Oğuzhan Mülkoğlu, Ömer Faruk Yalım  
+**Students:** Ahmet Taştan, Oğuzhan Mülkoğlu, Ömer Faruk Yalım, Tezcan Kahraman  
 **Year:** 2013  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
+**Industry Partner:** OYAK Renault  
 **Supervisor:** Mehmet A. Güler
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2013-automobile-shock-absorber.pdf)
+Geometric optimization of an automotive shock-absorbing component using a
+full-vehicle finite element model. Alternative geometries and thicknesses were
+evaluated under ECE R-42 low-speed impact conditions. The optimized design
+reduced the component mass by approximately 16% while slightly increasing
+its energy-absorption capacity.
 
-#### Related Publications
+**Tools / Methods:** HyperMesh · LS-DYNA · Finite Element Analysis · Crashworthiness · Optimization
 
-- Add related publications here if applicable.
--->
+[View Project Poster (PDF)](/files/capstone/posters/2013-renault-shock-absorber.pdf)
 
 ---
 
 ### Design of an Automobile Cockpit Carrier
 
-**Students:** Salih Bayram, Burak Ölçek, Meriç Ekiciler, Soner Çinoğlu  
+**Students:** Soner Çinoğlu, Burak Ölçek, Meriç Ekiciler, Salih Bayram  
 **Year:** 2012  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
-**Supervisor:** Mehmet A. Güler
+**Industry Partner:** OYAK Renault  
+**Supervisors:** Mehmet A. Güler, Çiğdem Zeytin Derin
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2012-automobile-cockpit-carrier.pdf)
+Development of a lightweight cockpit crossmember for the Renault Fluence.
+Static, modal, and frontal-impact analyses were used to compare alternative
+designs with the baseline structure. The final design achieved approximately
+10.8% mass reduction while maintaining the required structural performance.
 
-#### Related Publications
+**Tools / Methods:** HyperMesh · HyperWorks/RADIOSS · LS-DYNA · Static Analysis · Modal Analysis · Crashworthiness
 
-- Add related publications here if applicable.
--->
+[View Project Poster (PDF)](/files/capstone/posters/2012-renault-cockpit-carrier.pdf)
 
 ---
 
 ### Design and Analysis of an Aerial Working Platform
 
-**Students:** Ebubekir Güneş, Yasin Aksungur, Muhammet Y. Nayır  
+**Students:** Yasin Aksungur, Muhammet Y. Nayır, Ebubekir Güneş  
 **Year:** 2012  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
+**Industry Partner:** HIDROKON  
 **Supervisor:** Mehmet A. Güler
 
-<!--
+Design and structural evaluation of an aerial working platform developed in
+response to an industrial design problem from HIDROKON. The project included
+CAD modeling, structural and multibody-dynamics analyses, design modifications,
+and safety evaluation. The platform was designed for a 350 kg capacity and
+12 m working height with reference to TS EN 280.
+
+**Tools / Methods:** SolidWorks · ANSYS · HyperMesh · Static Structural Analysis · Multibody Dynamics
+
 [View Project Poster (PDF)](/files/capstone/posters/2012-aerial-working-platform.pdf)
-
-#### Related Publications
-
-- Add related publications here if applicable.
--->
 
 ---
 
 ### Design and Development of an Automobile Part
 
-**Students:** Taylan Suman, Cemre Tahmaz, Cansu Gürateş, Ahmet Çatak  
+**Students:** Cemre Tahmaz, Cansu Gürateş, Taylan Suman, Ahmet Çatak  
 **Year:** 2011  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
-**Supervisor:** Mehmet A. Güler
+**Industry Partner:** OYAK Renault  
+**Supervisors:** Mehmet A. Güler, Çiğdem Zeytin Derin  
+**Co-Supervisors:** Fırat Özer, Recep Muhammet Görgülüarslan
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2011-automobile-part.pdf)
+Redesign of an automobile chassis tunnel and its reinforcements as a single
+component to reduce manufacturing, assembly, and logistics costs. The students
+performed static and modal analyses, ECE R95 side-impact simulation, and
+sheet-metal forming and springback simulations while evaluating the feasibility
+of the proposed integrated design.
 
-#### Related Publications
+**Tools / Methods:** CATIA · ANSA · ANSYS · LS-DYNA · Crash Analysis · Sheet-Metal Forming · Springback
 
-- Add related publications here if applicable.
--->
+[View Project Poster (PDF)](/files/capstone/posters/2011-renault-automobile-part.pdf)
 
 ---
 
@@ -95,16 +104,15 @@ and related publications will be added where available.
 **Students:** Arslan Ömür Özcan, Dinç Bulgurlu, İlker Vuruşkan  
 **Year:** 2011  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
-**Supervisor:** Mehmet A. Güler
+**Supervisors:** Mehmet A. Güler, Nilay Sezer Uzol
 
-<!--
+Design of a one-quarter-scale, three-bladed H-type vertical-axis wind turbine
+targeting 1 kW power generation. The project combined aerodynamic, structural,
+and modal analyses with prototype manufacturing and wind-tunnel testing.
+
+**Tools / Methods:** CFD · ANSYS · Structural Analysis · Modal Analysis · Prototype Manufacturing · Wind-Tunnel Testing
+
 [View Project Poster (PDF)](/files/capstone/posters/2011-vertical-axis-wind-turbine.pdf)
-
-#### Related Publications
-
-- Add related publications here if applicable.
--->
 
 ---
 
@@ -113,16 +121,12 @@ and related publications will be added where available.
 **Students:** Uğur Okçu, Erhan Balcı, Kenan Kutbay  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2010-ecap-severe-plastic-deformation.pdf)
+Experimental and computational investigation of severe plastic deformation
+using equal-channel angular pressing (ECAP).
 
-#### Related Publications
-
-- Add related publications here if applicable.
--->
+<!-- [View Project Poster (PDF)](/files/capstone/posters/2010-ecap-severe-plastic-deformation.pdf) -->
 
 ---
 
@@ -131,16 +135,13 @@ and related publications will be added where available.
 **Students:** Uğur Yolum, Nazım Babacan, Yasir Demiryürek  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2010-vehicle-landmine-explosions.pdf)
+Design-oriented investigation of a vehicle structure subjected to landmine
+explosions, with emphasis on blast loading, structural response, and protection
+of the vehicle structure.
 
-#### Related Publications
-
-- Add related publications here if applicable.
--->
+<!-- [View Project Poster (PDF)](/files/capstone/posters/2010-vehicle-landmine-explosions.pdf) -->
 
 ---
 
@@ -149,16 +150,17 @@ and related publications will be added where available.
 **Students:** Recep Muhammet Görgülüarslan, Engin Metin Kaplan  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
-<!--
+Development of finite element models and a springback database for rotary-draw
+and push-rolling tube-bending processes. The project included tooling design,
+deformation analysis, springback simulation, validation against analytical and
+published experimental results, and parametric studies involving material and
+geometric variables.
+
+**Tools / Methods:** LS-DYNA · ANSA · Finite Element Analysis · Tube Bending · Springback Prediction
+
 [View Project Poster (PDF)](/files/capstone/posters/2010-springback-tube-bending.pdf)
-
-#### Related Publications
-
-- Add related publications here if applicable.
--->
 
 ---
 
@@ -167,13 +169,16 @@ and related publications will be added where available.
 **Students:** Bora Gerçeker, Emrah Karakaya  
 **Year:** 2009  
 **Project Type:** Senior Design Project  
-**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
-<!--
-[View Project Poster (PDF)](/files/capstone/posters/2009-intercity-bus-crash-box.pdf)
+Design and optimization of thin-walled crash-energy absorbers for frontal
+impacts involving intercity buses. This senior design work was closely connected
+with the broader research program on passive frontal crash-energy absorption.
+
+<!-- [View Project Poster (PDF)](/files/capstone/posters/2009-intercity-bus-crash-box.pdf) -->
 
 #### Related Publications
 
-- Add related publications here if applicable.
--->
+- [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/)
+
+- [Multi-objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
