@@ -10,8 +10,7 @@ structural mechanics, crashworthiness, peridynamics, optimization, mechanical de
 fatigue, and transportation systems. The completed Ph.D. dissertations and M.S. theses
 listed below are organized in reverse chronological order.
 
-Thesis PDF files will be added as they become available. Related journal publications
-already included in the Publications section of this website are linked below.
+Thesis documents and related peer-reviewed publications are provided below.
 
 ---
 
@@ -28,7 +27,7 @@ Ankara Yıldırım Beyazıt University, 2022
 **Supervisor:** Fatih Göncü  
 **YÖK Thesis No.:** 789525
 
-<!-- [Download Dissertation (PDF)](/files/theses/phd/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf) -->
+[Download Dissertation (PDF)](/files/theses/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf)
 
 #### Related Publications
 
@@ -48,7 +47,7 @@ Ankara Yıldırım Beyazıt University, 2022
 **Supervisor:** Adem Çiçek  
 **YÖK Thesis No.:** 821645
 
-<!-- [Download Dissertation (PDF)](/files/theses/phd/Sinem_Kocaoglan_Mert_PhD_Thesis_2022.pdf) -->
+[Download Dissertation (PDF)](/files/theses/Sinem_Kocaoglan_Mert_PhD_Thesis_2022.pdf)
 
 #### Related Publications
 
@@ -68,7 +67,7 @@ TOBB University of Economics and Technology, 2021
 **Role:** Supervisor  
 **YÖK Thesis No.:** 668576
 
-<!-- [Download Dissertation (PDF)](/files/theses/phd/Ugur_Yolum_PhD_Thesis_2021.pdf) -->
+[Download Dissertation (PDF)](/files/theses/Ugur_Yolum_PhD_Thesis_2021.pdf)
 
 #### Related Publications
 
@@ -88,7 +87,7 @@ TOBB University of Economics and Technology, 2019
 **Role:** Supervisor  
 **YÖK Thesis No.:** 608915
 
-<!-- [Download Dissertation (PDF)](/files/theses/phd/Ender_Ince_PhD_Thesis_2019.pdf) -->
+[Download Dissertation (PDF)](/files/theses/Ender_Ince_PhD_Thesis_2019.pdf)
 
 #### Related Publications
 
@@ -108,7 +107,7 @@ Gazi University, 2017
 **Supervisor:** Hüseyin Serdar Yücesu  
 **YÖK Thesis No.:** 460897
 
-<!-- [Download Dissertation (PDF)](/files/theses/phd/Murat_Altin_PhD_Thesis_2017.pdf) -->
+[Download Dissertation (PDF)](/files/theses/Murat_Altin_PhD_Thesis_2017.pdf)
 
 #### Related Publications
 
@@ -132,7 +131,7 @@ Hacettepe University, 2023
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 840177
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Samet_Eltas_MS_Thesis_2023.pdf) -->
+[Download Thesis (PDF)](/files/theses/Samet_Eltas_MS_Thesis_2023.pdf)
 
 #### Related Publications
 
@@ -151,7 +150,7 @@ TOBB University of Economics and Technology, 2021
 **Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 696753
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Evren_Emre_Ustun_MS_Thesis_2021.pdf) -->
+[Download Thesis (PDF)](/files/theses/Evren_Emre_Ustun_MS_Thesis_2021.pdf)
 
 #### Related Publications
 
@@ -170,7 +169,7 @@ TOBB University of Economics and Technology, 2021
 **Co-Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 689758
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Busra_Baykan_Mercan_MS_Thesis_2021.pdf) -->
+[Download Thesis (PDF)](/files/theses/Busra_Baykan_Mercan_MS_Thesis_2021.pdf)
 
 ---
 
@@ -185,7 +184,7 @@ TOBB University of Economics and Technology, 2020
 **Co-Supervisor:** Dilek Funda Kurtuluş  
 **YÖK Thesis No.:** 655187
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Murvet_Bektas_MS_Thesis_2020.pdf) -->
+[Download Thesis (PDF)](/files/theses/Murvet_Bektas_MS_Thesis_2020.pdf)
 
 #### Related Publications
 
@@ -203,7 +202,7 @@ TOBB University of Economics and Technology, 2020
 **Role:** Supervisor  
 **YÖK Thesis No.:** 654936
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Eda_Gok_MS_Thesis_2020.pdf) -->
+[Download Thesis (PDF)](/files/theses/Eda_Gok_MS_Thesis_2020.pdf)
 
 #### Related Publications
 
@@ -222,7 +221,7 @@ TOBB University of Economics and Technology, 2019
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 650659
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Burak_Yilmaz_MS_Thesis_2019.pdf) -->
+[Download Thesis (PDF)](/files/theses/Burak_Yilmaz_MS_Thesis_2019.pdf)
 
 #### Related Publications
 
@@ -241,7 +240,7 @@ Hacettepe University, 2019
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 593759
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Alireza_Seyedi_MS_Thesis_2019.pdf) -->
+[Download Thesis (PDF)](/files/theses/Alireza_Seyedi_MS_Thesis_2019.pdf)
 
 #### Related Publications
 
@@ -260,7 +259,7 @@ TOBB University of Economics and Technology, 2019
 **Co-Supervisor:** Mehmet Şahin  
 **YÖK Thesis No.:** 574532
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Baris_Mehmet_Zeytinci_MS_Thesis_2019.pdf) -->
+[Download Thesis (PDF)](/files/theses/Baris_Mehmet_Zeytinci_MS_Thesis_2019.pdf)
 
 #### Related Publications
 
@@ -278,7 +277,7 @@ TOBB University of Economics and Technology, 2019
 **Role:** Supervisor  
 **YÖK Thesis No.:** 547059
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Emre_Ozaslan_MS_Thesis_2019.pdf) -->
+[Download Thesis (PDF)](/files/theses/Emre_Ozaslan_MS_Thesis_2019.pdf)
 
 #### Related Publications
 
@@ -298,7 +297,7 @@ TOBB University of Economics and Technology, 2018
 **Supervisor:** Murat Kadri Aktaş  
 **YÖK Thesis No.:** 498482
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Fatih_Can_MS_Thesis_2018.pdf) -->
+[Download Thesis (PDF)](/files/theses/Fatih_Can_MS_Thesis_2018.pdf)
 
 ---
 
@@ -312,7 +311,7 @@ TOBB University of Economics and Technology, 2017
 **Role:** Supervisor  
 **YÖK Thesis No.:** 459543
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Arif_Emre_Orun_MS_Thesis_2017.pdf) -->
+[Download Thesis (PDF)](/files/theses/Arif_Emre_Orun_MS_Thesis_2017.pdf)
 
 #### Related Publications
 
@@ -331,7 +330,7 @@ TOBB University of Economics and Technology, 2016
 **Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 436168
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Nahide_Tuten_MS_Thesis_2016.pdf) -->
+[Download Thesis (PDF)](/files/theses/Nahide_Tuten_MS_Thesis_2016.pdf)
 
 #### Related Publications
 
@@ -350,7 +349,7 @@ Hacettepe University, 2016
 **Supervisor:** Bora Yıldırım  
 **YÖK Thesis No.:** 430898
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Korhan_Babacan_Yilmaz_MS_Thesis_2016.pdf) -->
+[Download Thesis (PDF)](/files/theses/Korhan_Babacan_Yilmaz_MS_Thesis_2016.pdf)
 
 #### Related Publications
 
@@ -372,7 +371,7 @@ TOBB University of Economics and Technology, 2016
 **Role:** Supervisor  
 **YÖK Thesis No.:** 427890
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Ahmet_Tastan_MS_Thesis_2016.pdf) -->
+[Download Thesis (PDF)](/files/theses/Ahmet_Tastan_MS_Thesis_2016.pdf)
 
 ---
 
@@ -387,7 +386,7 @@ TOBB University of Economics and Technology, 2016
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 427879
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Oguzhan_Mulkoglu_MS_Thesis_2016.pdf) -->
+[Download Thesis (PDF)](/files/theses/Oguzhan_Mulkoglu_MS_Thesis_2016.pdf)
 
 #### Related Publications
 
@@ -406,7 +405,7 @@ Gazi University, 2015
 **Supervisor:** İbrahim Uslan  
 **YÖK Thesis No.:** 416989
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Tugce_Kiper_MS_Thesis_2015.pdf) -->
+[Download Thesis (PDF)](/files/theses/Tugce_Kiper_MS_Thesis_2015.pdf)
 
 ---
 
@@ -421,7 +420,7 @@ TOBB University of Economics and Technology, 2014
 **Co-Supervisor:** Yiğit Karpat  
 **YÖK Thesis No.:** 371101
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Osman_Murat_Bircan_MS_Thesis_2014.pdf) -->
+[Download Thesis (PDF)](/files/theses/Osman_Murat_Bircan_MS_Thesis_2014.pdf)
 
 ---
 
@@ -435,7 +434,7 @@ TOBB University of Economics and Technology, 2013
 **Role:** Supervisor  
 **YÖK Thesis No.:** 350340
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Ahmed_Talha_Camci_MS_Thesis_2013.pdf) -->
+[Download Thesis (PDF)](/files/theses/Ahmed_Talha_Camci_MS_Thesis_2013.pdf)
 
 ---
 
@@ -450,7 +449,7 @@ TOBB University of Economics and Technology, 2011
 **Co-Supervisor:** İstemi Barış Özsoy  
 **YÖK Thesis No.:** 302421
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Firat_Ozer_MS_Thesis_2011.pdf) -->
+[Download Thesis (PDF)](/files/theses/Firat_Ozer_MS_Thesis_2011.pdf)
 
 #### Related Publications
 
@@ -471,7 +470,7 @@ TOBB University of Economics and Technology, 2011
 **Co-Supervisor:** Erdem Acar  
 **YÖK Thesis No.:** 292827
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Deniz_Bekar_MS_Thesis_2011.pdf) -->
+[Download Thesis (PDF)](/files/theses/Deniz_Bekar_MS_Thesis_2011.pdf)
 
 #### Related Publications
 
@@ -491,7 +490,7 @@ TOBB University of Economics and Technology, 2011
 **Role:** Supervisor  
 **YÖK Thesis No.:** 292829
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Levent_Sozen_MS_Thesis_2011.pdf) -->
+[Download Thesis (PDF)](/files/theses/Levent_Sozen_MS_Thesis_2011.pdf)
 
 #### Related Publications
 
@@ -509,7 +508,7 @@ TOBB University of Economics and Technology, 2011
 **Role:** Supervisor  
 **YÖK Thesis No.:** 289965
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Muhammed_Emin_Cerit_MS_Thesis_2011.pdf) -->
+[Download Thesis (PDF)](/files/theses/Muhammed_Emin_Cerit_MS_Thesis_2011.pdf)
 
 #### Related Publications
 
@@ -529,7 +528,7 @@ TOBB University of Economics and Technology, 2009
 **Role:** Supervisor  
 **YÖK Thesis No.:** 244730
 
-<!-- [Download Thesis (PDF)](/files/theses/ms/Yusuf_Fuat_Gulver_MS_Thesis_2009.pdf) -->
+[Download Thesis (PDF)](/files/theses/Yusuf_Fuat_Gulver_MS_Thesis_2009.pdf)
 
 #### Related Publications
 
