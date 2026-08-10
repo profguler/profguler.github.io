@@ -7,13 +7,112 @@ author_profile: true
 
 I have supervised undergraduate senior design and capstone projects involving
 mechanical design, structural analysis, crashworthiness, finite element analysis,
-manufacturing, optimization, and automotive engineering. Many of these projects
-were developed around real engineering problems and industry collaboration,
-requiring students to integrate engineering fundamentals, computational tools,
-design evaluation, teamwork, and technical communication.
+manufacturing, optimization, renewable-energy structures, and automotive engineering.
+Many of these projects were developed around real engineering problems and industry
+collaboration, requiring students to integrate engineering fundamentals, computational
+tools, design evaluation, teamwork, and technical communication.
 
-Selected projects from TOBB University of Economics and Technology are listed
-below in reverse chronological order. Project posters are linked where available.
+Selected projects are presented below in reverse chronological order. Project posters
+are linked where available.
+
+---
+
+## American University of the Middle East
+
+### Crashworthiness Evaluation of 3D-Printed Origami-Inspired PLA-CF Crash Boxes
+
+**Students:** Heshaam Abdullah Alotaibi, Mohammed Altemeemi, Yousef Ghanim Abadi, Sari M. S. Almutairi, Meshal M. Almesaieed  
+**Semester:** Spring 2026  
+**Project Type:** Graduation Project  
+**Institution:** American University of the Middle East  
+**Supervisor:** Mehmet A. Güler
+
+Crashworthiness investigation of 3D-printed origami-inspired PLA-CF energy absorbers.
+Square and hexagonal configurations with different origami patterns were evaluated
+using crashworthiness indicators including specific energy absorption, peak crushing
+force, mean crushing force, crushing force efficiency, and structural stability.
+
+**Tools / Methods:** Additive Manufacturing · PLA-CF · Crashworthiness · Energy Absorption · Origami-Inspired Structures
+
+[View Project Poster (PDF)](/files/capstone/posters/2026-aum-origami-pla-cf-crash-boxes.pdf)
+
+---
+
+### Crashworthiness Evaluation of 3D-Printed PLA+ and PLA-CF Tubes with Varying Geometries Using Additive Manufacturing
+
+**Students:** Omar Elsaved, Abdulrahman Alsadi, Yousef Aldousari, Husain Aldallal  
+**Semester:** Spring 2025  
+**Project Type:** Graduation Project  
+**Institution:** American University of the Middle East  
+**Supervisor:** Mehmet A. Güler
+
+Experimental investigation of additively manufactured PLA+ and carbon-fiber-reinforced
+PLA crash tubes with varying geometries. The project combined fused-deposition modeling,
+quasi-static compression testing, crashworthiness evaluation, and regression-based
+prediction to study the effects of material, wall thickness, and taper angle on
+energy-absorption performance.
+
+**Tools / Methods:** FDM Additive Manufacturing · PLA+ · PLA-CF · Quasi-Static Testing · Crashworthiness · Regression Analysis
+
+[View Project Poster (PDF)](/files/capstone/posters/2025-aum-3d-printed-pla-crash-boxes.pdf)
+
+---
+
+### Design of a Crash Box for Automotive Bumper System
+
+**Students:** Bandar Alarada, Mohammad Alenezi, Ahmad Alajmi, Salem Alesmaeil  
+**Semester:** Spring 2024  
+**Project Type:** Graduation Project  
+**Institution:** American University of the Middle East  
+**Supervisor:** Mehmet A. Güler
+
+Design and numerical evaluation of alternative crash-box configurations for an
+automotive bumper system. Different cross-sectional geometries and wall thicknesses
+were modeled and compared using key crashworthiness measures such as specific energy
+absorption and crushing force efficiency.
+
+**Tools / Methods:** SolidWorks · HyperMesh · LS-DYNA · Finite Element Analysis · Crashworthiness · Energy Absorption
+
+[View Project Poster (PDF)](/files/capstone/posters/2024-aum-automotive-crash-box.pdf)
+
+---
+
+### Mechanical Design of a Heliostat Structure
+
+**Students:** Bashayer Jarman, Mariam Alsaleem, Moudhi Alajeel, Loulwah Khalifouh, Danah Haidar  
+**Semester:** Spring 2023  
+**Project Type:** Senior Project  
+**Institution:** American University of the Middle East  
+**Supervisor:** Mehmet A. Güler
+
+Mechanical design and analysis of a heliostat structure for concentrated solar-power
+applications. Five alternative structural concepts were evaluated under wind loading
+using design constraints including geometry, material, stow velocity, and orientation
+angle. The designs were compared in terms of modal frequencies, stress, structural
+mass, and factor of safety to identify an optimum configuration.
+
+**Tools / Methods:** QFD · CAD · ANSYS Fluent · CFD · Structural Analysis · Modal Analysis · Design Evaluation
+
+[View Project Poster (PDF)](/files/capstone/posters/2023-aum-heliostat-structure.pdf)
+
+---
+
+### Dynamic Response of an Offshore Jacket Structure
+
+**Semester:** Fall 2021  
+**Project Type:** Senior Project  
+**Institution:** American University of the Middle East  
+**Supervisor:** Mehmet A. Güler
+
+Structural design and dynamic evaluation of an offshore jacket structure supporting
+a 5 MW wind turbine. Alternative X-, V-, and diamond-braced configurations were
+compared using structural mass and natural frequencies. The project demonstrated
+the application of finite element analysis and structural dynamics to offshore
+renewable-energy structures.
+
+**Tools / Methods:** Finite Element Analysis · Structural Dynamics · Modal Analysis · Offshore Structures · Wind Energy
+
+[View Project Poster (PDF)](/files/capstone/posters/2021-aum-offshore-jacket-structure.pdf)
 
 ---
 
@@ -25,6 +124,7 @@ below in reverse chronological order. Project posters are linked where available
 **Year:** 2013  
 **Project Type:** Senior Design Project  
 **Industry Partner:** OYAK Renault  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Geometric optimization of an automotive shock-absorbing component using a
@@ -45,6 +145,7 @@ its energy-absorption capacity.
 **Year:** 2012  
 **Project Type:** Senior Design Project  
 **Industry Partner:** OYAK Renault  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisors:** Mehmet A. Güler, Çiğdem Zeytin Derin
 
 Development of a lightweight cockpit crossmember for the Renault Fluence.
@@ -64,6 +165,7 @@ designs with the baseline structure. The final design achieved approximately
 **Year:** 2012  
 **Project Type:** Senior Design Project  
 **Industry Partner:** HIDROKON  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Design and structural evaluation of an aerial working platform developed in
@@ -84,6 +186,7 @@ and safety evaluation. The platform was designed for a 350 kg capacity and
 **Year:** 2011  
 **Project Type:** Senior Design Project  
 **Industry Partner:** OYAK Renault  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisors:** Mehmet A. Güler, Çiğdem Zeytin Derin  
 **Co-Supervisors:** Fırat Özer, Recep Muhammet Görgülüarslan
 
@@ -104,6 +207,7 @@ of the proposed integrated design.
 **Students:** Arslan Ömür Özcan, Dinç Bulgurlu, İlker Vuruşkan  
 **Year:** 2011  
 **Project Type:** Senior Design Project  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisors:** Mehmet A. Güler, Nilay Sezer Uzol
 
 Design of a one-quarter-scale, three-bladed H-type vertical-axis wind turbine
@@ -121,12 +225,15 @@ and modal analyses with prototype manufacturing and wind-tunnel testing.
 **Students:** Uğur Okçu, Erhan Balcı, Kenan Kutbay  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Experimental and computational investigation of severe plastic deformation
 using equal-channel angular pressing (ECAP).
 
-<!-- [View Project Poster (PDF)](/files/capstone/posters/2010-ecap-severe-plastic-deformation.pdf) -->
+<!--
+[View Project Poster (PDF)](/files/capstone/posters/2010-ecap-severe-plastic-deformation.pdf)
+-->
 
 ---
 
@@ -135,13 +242,16 @@ using equal-channel angular pressing (ECAP).
 **Students:** Uğur Yolum, Nazım Babacan, Yasir Demiryürek  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Design-oriented investigation of a vehicle structure subjected to landmine
 explosions, with emphasis on blast loading, structural response, and protection
 of the vehicle structure.
 
-<!-- [View Project Poster (PDF)](/files/capstone/posters/2010-vehicle-landmine-explosions.pdf) -->
+<!--
+[View Project Poster (PDF)](/files/capstone/posters/2010-vehicle-landmine-explosions.pdf)
+-->
 
 ---
 
@@ -150,6 +260,7 @@ of the vehicle structure.
 **Students:** Recep Muhammet Görgülüarslan, Engin Metin Kaplan  
 **Year:** 2010  
 **Project Type:** Senior Design Project  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Development of finite element models and a springback database for rotary-draw
@@ -169,13 +280,16 @@ geometric variables.
 **Students:** Bora Gerçeker, Emrah Karakaya  
 **Year:** 2009  
 **Project Type:** Senior Design Project  
+**Institution:** TOBB University of Economics and Technology  
 **Supervisor:** Mehmet A. Güler
 
 Design and optimization of thin-walled crash-energy absorbers for frontal
 impacts involving intercity buses. This senior design work was closely connected
 with the broader research program on passive frontal crash-energy absorption.
 
-<!-- [View Project Poster (PDF)](/files/capstone/posters/2009-intercity-bus-crash-box.pdf) -->
+<!--
+[View Project Poster (PDF)](/files/capstone/posters/2009-intercity-bus-crash-box.pdf)
+-->
 
 #### Related Publications
 
