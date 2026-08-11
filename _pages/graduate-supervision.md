@@ -12,7 +12,7 @@ listed below are organized in reverse chronological order.
 
 Thesis documents and related peer-reviewed publications are provided below.
 
-<hr class="thesis-separator">
+<div style="border-top: 1px solid #999999; margin: 1.5em 0;"></div>
 ## Ph.D. Dissertations
 
 ### Oğuzhan Mülkoğlu — Ph.D. — Ankara Yıldırım Beyazıt University, 2022
