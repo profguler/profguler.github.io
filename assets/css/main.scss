@@ -56,3 +56,32 @@ hr.thesis-separator {
   margin: 1.6em 0 1.6em 0 !important;
   opacity: 1 !important;
 }
+/* Teaching-area cards */
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2rem 0;
+}
+
+.teaching-card {
+  border: 1px solid #c7d3df;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  background: #f7f9fb;
+}
+
+.teaching-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.teaching-card ul {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .teaching-grid {
+    grid-template-columns: 1fr;
+  }
+}
