@@ -16,258 +16,239 @@ Thesis documents and related peer-reviewed publications are provided below.
 
 ## Ph.D. Dissertations
 
-### Oğuzhan Mülkoğlu — Ph.D.
+### Oğuzhan Mülkoğlu — Ph.D. — Ankara Yıldırım Beyazıt University, 2022
 
-Ankara Yıldırım Beyazıt University, 2022  
-**Dissertation:** *Fatigue Life Estimation of Welded Structures: A New Modified Hot-Spot Stress Method*
+*Fatigue Life Estimation of Welded Structures: A New Modified Hot-Spot Stress Method*
 
-**Role:** Co-Supervisor · **Supervisor:** Fatih Göncü · **YÖK Thesis No.:** 789525
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Fatih Göncü · YÖK: 789525
 [Download Dissertation (PDF)](/files/theses/Oguzhan_Mulkoglu_PhD_Thesis_2022.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Modified Hot-Spot Stress Method for Fatigue Life Estimation of Welded Components](/publication/2025-mattest-modified-hot-spot-stress-fatigue/)
 - [Fatigue Life Estimation of Welded Connections in a Tram Vehicle](/publication/2022-ijhvs-fatigue-life-estimation-welded-connections/)
 
 ---
-### Sinem Kocaoğlan Mert — Ph.D.
+### Sinem Kocaoğlan Mert — Ph.D. — Ankara Yıldırım Beyazıt University, 2022
 
-Ankara Yıldırım Beyazıt University, 2022  
-**Dissertation:** *Experimental and Numerical Investigation of Energy Absorbing Capacity of Aluminum, Composite and Hybrid Crash Boxes*
+*Experimental and Numerical Investigation of Energy Absorbing Capacity of Aluminum, Composite and Hybrid Crash Boxes*
 
-**Role:** Co-Supervisor · **Supervisor:** Adem Çiçek · **YÖK Thesis No.:** 821645
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Adem Çiçek · YÖK: 821645
 [Download Dissertation (PDF)](/files/theses/Sinem_Kocaoglan_Mert_PhD_Thesis_2022.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Experimental and Numerical Investigation on the Crashworthiness Optimization of Thin-Walled Aluminum Tubes Considering Damage Criteria](/publication/2021-jbsmse-crashworthiness-optimization-thin-walled-aluminum/)
 - [Crashworthiness Evaluation of Hybrid Tubes Made of GFRP Composite and Aluminum Tubes Filled with Honeycomb Structures](/publication/2023-jbsmse-crashworthiness-hybrid-tubes-made-gfrp/)
 - [An Investigation on the Energy Absorption Capability of Aluminum Foam-Filled Multi-Cell Tubes](/publication/2023-jbsmse-energy-absorption-capability-aluminum-foam/)
 
 ---
-### Uğur Yolum — Ph.D.
+### Uğur Yolum — Ph.D. — TOBB University of Economics and Technology, 2021
 
-TOBB University of Economics and Technology, 2021  
-**Dissertation:** *Investigation of Bending and Mode II Failures in Thick Plates Using Peridynamic Theory*
+*Investigation of Bending and Mode II Failures in Thick Plates Using Peridynamic Theory*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 668576
-
+Supervisor: Mehmet A. Güler · YÖK: 668576
 [Download Dissertation (PDF)](/files/theses/Ugur_Yolum_PhD_Thesis_2021.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [On the Peridynamic Formulation for an Orthotropic Mindlin Plate under Bending](/publication/2020-mms-peridynamic-formulation-orthotropic-mindlin-plate/)
 - [Intersonic Shear Crack Propagation Using Peridynamic Theory](/publication/2021-ijf-intersonic-shear-crack-propagation-peridynamic/)
 - [Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory](/publication/2022-compstruct-crack-propagation-double-cantilever-beam/)
 
 ---
-### Ender İnce — Ph.D.
+### Ender İnce — Ph.D. — TOBB University of Economics and Technology, 2019
 
-TOBB University of Economics and Technology, 2019  
-**Dissertation:** *Design of a New Power-Split Infinitely Variable Transmission*
+*Design of a New Power-Split Infinitely Variable Transmission*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 608915
-
+Supervisor: Mehmet A. Güler · YÖK: 608915
 [Download Dissertation (PDF)](/files/theses/Ender_Ince_PhD_Thesis_2019.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Design and Analysis of a Novel Power-Split Infinitely Variable Power Transmission System](/publication/2019-journal-design-novel-power-split-infinitely/)
 - [On the Advantages of the New Power-Split Infinitely Variable Transmission over Conventional Mechanical Transmissions Based on Fuel Consumption Analysis](/publication/2020-jclepro-advantages-new-power-split-infinitely/)
 
 ---
-### Murat Altın — Ph.D.
+### Murat Altın — Ph.D. — Gazi University, 2017
 
-Gazi University, 2017  
-**Dissertation:** *Investigation of the Energy Absorption Capacities of Crash Boxes Containing Metallic Foam Used on Vehicles*
+*Investigation of the Energy Absorption Capacities of Crash Boxes Containing Metallic Foam Used on Vehicles*
 
-**Role:** Co-Supervisor · **Supervisor:** Hüseyin Serdar Yücesu · **YÖK Thesis No.:** 460897
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Hüseyin Serdar Yücesu · YÖK: 460897
 [Download Dissertation (PDF)](/files/theses/Murat_Altin_PhD_Thesis_2017.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [The Effect of Percent Foam Fill Ratio on the Energy Absorption Capacity of Axially Compressed Thin-Walled Multi-Cell Square and Circular Tubes](/publication/2017-ijms-percent-foam-fill-ratio-energy/)
 - [Foam Filling Options for Crashworthiness Optimization of Thin-Walled Multi-Tubular Circular Columns](/publication/2018-tws-foam-filling-options-crashworthiness-optimization/)
 - [Investigation of Combined Effects of Cross Section, Taper Angle and Cell Structure on Crashworthiness of Multi-Cell Thin-Walled Tubes](/publication/2019-ijcrash-combined-cross-section-taper-angle/)
 - [Evaluation of Various Multi-Cell Design Concepts for Crashworthiness Design of Thin-Walled Aluminum Tubes](/publication/2019-tws-various-multi-cell-design-concepts/)
 
----
 
 ## M.S. Theses
-### Samet Eltaş — M.S.
 
-Hacettepe University, 2023  
-**Thesis:** *Finite Element Analysis of Beam-to-Beam Eccentric End Plate Connections*
+---
+### Samet Eltaş — M.S. — Hacettepe University, 2023
 
-**Role:** Co-Supervisor · **Supervisor:** Bora Yıldırım · **YÖK Thesis No.:** 840177
+*Finite Element Analysis of Beam-to-Beam Eccentric End Plate Connections*
 
+Co-Supervisor: Mehmet A. Güler · Supervisor: Bora Yıldırım · YÖK: 840177
 [Download Thesis (PDF)](/files/theses/Samet_Eltas_MS_Thesis_2023.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [On the Beam-to-Beam Eccentric End Plate Connections: A Numerical Study](/publication/2023-tws-beam-eccentric-end-plate-connections/)
 
 ---
-### Evren Emre Üstün — M.S.
+### Evren Emre Üstün — M.S. — TOBB University of Economics and Technology, 2021
 
-TOBB University of Economics and Technology, 2021  
-**Thesis:** *New and Energy Efficient Cylindrical Roller Bearing Design Using Contact Mechanics and Optimization Methods*
+*New and Energy Efficient Cylindrical Roller Bearing Design Using Contact Mechanics and Optimization Methods*
 
-**Role:** Co-Supervisor · **Supervisor:** Erdem Acar · **YÖK Thesis No.:** 696753
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Erdem Acar · YÖK: 696753
 [Download Thesis (PDF)](/files/theses/Evren_Emre_Ustun_MS_Thesis_2021.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Design of an Energy Efficient Cylindrical Roller Bearing](/publication/2024-mbdsm-design-energy-efficient-cylindrical-roller/)
 
 ---
-### Büşra Baykan Mercan — M.S.
+### Büşra Baykan Mercan — M.S. — TOBB University of Economics and Technology, 2021
 
-TOBB University of Economics and Technology, 2021  
-**Thesis:** *Investigation of Holed Composite Plates Exposed to In-Plane Loading by the Peridynamic Theory*
+*Investigation of Holed Composite Plates Exposed to In-Plane Loading by the Peridynamic Theory*
 
-**Role:** Supervisor · **Co-Supervisor:** Bora Yıldırım · **YÖK Thesis No.:** 689758
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Bora Yıldırım · YÖK: 689758
 [Download Thesis (PDF)](/files/theses/Busra_Baykan_Mercan_MS_Thesis_2021.pdf)
 
 ---
-### Mürvet Bektaş — M.S.
+### Mürvet Bektaş — M.S. — TOBB University of Economics and Technology, 2020
 
-TOBB University of Economics and Technology, 2020  
-**Thesis:** *Aeroelastic Analysis of Bio-Inspired Flapping Wing Models*
+*Aeroelastic Analysis of Bio-Inspired Flapping Wing Models*
 
-**Role:** Supervisor · **Co-Supervisor:** Dilek Funda Kurtuluş · **YÖK Thesis No.:** 655187
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Dilek Funda Kurtuluş · YÖK: 655187
 [Download Thesis (PDF)](/files/theses/Murvet_Bektas_MS_Thesis_2020.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [One-Way FSI Analysis of Bio-Inspired Flapping Wings](/publication/2020-ijsa-one-way-fsi-bio-inspired/)
 
 ---
-### Eda Gök — M.S.
+### Eda Gök — M.S. — TOBB University of Economics and Technology, 2020
 
-TOBB University of Economics and Technology, 2020  
-**Thesis:** *Investigation of Damage Behavior in Composite Materials under Mode I and Mode II Loads Using Peridynamic Theory*
+*Investigation of Damage Behavior in Composite Materials under Mode I and Mode II Loads Using Peridynamic Theory*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 654936
-
+Supervisor: Mehmet A. Güler · YÖK: 654936
 [Download Thesis (PDF)](/files/theses/Eda_Gok_MS_Thesis_2020.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Crack Propagation in the Double Cantilever Beam Using Peridynamic Theory](/publication/2022-compstruct-crack-propagation-double-cantilever-beam/)
 
 ---
-### Burak Yılmaz — M.S.
+### Burak Yılmaz — M.S. — TOBB University of Economics and Technology, 2019
 
-TOBB University of Economics and Technology, 2019  
-**Thesis:** *Application of Multi-Fidelity Modeling Technique on Crash Analyses*
+*Application of Multi-Fidelity Modeling Technique on Crash Analyses*
 
-**Role:** Supervisor · **Co-Supervisor:** Erdem Acar · **YÖK Thesis No.:** 650659
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Erdem Acar · YÖK: 650659
 [Download Thesis (PDF)](/files/theses/Burak_Yilmaz_MS_Thesis_2019.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Multi-Fidelity Crashworthiness Optimization of a Bus Bumper System under Frontal Impact](/publication/2020-jbsmse-multi-fidelity-crashworthiness-optimization-bus/)
 
 ---
-### Alireza Seyedi — M.S.
+### Alireza Seyedi — M.S. — Hacettepe University, 2019
 
-Hacettepe University, 2019  
-**Thesis:** *Design and Optimization for Body and Chassis of New Tram with Finite Element Method under Static, Dynamic and Collision Loads*
+*Design and Optimization for Body and Chassis of New Tram with Finite Element Method under Static, Dynamic and Collision Loads*
 
-**Role:** Co-Supervisor · **Supervisor:** Bora Yıldırım · **YÖK Thesis No.:** 593759
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Bora Yıldırım · YÖK: 593759
 [Download Thesis (PDF)](/files/theses/Alireza_Seyedi_MS_Thesis_2019.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Fatigue Life Estimation of Welded Connections in a Tram Vehicle](/publication/2022-ijhvs-fatigue-life-estimation-welded-connections/)
 
 ---
-### Barış Mehmet Zeytinci — M.S.
+### Barış Mehmet Zeytinci — M.S. — TOBB University of Economics and Technology, 2019
 
-TOBB University of Economics and Technology, 2019  
-**Thesis:** *Investigation of the Effect of the Ring Type Stiffeners on the Vierendeel Mechanism of Perforated Beams under Bending*
+*Investigation of the Effect of the Ring Type Stiffeners on the Vierendeel Mechanism of Perforated Beams under Bending*
 
-**Role:** Supervisor · **Co-Supervisor:** Mehmet Şahin · **YÖK Thesis No.:** 574532
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Mehmet Şahin · YÖK: 574532
 [Download Thesis (PDF)](/files/theses/Baris_Mehmet_Zeytinci_MS_Thesis_2019.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [A Practical Design Formulation for Perforated Beams with Openings Strengthened with Ring Type Stiffeners Subject to Vierendeel Actions](/publication/2021-jbe-practical-design-formulation-perforated-beams/)
 
 ---
-### Emre Özaslan — M.S.
+### Emre Özaslan — M.S. — TOBB University of Economics and Technology, 2019
 
-TOBB University of Economics and Technology, 2019  
-**Thesis:** *Investigation of Mechanical Strength of Open Hole Composite Plates with Finite Element Method*
+*Investigation of Mechanical Strength of Open Hole Composite Plates with Finite Element Method*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 547059
-
+Supervisor: Mehmet A. Güler · YÖK: 547059
 [Download Thesis (PDF)](/files/theses/Emre_Ozaslan_MS_Thesis_2019.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Stress Analysis and Strength Prediction of Composite Laminates with Two Interacting Holes](/publication/2019-compstruct-stress-strength-composite-laminates-two/)
 - [Damage Mode Identification of Open Hole Composite Laminates Based on Acoustic Emission and Digital Image Correlation Methods](/publication/2021-compstruct-damage-mode-identification-open-hole/)
 
 ---
-### Fatih Can — M.S.
+### Fatih Can — M.S. — TOBB University of Economics and Technology, 2018
 
-TOBB University of Economics and Technology, 2018  
-**Thesis:** *Flow Controller Design for Joule-Thomson Type Cryocooler*
+*Flow Controller Design for Joule-Thomson Type Cryocooler*
 
-**Role:** Co-Supervisor · **Supervisor:** Murat Kadri Aktaş · **YÖK Thesis No.:** 498482
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Murat Kadri Aktaş · YÖK: 498482
 [Download Thesis (PDF)](/files/theses/Fatih_Can_MS_Thesis_2018.pdf)
 
 ---
-### Arif Emre Örün — M.S.
+### Arif Emre Örün — M.S. — TOBB University of Economics and Technology, 2017
 
-TOBB University of Economics and Technology, 2017  
-**Thesis:** *Effect of Hole Reinforcement on Buckling Behaviour under Combined Loads for a Beam Structure*
+*Effect of Hole Reinforcement on Buckling Behaviour under Combined Loads for a Beam Structure*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 459543
-
+Supervisor: Mehmet A. Güler · YÖK: 459543
 [Download Thesis (PDF)](/files/theses/Arif_Emre_Orun_MS_Thesis_2017.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Effect of Hole Reinforcement on the Buckling Behaviour of Thin-Walled Beams Subjected to Combined Loading](/publication/2017-tws-hole-reinforcement-buckling-thin-walled/)
 
 ---
-### Nahide Tüten — M.S.
+### Nahide Tüten — M.S. — TOBB University of Economics and Technology, 2016
 
-TOBB University of Economics and Technology, 2016  
-**Thesis:** *Weight Optimization and Reliability Prediction of an Automobile Torque Arm Subjected to Cyclic Loading*
+*Weight Optimization and Reliability Prediction of an Automobile Torque Arm Subjected to Cyclic Loading*
 
-**Role:** Co-Supervisor · **Supervisor:** Erdem Acar · **YÖK Thesis No.:** 436168
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Erdem Acar · YÖK: 436168
 [Download Thesis (PDF)](/files/theses/Nahide_Tuten_MS_Thesis_2016.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Design Optimization of an Automobile Torque Arm Using Global and Successive Surrogate Modeling Approaches](/publication/2019-jae-design-optimization-automobile-torque-arm/)
 
 ---
-### Korhan Babacan Yılmaz — M.S.
+### Korhan Babacan Yılmaz — M.S. — Hacettepe University, 2016
 
-Hacettepe University, 2016  
-**Thesis:** *Finite Element Analysis of Contact Mechanics of Rigid Punches Sliding over a Graded Orthotropic Medium*
+*Finite Element Analysis of Contact Mechanics of Rigid Punches Sliding over a Graded Orthotropic Medium*
 
-**Role:** Co-Supervisor · **Supervisor:** Bora Yıldırım · **YÖK Thesis No.:** 430898
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: Bora Yıldırım · YÖK: 430898
 [Download Thesis (PDF)](/files/theses/Korhan_Babacan_Yilmaz_MS_Thesis_2016.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [On the Analytical and Finite Element Solution of Plane Contact Problem of a Rigid Cylindrical Punch Sliding over a Functionally Graded Orthotropic Medium](/publication/2017-ijms-fea-plane-contact-rigid-cylindrical/)
 - [Frictional Receding Contact Problem for a Graded Bilayer System Indented by a Rigid Punch](/publication/2018-ijms-frictional-receding-contact-graded-bilayer/)
@@ -276,131 +257,119 @@ Hacettepe University, 2016
 - [Analytical and Finite Element Solution of the Sliding Frictional Contact Problem for a Homogeneous Orthotropic Coating-Isotropic Substrate System](/publication/2019-zamm-fea-sliding-frictional-contact-homogeneous/)
 
 ---
-### Ahmet Taştan — M.S.
+### Ahmet Taştan — M.S. — TOBB University of Economics and Technology, 2016
 
-TOBB University of Economics and Technology, 2016  
-**Thesis:** *Development of a Method to Predict Strength and Failure of Isotropic and Composite Structures under Tension and Bending Loadings Using Bond-Based Peridynamic Theory*
+*Development of a Method to Predict Strength and Failure of Isotropic and Composite Structures under Tension and Bending Loadings Using Bond-Based Peridynamic Theory*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 427890
-
+Supervisor: Mehmet A. Güler · YÖK: 427890
 [Download Thesis (PDF)](/files/theses/Ahmet_Tastan_MS_Thesis_2016.pdf)
 
 ---
-### Oğuzhan Mülkoğlu — M.S.
+### Oğuzhan Mülkoğlu — M.S. — TOBB University of Economics and Technology, 2016
 
-TOBB University of Economics and Technology, 2016  
-**Thesis:** *Optimization of the Mechanical Structure of a Dishwasher and Its Packaging Module Using Finite Element Method*
+*Optimization of the Mechanical Structure of a Dishwasher and Its Packaging Module Using Finite Element Method*
 
-**Role:** Supervisor · **Co-Supervisor:** Erdem Acar · **YÖK Thesis No.:** 427879
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Erdem Acar · YÖK: 427879
 [Download Thesis (PDF)](/files/theses/Oguzhan_Mulkoglu_MS_Thesis_2016.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Drop Test Simulation and Surrogate-Based Optimization of a Dishwasher Mechanical Structure and Its Packaging Module](/publication/2017-smo-drop-test-simulation-surrogate-optimization/)
 
 ---
-### Tuğçe Kiper — M.S.
+### Tuğçe Kiper — M.S. — Gazi University, 2015
 
-Gazi University, 2015  
-**Thesis:** *Analysis of Bird Strike Effects on the Wing of a Training Aircraft*
+*Analysis of Bird Strike Effects on the Wing of a Training Aircraft*
 
-**Role:** Co-Supervisor · **Supervisor:** İbrahim Uslan · **YÖK Thesis No.:** 416989
-
+Co-Supervisor: Mehmet A. Güler · Supervisor: İbrahim Uslan · YÖK: 416989
 [Download Thesis (PDF)](/files/theses/Tugce_Kiper_MS_Thesis_2015.pdf)
 
 ---
-### Osman Murat Bircan — M.S.
+### Osman Murat Bircan — M.S. — TOBB University of Economics and Technology, 2014
 
-TOBB University of Economics and Technology, 2014  
-**Thesis:** *An Analytical Approach to Design Form-Turning Insert Profiles: Investigation of Rake Face Design on Tool Life*
+*An Analytical Approach to Design Form-Turning Insert Profiles: Investigation of Rake Face Design on Tool Life*
 
-**Role:** Supervisor · **Co-Supervisor:** Yiğit Karpat · **YÖK Thesis No.:** 371101
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Yiğit Karpat · YÖK: 371101
 [Download Thesis (PDF)](/files/theses/Osman_Murat_Bircan_MS_Thesis_2014.pdf)
 
 ---
-### Ahmed Talha Camcı — M.S.
+### Ahmed Talha Camcı — M.S. — TOBB University of Economics and Technology, 2013
 
-TOBB University of Economics and Technology, 2013  
-**Thesis:** *Improvements on the Range and the Performance of a Light Electric Vehicle by Making Use of a Continuously Variable Transmission*
+*Improvements on the Range and the Performance of a Light Electric Vehicle by Making Use of a Continuously Variable Transmission*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 350340
-
+Supervisor: Mehmet A. Güler · YÖK: 350340
 [Download Thesis (PDF)](/files/theses/Ahmed_Talha_Camci_MS_Thesis_2013.pdf)
 
 ---
-### Fırat Özer — M.S.
+### Fırat Özer — M.S. — TOBB University of Economics and Technology, 2011
 
-TOBB University of Economics and Technology, 2011  
-**Thesis:** *Accurate Prediction and Compensation of Springback in Advanced High Strength Steels after Sheet Metal Forming Operations*
+*Accurate Prediction and Compensation of Springback in Advanced High Strength Steels after Sheet Metal Forming Operations*
 
-**Role:** Supervisor · **Co-Supervisor:** İstemi Barış Özsoy · **YÖK Thesis No.:** 302421
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: İstemi Barış Özsoy · YÖK: 302421
 [Download Thesis (PDF)](/files/theses/Firat_Ozer_MS_Thesis_2011.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Springback Prediction of DP600 Steels for Various Material Models](/publication/2010-sri-springback-dp600-steels-various-material/)
 - [Robust Springback Optimization of a Dual Phase Steel Seven-Flange Die Assembly](/publication/2012-smo-robust-springback-optimization-dual-phase/)
 - [Analyzing Batch-to-Batch and Part-to-Part Springback Variation of DP600 Steels Using a Double-Loop Monte Carlo Simulation](/publication/2012-jem-analyzing-batch-part-springback-variation/)
 
 ---
-### Deniz Bekar — M.S.
+### Deniz Bekar — M.S. — TOBB University of Economics and Technology, 2011
 
-TOBB University of Economics and Technology, 2011  
-**Thesis:** *Robust Optimization of Springback in Dual Phase Steels During Sheet Metal Forming Operations*
+*Robust Optimization of Springback in Dual Phase Steels During Sheet Metal Forming Operations*
 
-**Role:** Supervisor · **Co-Supervisor:** Erdem Acar · **YÖK Thesis No.:** 292827
-
+Supervisor: Mehmet A. Güler · Co-Supervisor: Erdem Acar · YÖK: 292827
 [Download Thesis (PDF)](/files/theses/Deniz_Bekar_MS_Thesis_2011.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Robust Springback Optimization of a Dual Phase Steel Seven-Flange Die Assembly](/publication/2012-smo-robust-springback-optimization-dual-phase/)
 - [Analyzing Batch-to-Batch and Part-to-Part Springback Variation of DP600 Steels Using a Double-Loop Monte Carlo Simulation](/publication/2012-jem-analyzing-batch-part-springback-variation/)
 - [Investigation and Prediction of Springback in Rotary-Draw Tube Bending Process Using Finite Element Method](/publication/2012-journal-springback-rotary-draw-tube-bending/)
 
 ---
-### Levent Sözen — M.S.
+### Levent Sözen — M.S. — TOBB University of Economics and Technology, 2011
 
-TOBB University of Economics and Technology, 2011  
-**Thesis:** *Prediction of Springback Occurrence after Tube Bending Operation*
+*Prediction of Springback Occurrence after Tube Bending Operation*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 292829
-
+Supervisor: Mehmet A. Güler · YÖK: 292829
 [Download Thesis (PDF)](/files/theses/Levent_Sozen_MS_Thesis_2011.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Investigation and Prediction of Springback in Rotary-Draw Tube Bending Process Using Finite Element Method](/publication/2012-journal-springback-rotary-draw-tube-bending/)
 
 ---
-### Muhammed Emin Cerit — M.S.
+### Muhammed Emin Cerit — M.S. — TOBB University of Economics and Technology, 2011
 
-TOBB University of Economics and Technology, 2011  
-**Thesis:** *Development of a Passive Safety System for the Frontal Crash Energy Absorption in Accidents Involving Intercity Buses*
+*Development of a Passive Safety System for the Frontal Crash Energy Absorption in Accidents Involving Intercity Buses*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 289965
-
+Supervisor: Mehmet A. Güler · YÖK: 289965
 [Download Thesis (PDF)](/files/theses/Muhammed_Emin_Cerit_MS_Thesis_2011.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [The Effect of Geometrical Parameters on the Energy Absorption Characteristics of Thin-Walled Structures under Axial Impact Loading](/publication/2010-ijcrash-geometrical-parameters-energy-absorption-thin/)
 - [Multi-Objective Crashworthiness Optimization of Tapered Thin-Walled Tubes with Axisymmetric Indentations](/publication/2011-tws-multi-objective-crashworthiness-optimization-tapered/)
 - [Experimental and Numerical Study on the Crashworthiness Evaluation of an Intercity Coach under Frontal Impact Conditions](/publication/2020-jae-crashworthiness-intercity-coach-frontal-impact/)
 
 ---
-### Yusuf Fuat Gülver — M.S.
+### Yusuf Fuat Gülver — M.S. — TOBB University of Economics and Technology, 2009
 
-TOBB University of Economics and Technology, 2009  
-**Thesis:** *Mechanical Modeling of Thin Films Bonded to Functionally Graded Materials*
+*Mechanical Modeling of Thin Films Bonded to Functionally Graded Materials*
 
-**Role:** Supervisor · **YÖK Thesis No.:** 244730
-
+Supervisor: Mehmet A. Güler · YÖK: 244730
 [Download Thesis (PDF)](/files/theses/Yusuf_Fuat_Gulver_MS_Thesis_2009.pdf)
 
-#### Related Publications
+
+**Related Publications:**
 
 - [Contact Analysis of Thin Films Bonded to Graded Coatings](/publication/2012-ijms-contact-thin-films-bonded-graded/)
+
+---
