@@ -47,3 +47,9 @@
     display: block !important;
   }
 }
+/* Make horizontal separators between thesis entries more visible */
+.page__content hr {
+  border: 0;
+  border-top: 1px solid #b8b8b8;
+  margin: 1.5em 0;
+}
