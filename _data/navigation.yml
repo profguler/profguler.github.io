@@ -11,11 +11,11 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
-
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Research"
+    url: /research/
 
   - title: "Projects"
     url: /projects/
