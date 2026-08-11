@@ -47,9 +47,12 @@
     display: block !important;
   }
 }
-/* Make horizontal separators between thesis entries more visible */
-.page__content hr {
-  border: 0;
-  border-top: 1px solid #b8b8b8;
-  margin: 1.5em 0;
+/* Separator between graduate thesis entries */
+hr.thesis-separator {
+  display: block !important;
+  height: 1px !important;
+  border: 0 !important;
+  background-color: #a8a8a8 !important;
+  margin: 1.6em 0 1.6em 0 !important;
+  opacity: 1 !important;
 }
