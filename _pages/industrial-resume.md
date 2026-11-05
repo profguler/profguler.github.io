@@ -9,7 +9,7 @@ author_profile: true
   <p style="color:#555;line-height:1.6;">Structural Analysis • Fatigue &amp; Failure Assessment • Nonlinear FEA • Thermal-Structural Analysis • Crashworthiness</p>
   <p>Mechanical engineer with extensive industrial, consulting, and R&amp;D experience translating complex engineering problems into validated computational models. My work spans structural integrity, finite element analysis, failure-critical component assessment, fatigue and durability, and simulation-driven design. I have worked on industrial equipment, turbomachinery, automotive and heavy-equipment structures, and welded components.</p>
   <p><strong>Based in Christiansburg, Virginia, USA.</strong> U.S. permanent resident; authorized to work in the United States without sponsorship.</p>
-  <p><a href="{{ '/files/cv/Mehmet_A_Guler_Industrial_Resume.pdf' | relative_url }}" style="display:inline-block;padding:0.7rem 1.2rem;border-radius:999px;background:#2c7fa8;color:white;text-decoration:none;font-weight:600;">Download Industrial Résumé (PDF)</a></p>
+  <p><a href="{{ '/files/cv/Mehmet_A_Guler_Industrial_Resume.pdf' | relative_url }}" style="display:inline-block;padding:0.7rem 1.2rem;border-radius:999px;background:#2c7fa8;color:white;text-decoration:none;font-weight:600;">Download Industrial Resume (PDF)</a></p>
 </div>
 
 ## Technical Expertise
