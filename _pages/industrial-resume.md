@@ -1,6 +1,6 @@
 ---
 permalink: /industrial-resume/
-title: "Industrial Résumé"
+title: "Industrial Resume"
 author_profile: true
 ---
 
