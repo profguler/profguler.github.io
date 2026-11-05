@@ -103,7 +103,7 @@ Computational Mechanics • Structural FEA (ANSYS, LS-DYNA, Abaqus) • Nonlinea
 <div class="home-button-grid">
 
 <a class="home-button" href="/industrial-resume/">
-Industrial Résumé
+Industrial Resume
 </a>
 
 <a class="home-button" href="/projects/">
