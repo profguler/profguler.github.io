@@ -33,19 +33,15 @@ TOBB University of Economics and Technology, Ankara, Turkey
 
 **Ph.D., Mechanical Engineering**  
 Lehigh University, Bethlehem, Pennsylvania, USA  
-2001
 
 **M.S., Mechanical Engineering**  
 Lehigh University, Bethlehem, Pennsylvania, USA  
-1996
 
 **M.S., Computer Technology in Manufacturing**  
 University of Sussex, Brighton, United Kingdom  
-1991
 
 **B.S., Mechanical Engineering**  
 Middle East Technical University, Ankara, Turkey  
-1990
 
 ---
 
